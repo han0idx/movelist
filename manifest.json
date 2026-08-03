@@ -1,22 +1,22 @@
 {
   "assets": {
     "file": "assets.zip",
-    "hash": "e5876f450ddea147f734fa86f9e294d6c4c74e90789ecea8f0191369dd8870ca"
+    "hash": "bc6c197007abe454577cc35a11f98782e55da7ee967313ec99cb4d6ebe540d41"
   },
   "packages": {
     "cybots": {
       "file": "cybots.zip",
-      "hash": "3b8dd4a06479346bbe240b04e3a10c67d263c8c060e2502278d88fd567a716f8",
+      "hash": "22c8f219733742710e9611f9576662bea5b0b21dc60aaac8f17ceccf999f1b2c",
       "parent": true
     },
     "garou": {
       "file": "garou.zip",
-      "hash": "aaa6debcf60bdb184d39e5c4e882008d3a90c10a112b4c97ae7e2287dd152127",
+      "hash": "0651451f91d93ab42ec3db2700e009b292cb48472c05175397ae51b0d1f3f6a9",
       "parent": true
     },
     "jojoba": {
       "file": "jojoba.zip",
-      "hash": "8ff6d73f35bd70dbf47c95267775efe3b68243886e62ca57a8c2c0eddd0323df",
+      "hash": "b83b9f8a05debd56c626ece6b1ef5a5265a8a925136c1976637661dbc41c356b",
       "parent": false,
       "roms": [
         "jojoban",
@@ -25,7 +25,7 @@
     },
     "kof2002": {
       "file": "kof2002.zip",
-      "hash": "91020700d9293e8b0d233cf466f6798c1323d8b84f3aaa236c480c2c42cf2134",
+      "hash": "5c3935934c940209adcf02bce5af8cf6328b9a812daa4b33813bcefba28b8691",
       "parent": false,
       "roms": [
         "kf2k2mp2",
@@ -35,47 +35,37 @@
     },
     "lb2": {
       "file": "lb2.zip",
-      "hash": "ea9206b92554b62588ce785416bb4a9b448e8412d6f03c238bea52d46149621d",
+      "hash": "268c421e1912175bea527c9afbf25357480a76713e5e228d185bbdece73f202f",
       "parent": true
     },
     "mvsc": {
       "file": "mvsc.zip",
-      "hash": "01fa9f9787cda1fe15853881967902a006142a8ab182bfc2ae4cd5ff19e910b8",
+      "hash": "9c7e005881ae070ad603690aa1546ab5040234b4c68c064a94408be870d731df",
       "parent": true
     },
     "samsho2": {
       "file": "samsho2.zip",
-      "hash": "5231cbd287e7b26bc9340f847997d9703ef66503a63c79cb8a2a895c395e0b12",
+      "hash": "07d97304fcf9eef38f37066a932927383e8586592f41474c4200898ed06a82d0",
       "parent": true
     },
     "sf2ce": {
       "file": "sf2ce.zip",
-      "hash": "375fdf3a4ae74df1037acac69a939faa69dd6a35bf406dc8e002c7180080d42c",
+      "hash": "216b998d503233a29d8581c6cc9d8445af734b29c3b724a754541af8f1a14891",
       "parent": true
     },
     "sfa2": {
       "file": "sfa2.zip",
-      "hash": "979f198710813646944b20949648fa20adc8a07bdd0472931e31a07477244fc6",
+      "hash": "91b4431f934207ef0be28328ab8937279f7b1e7c60b7950614cd8f64004d2ccc",
       "parent": true
-    },
-    "sfiii3": {
-      "file": "sfiii3.zip",
-      "hash": "0068753132099c28f38e7f9c4fdb3a4668b53d5e685d403bc1f66495b55fdb96",
-      "parent": false,
-      "roms": [
-        "sfiii3n",
-        "sfiii3nr1",
-        "sfiii3r1"
-      ]
     },
     "ssf2t": {
       "file": "ssf2t.zip",
-      "hash": "131e28fb286efe087d33281805413eea1b6604a57c3aff8482da1aacb0bfd3bf",
+      "hash": "b29e05dae2d3ff0349db478d8ec61d6740185218da3be5b1fa8494f1d33e719b",
       "parent": true
     },
     "vsav": {
       "file": "vsav.zip",
-      "hash": "288fc49fa8f950c64d820610c37c65836875ef83894c2c9b0c3897be13f334f5",
+      "hash": "db95d43b2ed6e16503315ab95aa4386d3d706b3685ca3129384952371f54adae",
       "parent": false,
       "roms": [
         "vsavj"
@@ -83,8 +73,13 @@
     },
     "wakuwak7": {
       "file": "wakuwak7.zip",
-      "hash": "329ef5d64af1e11c7ab0437582aae6f9af4d6c1c42c10818ac941557ab397c5a",
+      "hash": "177df37b6d708e28c73797f7f639adb769e92db1a17f874a5fbb306a2a9b266a",
       "parent": true
+    },
+    "sfIII3": {
+      "file": "sfIII3.zip",
+      "hash": "8cdbff69da24a56845b8fd1ae52188b39e9f2892aadbd6040c84e23281f127a6",
+      "parent": false
     }
   }
 }
