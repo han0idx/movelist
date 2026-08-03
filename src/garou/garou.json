@@ -1,0 +1,2476 @@
+{
+  "name": "garou",
+  "title": "Garou: Mark of the Wolves",
+  "image": null,
+  "characters": [
+    {
+      "name": "Basic Moves",
+      "moves": [
+        {
+          "name": "",
+          "type": "special",
+          "notation": "weak {p} (indicated as {a})",
+          "notes": ""
+        },
+        {
+          "name": "",
+          "type": "special",
+          "notation": "weak {k} (indicated as {b})",
+          "notes": ""
+        },
+        {
+          "name": "",
+          "type": "special",
+          "notation": "strong {p} (indicated as {c})",
+          "notes": ""
+        },
+        {
+          "name": "",
+          "type": "special",
+          "notation": "strong {k} (indicated as {d})",
+          "notes": ""
+        },
+        {
+          "name": "",
+          "type": "special",
+          "notation": "Dash/Run",
+          "notes": ""
+        },
+        {
+          "name": "close, +",
+          "type": "special",
+          "notation": "Throw",
+          "notes": ""
+        },
+        {
+          "name": "",
+          "type": "special",
+          "notation": "Back Dash",
+          "notes": ""
+        },
+        {
+          "name": "Start",
+          "type": "special",
+          "notation": "Taunt",
+          "notes": ""
+        },
+        {
+          "name": "(right before being attacked)",
+          "type": "special",
+          "notation": "Just Defend",
+          "notes": ""
+        },
+        {
+          "name": "++ or ++",
+          "type": "special",
+          "notation": "Feint Moves",
+          "notes": ""
+        },
+        {
+          "name": ", ,  or  (while on the ground)",
+          "type": "special",
+          "notation": "Rolling",
+          "notes": ""
+        },
+        {
+          "name": "+",
+          "type": "special",
+          "notation": "Low Evasion Attack",
+          "notes": ""
+        },
+        {
+          "name": "++",
+          "type": "special",
+          "notation": "High Evasion Attack",
+          "notes": ""
+        },
+        {
+          "name": "+ during certain special moves",
+          "type": "special",
+          "notation": "Break Moves",
+          "notes": ""
+        }
+      ],
+      "id": "basic_moves",
+      "image": null
+    },
+    {
+      "name": "B. Jenet",
+      "moves": [
+        {
+          "name": "Bye-Bye Booバイバイプー",
+          "type": "throw",
+          "notation": "(close) {back} or {forward}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Falling Crushフォーリンクラッシュ",
+          "type": "throw",
+          "notation": "(close) {air} {down}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Bye-Bye Booバイバイプー",
+          "type": "throw",
+          "notation": "(close) {back} or {forward}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Falling Crushフォーリンクラッシュ",
+          "type": "throw",
+          "notation": "(close) {air} {down}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Rolling Thunderローリングサンダー",
+          "type": "top",
+          "notation": "{c}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Super Jumpスーパージャンプ",
+          "type": "command",
+          "notation": "{down}{up}",
+          "notes": ""
+        },
+        {
+          "name": "Buffrassバッフルズ",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Crazy Ivanクレイジーイワン",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "The Hindディ ・ハインド",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Buffrassバッフルズ",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Crazy Ivanクレイジーイワン",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "The Hindディ ・ハインド",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Gulf Tomahawkガルフトマホーク",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Harrier Beeハリア・ビー",
+          "type": "special",
+          "notation": "{air} {down}+{k}{tap}",
+          "notes": ""
+        },
+        {
+          "name": "Gulf Tomahawkガルフトマホーク",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Harrier Beeハリア・ビー",
+          "type": "special",
+          "notation": "{air} {down}+{k}{tap}",
+          "notes": ""
+        },
+        {
+          "name": "Many Many Torpedoesメニメニトーピードゥ",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Auroraオーロラ",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Many Many Torpedoesメニメニトーピードゥ",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Auroraオーロラ",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Many Many Torpedoesメニメニトーピードゥ",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Auroraオーロラ",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Ennui Mademoiselleアンニュイ・マドモアゼル",
+          "type": "super",
+          "notation": "(after Just Defence){a} • {b} • {c}",
+          "notes": ""
+        },
+        {
+          "name": "Many Many Torpedoesメニメニトーピードゥ",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Auroraオーロラ",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Ennui Mademoiselleアンニュイ・マドモアゼル",
+          "type": "super",
+          "notation": "(after Just Defence){a} • {b} • {c}",
+          "notes": ""
+        }
+      ],
+      "id": "b_jenet",
+      "image": "images/Portrait_GarouMOTW_B_Jenet.png"
+    },
+    {
+      "name": "Freeman",
+      "moves": [
+        {
+          "name": "Gorefestフリーマン",
+          "type": "throw",
+          "notation": "(close) {back} or {forward}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Overkillオーヴァーキル",
+          "type": "top",
+          "notation": "{c}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Nightmareナイトメア",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Phobiaフォビア",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Crowクロウ",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Nightmareナイトメア",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Phobiaフォビア",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Crowクロウ",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "V.O.D.",
+          "type": "special",
+          "notation": "(perform 3x) {qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Morbid Angelモービッドエンジェル",
+          "type": "special",
+          "notation": "{hcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "V.O.D.",
+          "type": "special",
+          "notation": "(perform 3x) {qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Morbid Angelモービッドエンジェル",
+          "type": "special",
+          "notation": "{hcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Full Blastフルブラスト",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Creeping Deathクリーピングデス",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Full Blastフルブラスト",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Creeping Deathクリーピングデス",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Full Blastフルブラスト",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Creeping Deathクリーピングデス",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Full Blastフルブラスト",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Creeping Deathクリーピングデス",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{d}",
+          "notes": ""
+        }
+      ],
+      "id": "freeman",
+      "image": "images/Portrait_GarouMOTW_Freeman.png"
+    },
+    {
+      "name": "Gato",
+      "moves": [
+        {
+          "name": "Dai-En Shin(大遠心)",
+          "type": "throw",
+          "notation": "(close) {back} or {forward}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Dan-Zetsu Tai(断絶腿)",
+          "type": "throw",
+          "notation": "(close) {back} or {forward}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Dai-En Shin(大遠心)",
+          "type": "throw",
+          "notation": "(close) {back} or {forward}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Dan-Zetsu Tai(断絶腿)",
+          "type": "throw",
+          "notation": "(close) {back} or {forward}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Mouko Kou Hazan(猛虎硬爬山)",
+          "type": "top",
+          "notation": "{c}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Sai Gaku (砕顎)",
+          "type": "command",
+          "notation": "{forward}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Muran Geri (無乱蹴り)",
+          "type": "command",
+          "notation": "{forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Kuuchuu Furi Muki(空中振り向き)",
+          "type": "command",
+          "notation": "{air} {c}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Sai Gaku (砕顎)",
+          "type": "command",
+          "notation": "{forward}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Muran Geri (無乱蹴り)",
+          "type": "command",
+          "notation": "{forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Kuuchuu Furi Muki(空中振り向き)",
+          "type": "command",
+          "notation": "{air} {c}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Shin-Ga (震牙)",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "└►Totsu-Ga (突牙)",
+          "type": "special",
+          "notation": "{forward}{forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Houzan Sai Heki-Ga(崩山砕壁牙)",
+          "type": "special",
+          "notation": "{charge_down_up}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Rai-Ga (雷牙)",
+          "type": "special",
+          "notation": "{dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Shin-Ga (震牙)",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "└►Totsu-Ga (突牙)",
+          "type": "special",
+          "notation": "{forward}{forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Houzan Sai Heki-Ga(崩山砕壁牙)",
+          "type": "special",
+          "notation": "{charge_down_up}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Rai-Ga (雷牙)",
+          "type": "special",
+          "notation": "{dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Fuu-Ga (風牙)",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "├►Kou-Ga (孔牙)",
+          "type": "special",
+          "notation": "{a}",
+          "notes": ""
+        },
+        {
+          "name": "├►Sen-Ga (旋牙)",
+          "type": "special",
+          "notation": "{b}",
+          "notes": ""
+        },
+        {
+          "name": "├►Kyuu-Ga (弓牙)",
+          "type": "special",
+          "notation": "{c}",
+          "notes": ""
+        },
+        {
+          "name": "└►Katsu-Ga (滑牙)",
+          "type": "special",
+          "notation": "{d}",
+          "notes": ""
+        },
+        {
+          "name": "Fuu-Ga (風牙)",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "├►Kou-Ga (孔牙)",
+          "type": "special",
+          "notation": "{a}",
+          "notes": ""
+        },
+        {
+          "name": "├►Sen-Ga (旋牙)",
+          "type": "special",
+          "notation": "{b}",
+          "notes": ""
+        },
+        {
+          "name": "├►Kyuu-Ga (弓牙)",
+          "type": "special",
+          "notation": "{c}",
+          "notes": ""
+        },
+        {
+          "name": "└►Katsu-Ga (滑牙)",
+          "type": "special",
+          "notation": "{d}",
+          "notes": ""
+        },
+        {
+          "name": "Rei-Ga (零牙)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Ryuu-Ga (零牙)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Rei-Ga (零牙)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Ryuu-Ga (零牙)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Rei-Ga (零牙)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Ryuu-Ga (龍牙)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Tenryuu Retsu-Ga(天龍烈牙)",
+          "type": "super",
+          "notation": "(perform 3x){dp}+{a}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Rei-Ga (零牙)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Ryuu-Ga (龍牙)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Tenryuu Retsu-Ga(天龍烈牙)",
+          "type": "super",
+          "notation": "(perform 3x){dp}+{a}+{b}",
+          "notes": ""
+        }
+      ],
+      "id": "gato",
+      "image": "images/Portrait_GarouMOTW_Gato.png"
+    },
+    {
+      "name": "Grant",
+      "moves": [
+        {
+          "name": "Ankoku Otoshi(暗黒落とし)",
+          "type": "throw",
+          "notation": "(close) {back} or {forward}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Majin Gan (魔神岩)",
+          "type": "top",
+          "notation": "{c}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Ma-Heki (魔壁)",
+          "type": "command",
+          "notation": "{down_forward}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Kokuen-Ryuu (黒炎流)",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Kyou Chou-Jin (凶鳥刃)",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "└►Messhou Hisetsu (滅焼飛刹)",
+          "type": "special",
+          "notation": "{down}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Kokuen-Ryuu (黒炎流)",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Kyou Chou-Jin (凶鳥刃)",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "└►Messhou Hisetsu (滅焼飛刹)",
+          "type": "special",
+          "notation": "{down}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Messhou Hisetsu (滅焼飛刹)",
+          "type": "special",
+          "notation": "{air} {down}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Gou Dangai (豪弾劾)",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Gou Retsu-Shou (剛裂衝)",
+          "type": "special",
+          "notation": "{forward}{back}{forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Messhou Hisetsu (滅焼飛刹)",
+          "type": "special",
+          "notation": "{air} {down}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Gou Dangai (豪弾劾)",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Gou Retsu-Shou (剛裂衝)",
+          "type": "special",
+          "notation": "{forward}{back}{forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Majin Haten Dan(魔神破天弾)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Majin Engetsu Rin(魔神円月輪)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Majin Haten Dan(魔神破天弾)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Majin Engetsu Rin(魔神円月輪)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Majin Haten Dan(魔神破天弾)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Majin Engetsu Rin(魔神円月輪)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Majin Haten Dan(魔神破天弾)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Majin Engetsu Rin(魔神円月輪)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{d}",
+          "notes": ""
+        }
+      ],
+      "id": "grant",
+      "image": "images/Portrait_GarouMOTW_Grant.png"
+    },
+    {
+      "name": "Hokutomaru",
+      "moves": [
+        {
+          "name": "Hikkaki (引っ掻き)",
+          "type": "throw",
+          "notation": "(close) {back} or {forward}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Noumen Tsukuri(能面造り)",
+          "type": "throw",
+          "notation": "(close) {air} {down}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Hikkaki (引っ掻き)",
+          "type": "throw",
+          "notation": "(close) {back} or {forward}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Noumen Tsukuri(能面造り)",
+          "type": "throw",
+          "notation": "(close) {air} {down}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Ninpou Bakuen Jump(忍法爆炎じゃんぷ)",
+          "type": "top",
+          "notation": "{c}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Nidan Jump (二段ジャンプ)",
+          "type": "command",
+          "notation": "{air} {up}",
+          "notes": ""
+        },
+        {
+          "name": "Sliding (すらいでぃんぐ)",
+          "type": "command",
+          "notation": "{down_forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Kuuten Kyaku (空転蹴り)",
+          "type": "command",
+          "notation": "{down_forward}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Nidan Jump (二段ジャンプ)",
+          "type": "command",
+          "notation": "{air} {up}",
+          "notes": ""
+        },
+        {
+          "name": "Sliding (すらいでぃんぐ)",
+          "type": "command",
+          "notation": "{down_forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Kuuten Kyaku (空転蹴り)",
+          "type": "command",
+          "notation": "{down_forward}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Karakusa Giri (唐草斬り)",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Shuriken (手裏剣)",
+          "type": "special",
+          "notation": "{air} {qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Karakusa Giri (唐草斬り)",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Shuriken (手裏剣)",
+          "type": "special",
+          "notation": "{air} {qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Kuuha Dan (空破弾)",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Rakkazan Kyo(落下斬・虚)",
+          "type": "special",
+          "notation": "{air} {qcb}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Rakkazan Jitsu(落下斬・実)",
+          "type": "special",
+          "notation": "{air} {qcb}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Kuuha Dan (空破弾)",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Rakkazan Kyo(落下斬・虚)",
+          "type": "special",
+          "notation": "{air} {qcb}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Rakkazan Jitsu(落下斬・実)",
+          "type": "special",
+          "notation": "{air} {qcb}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Chou Hissatsu Shuriken(超必殺手裏剣)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Ougi • Chou HissatsuTatsumaki(奥義・超必殺竜巻)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Chou Hissatsu Shuriken(超必殺手裏剣)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Ougi • Chou HissatsuTatsumaki(奥義・超必殺竜巻)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Chou Bakuen Kunai(超爆炎苦無)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Kyuukyoku Ougi • ChouBakuen Tatsumaki(究極奥義・超爆炎竜巻)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Chou Bakuen Kunai(超爆炎苦無)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Kyuukyoku Ougi • ChouBakuen Tatsumaki(究極奥義・超爆炎竜巻)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{d}",
+          "notes": ""
+        }
+      ],
+      "id": "hokutomaru",
+      "image": "images/Portrait_GarouMOTW_Hokutomaru.png"
+    },
+    {
+      "name": "Hotaru Futaba",
+      "moves": [
+        {
+          "name": "Ten Raku Tou(天落投)",
+          "type": "throw",
+          "notation": "(close) {back} or {forward}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Han Ten Tou (反転投)",
+          "type": "throw",
+          "notation": "(close) {air} {down}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Ten Raku Tou(天落投)",
+          "type": "throw",
+          "notation": "(close) {back} or {forward}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Han Ten Tou (反転投)",
+          "type": "throw",
+          "notation": "(close) {air} {down}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Senkai En (旋回燕)",
+          "type": "top",
+          "notation": "{c}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Kuuchuu Furi Muki(空中振り向き)",
+          "type": "command",
+          "notation": "{air} {c}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Koushuu Da (高蹴打)",
+          "type": "command",
+          "notation": "{air} {down}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Kuuchuu Furi Muki(空中振り向き)",
+          "type": "command",
+          "notation": "{air} {c}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Koushuu Da (高蹴打)",
+          "type": "command",
+          "notation": "{air} {down}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Hakki Shou (発気掌)",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Rengeki Shuu (連撃蹴)",
+          "type": "special",
+          "notation": "{air} {qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Tenshin Shou (転身翔)",
+          "type": "special",
+          "notation": "{dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Hakki Shou (発気掌)",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Rengeki Shuu (連撃蹴)",
+          "type": "special",
+          "notation": "{air} {qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Tenshin Shou (転身翔)",
+          "type": "special",
+          "notation": "{dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Soushou Shin (双掌進)",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Shajou Tai (斜上腿)",
+          "type": "special",
+          "notation": "(close) {hcf}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Kobi Kyaku (虎尾脚)",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Soushou Shin (双掌進)",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Shajou Tai (斜上腿)",
+          "type": "special",
+          "notation": "(close) {hcf}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Kobi Kyaku (虎尾脚)",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Soushou Tenrenge(双掌天蓮華)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Tenshou Ranki (天翔乱姫)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Soushou Tenrenge(双掌天蓮華)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Tenshou Ranki (天翔乱姫)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Soushou Tenrenge(双掌天蓮華)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Tenshou Ranki (天翔乱姫)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Soushou Tenrenge(双掌天蓮華)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Tenshou Ranki (天翔乱姫)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{d}",
+          "notes": ""
+        }
+      ],
+      "id": "hotaru_futaba",
+      "image": "images/Portrait_GarouMOTW_Hotaru.png"
+    },
+    {
+      "name": "Kain R. Heinlein",
+      "moves": [
+        {
+          "name": "Schwarze Mondシュワルツモーント",
+          "type": "throw",
+          "notation": "(close) {back} or {forward}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Schwarze Stoßシュワルツシュトゥース",
+          "type": "top",
+          "notation": "{c}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Combination Attack",
+          "type": "command",
+          "notation": "{down}+{a}+{b} • {c}",
+          "notes": ""
+        },
+        {
+          "name": "Schwarze Flammeシュワルツフレイム",
+          "type": "special",
+          "notation": "{charge_back_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Schwarze Panzerシュワルツパンツァー",
+          "type": "special",
+          "notation": "{charge_back_forward}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Schwarze Lanzeシュワルツランツェ",
+          "type": "special",
+          "notation": "{charge_down_up}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Schwarze Flammeシュワルツフレイム",
+          "type": "special",
+          "notation": "{charge_back_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Schwarze Panzerシュワルツパンツァー",
+          "type": "special",
+          "notation": "{charge_back_forward}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Schwarze Lanzeシュワルツランツェ",
+          "type": "special",
+          "notation": "{charge_down_up}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Himmlische Atemヒムリッシュ・アーテム",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Himmlische Seeleヒムリッシュ・ゼーレ",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Himmlische Atemヒムリッシュ・アーテム",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Himmlische Seeleヒムリッシュ・ゼーレ",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Himmlische Atemヒムリッシュ・アーテム",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Himmlische Seeleヒムリッシュ・ゼーレ",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Himmlische Atemヒムリッシュ・アーテム",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Himmlische Seeleヒムリッシュ・ゼーレ",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{d}",
+          "notes": ""
+        }
+      ],
+      "id": "kain_r_heinlein",
+      "image": "images/Portrait_GarouMOTW_Kain.png"
+    },
+    {
+      "name": "Kevin Rian",
+      "moves": [
+        {
+          "name": "Poli-Throwポリスルー",
+          "type": "throw",
+          "notation": "(close) {back} or {forward}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Blast Chargeブラストチャージ",
+          "type": "top",
+          "notation": "{c}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Poli-Kickポリキック",
+          "type": "command",
+          "notation": "{forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Hell Rotorヘルローター",
+          "type": "special",
+          "notation": "{qcb}+{p} (hold)",
+          "notes": ""
+        },
+        {
+          "name": "Hell Arrestヘルアレスト",
+          "type": "special",
+          "notation": "(close) {hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Hell Snipeヘルスナイプ",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Hell Trapヘルトラップ",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Hell Rotorヘルローター",
+          "type": "special",
+          "notation": "{qcb}+{p} (hold)",
+          "notes": ""
+        },
+        {
+          "name": "Hell Arrestヘルアレスト",
+          "type": "special",
+          "notation": "(close) {hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Hell Snipeヘルスナイプ",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Hell Trapヘルトラップ",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Abide Mineアヴォイドマイン",
+          "type": "special",
+          "notation": "{qcb}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Creeperクリーパー",
+          "type": "special",
+          "notation": "{qcb}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "├►Low Attack",
+          "type": "special",
+          "notation": "{a}",
+          "notes": ""
+        },
+        {
+          "name": "├►Mid Attack",
+          "type": "special",
+          "notation": "{b}",
+          "notes": ""
+        },
+        {
+          "name": "└►Cancel",
+          "type": "special",
+          "notation": "{c}",
+          "notes": ""
+        },
+        {
+          "name": "Abide Mineアヴォイドマイン",
+          "type": "special",
+          "notation": "{qcb}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Creeperクリーパー",
+          "type": "special",
+          "notation": "{qcb}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "├►Low Attack",
+          "type": "special",
+          "notation": "{a}",
+          "notes": ""
+        },
+        {
+          "name": "├►Mid Attack",
+          "type": "special",
+          "notation": "{b}",
+          "notes": ""
+        },
+        {
+          "name": "└►Cancel",
+          "type": "special",
+          "notation": "{c}",
+          "notes": ""
+        },
+        {
+          "name": "Lucky Strikeラッキーストライク",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Gatling Freezerガトリングフリーザー",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Lucky Strikeラッキーストライク",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Gatling Freezerガトリングフリーザー",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Lucky Strikeラッキーストライク",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Gatling Freezerガトリングフリーザー",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Lucky Strikeラッキーストライク",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Gatling Freezerガトリングフリーザー",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{d}",
+          "notes": ""
+        }
+      ],
+      "id": "kevin_rian",
+      "image": "images/Portrait_GarouMOTW_Kevin.png"
+    },
+    {
+      "name": "Marco Rodrigues",
+      "moves": [
+        {
+          "name": "Kyokugen Zutsuki(極限頭突き)",
+          "type": "throw",
+          "notation": "(close) {back} or {forward}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Zanretsuken (暫烈拳)",
+          "type": "top",
+          "notation": "{c}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Kyokugen Hiji (極限肘)",
+          "type": "command",
+          "notation": "{forward}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Ko-ou Ken (虎煌拳)",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Ko Hou (虎咆)",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Jou-dan Harai (上段払い)",
+          "type": "special",
+          "notation": "{qcb}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Ge-dan Harai (下段払い)",
+          "type": "special",
+          "notation": "{qcb}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Ko-ou Ken (虎煌拳)",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Ko Hou (虎咆)",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Jou-dan Harai (上段払い)",
+          "type": "special",
+          "notation": "{qcb}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Ge-dan Harai (下段払い)",
+          "type": "special",
+          "notation": "{qcb}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Hien Shippu Kyaku(飛燕疾風脚)",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Ryuu-Sen Ken(龍閃拳)",
+          "type": "special",
+          "notation": "Hold {c} and release.",
+          "notes": ""
+        },
+        {
+          "name": "Ko-Sen Kyaku(虎閃脚)",
+          "type": "special",
+          "notation": "Hold {d} and release.",
+          "notes": ""
+        },
+        {
+          "name": "Hien Shippu Kyaku(飛燕疾風脚)",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Ryuu-Sen Ken(龍閃拳)",
+          "type": "special",
+          "notation": "Hold {c} and release.",
+          "notes": ""
+        },
+        {
+          "name": "Ko-Sen Kyaku(虎閃脚)",
+          "type": "special",
+          "notation": "Hold {d} and release.",
+          "notes": ""
+        },
+        {
+          "name": "Haou Shoukou Ken(覇王翔吼拳)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Kyokugen Ko Hou (極限虎咆)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Haou Shoukou Ken(覇王翔吼拳)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Kyokugen Ko Hou (極限虎咆)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Haou Shoukou Ken(覇王翔吼拳)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Kyokugen Ko Hou (極限虎咆)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Ryuuko Ranbu(龍虎乱舞)",
+          "type": "super",
+          "notation": "{qcf}{qcf}{qcf}+{c}({tap})",
+          "notes": ""
+        },
+        {
+          "name": "Haou Shoukou Ken(覇王翔吼拳)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Kyokugen Ko Hou (極限虎咆)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Ryuuko Ranbu(龍虎乱舞)",
+          "type": "super",
+          "notation": "{qcf}{qcf}{qcf}+{c}({tap})",
+          "notes": ""
+        }
+      ],
+      "id": "marco_rodrigues",
+      "image": null
+    },
+    {
+      "name": "Kim Dong Hwan",
+      "moves": [
+        {
+          "name": "Tai Otoshi(体落とし)",
+          "type": "throw",
+          "notation": "(close) {back} or {forward}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Tai Hineri (体捻り)",
+          "type": "throw",
+          "notation": "(close) {air} {down}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Tai Otoshi(体落とし)",
+          "type": "throw",
+          "notation": "(close) {back} or {forward}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Tai Hineri (体捻り)",
+          "type": "throw",
+          "notation": "(close) {air} {down}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Kaiten Dong Hwan(回転ドンファン)",
+          "type": "top",
+          "notation": "{c}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Super Jumpスーパージャンプ",
+          "type": "command",
+          "notation": "{down}{up}",
+          "notes": ""
+        },
+        {
+          "name": "Sankaku Tobi(三角飛び)",
+          "type": "command",
+          "notation": "(near wall) {air}{forward}",
+          "notes": ""
+        },
+        {
+          "name": "Ushiro-geri (後ろ蹴り)",
+          "type": "command",
+          "notation": "{air} {back}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Super Jumpスーパージャンプ",
+          "type": "command",
+          "notation": "{down}{up}",
+          "notes": ""
+        },
+        {
+          "name": "Sankaku Tobi(三角飛び)",
+          "type": "command",
+          "notation": "(near wall) {air}{forward}",
+          "notes": ""
+        },
+        {
+          "name": "Ushiro-geri (後ろ蹴り)",
+          "type": "command",
+          "notation": "{air} {back}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Raimei Zan (雷鳴斬)",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Kuu Sa Jin (空砂塵)",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Raimei Zan (雷鳴斬)",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Kuu Sa Jin (空砂塵)",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Hishou Kyaku (飛翔脚)",
+          "type": "special",
+          "notation": "{air} {down}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Shiden Kyaku (紫電脚)",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Ashi Binta (足ビンタ)",
+          "type": "special",
+          "notation": "{hcb}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Hishou Kyaku (飛翔脚)",
+          "type": "special",
+          "notation": "{air} {down}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Shiden Kyaku (紫電脚)",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Ashi Binta (足ビンタ)",
+          "type": "special",
+          "notation": "{hcb}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Super Dong HwanスーパードンファンKyaku (脚)",
+          "type": "super",
+          "notation": "{air} {qcf}{qcf}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Raimei Dan (雷鳴弾)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Super Dong HwanスーパードンファンKyaku (脚)",
+          "type": "super",
+          "notation": "{air} {qcf}{qcf}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Raimei Dan (雷鳴弾)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Super Dong HwanスーパードンファンKyaku (脚)",
+          "type": "super",
+          "notation": "{air} {qcf}{qcf}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Raimei Dan (雷鳴弾)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{d} (hold)",
+          "notes": ""
+        },
+        {
+          "name": "Ore-sama Houou Kyaku(オレ様鳳凰脚)",
+          "type": "super",
+          "notation": "{qcf}{qcf}{qcf}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Super Dong HwanスーパードンファンKyaku (脚)",
+          "type": "super",
+          "notation": "{air} {qcf}{qcf}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Raimei Dan (雷鳴弾)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{d} (hold)",
+          "notes": ""
+        },
+        {
+          "name": "Ore-sama Houou Kyaku(オレ様鳳凰脚)",
+          "type": "super",
+          "notation": "{qcf}{qcf}{qcf}+{c}",
+          "notes": ""
+        }
+      ],
+      "id": "kim_dong_hwan",
+      "image": "images/Portrait_GarouMOTW_Dong_Hwan.png"
+    },
+    {
+      "name": "Kim Jae Hoon",
+      "moves": [
+        {
+          "name": "Tai Otoshi(体落とし)",
+          "type": "throw",
+          "notation": "(close) {back} or {forward}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "High-Angle Neri-Chagiハイアングルネリチャギ",
+          "type": "top",
+          "notation": "{c}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Shou-Kyaku Hou (昇脚砲)",
+          "type": "command",
+          "notation": "{back}{back}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Hi En Zan (飛燕斬)",
+          "type": "special",
+          "notation": "{charge_down_up}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "└►Tenchuu Zan(↳派生技)",
+          "type": "special",
+          "notation": "({d} ver.) {down}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Hangetsu Zan (半月斬)",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Ryuusei Raku (流星落)",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Hi En Zan (飛燕斬)",
+          "type": "special",
+          "notation": "{charge_down_up}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "└►Tenchuu Zan(↳派生技)",
+          "type": "special",
+          "notation": "({d} ver.) {down}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Hangetsu Zan (半月斬)",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Ryuusei Raku (流星落)",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Shakka Shuu (灼火襲)",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Hishou Kyaku (飛翔脚)",
+          "type": "special",
+          "notation": "{air} {down}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "├►Hasei Waza (派生技)",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "└►Hasei Waza (派生技)",
+          "type": "special",
+          "notation": "{down_forward}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Shakka Shuu (灼火襲)",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Hishou Kyaku (飛翔脚)",
+          "type": "special",
+          "notation": "{air} {down}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "├►Hasei Waza (派生技)",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "└►Hasei Waza (派生技)",
+          "type": "special",
+          "notation": "{down_forward}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Hou-yoku Tenshou Kyaku(鳳翼天翔脚)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Hou-ou Kyaku (鳳凰脚)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Hou-yoku Tenshou Kyaku(鳳翼天翔脚)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Hou-ou Kyaku (鳳凰脚)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Hou-yoku TenshouKyaku (鳳翼天翔脚)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{c} (hold)",
+          "notes": ""
+        },
+        {
+          "name": "Hou-ou Kyaku (鳳凰脚)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Hou-yoku TenshouKyaku (鳳翼天翔脚)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{c} (hold)",
+          "notes": ""
+        },
+        {
+          "name": "Hou-ou Kyaku (鳳凰脚)",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{d}",
+          "notes": ""
+        }
+      ],
+      "id": "kim_jae_hoon",
+      "image": "images/Portrait_GarouMOTW_Jae_Hoon.png"
+    },
+    {
+      "name": "Rock Howard",
+      "moves": [
+        {
+          "name": "Kokuusen (虚空閃)",
+          "type": "throw",
+          "notation": "(close) {back} or {forward}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Overhead Kickオーバーヘッドキック",
+          "type": "top",
+          "notation": "{c}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "CombinationAttack",
+          "type": "command",
+          "notation": "(close) {d} • {forward}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Reppuken (烈風拳)",
+          "type": "special",
+          "notation": "{qcf}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Double Reppuken(ダブル烈風拳)",
+          "type": "special",
+          "notation": "{qcf}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Rising Tackleライジングタックル",
+          "type": "special",
+          "notation": "{charge_down_up}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Hard Edgeハードエッジ",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Rage Runレイジラン • Type \"Dunk\"「ダンク」",
+          "type": "special",
+          "notation": "{qcb}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Rage Runレイジラン • Type \"Shift\"「シフト」",
+          "type": "special",
+          "notation": "{qcb}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Reppuken (烈風拳)",
+          "type": "special",
+          "notation": "{qcf}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Double Reppuken(ダブル烈風拳)",
+          "type": "special",
+          "notation": "{qcf}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Rising Tackleライジングタックル",
+          "type": "special",
+          "notation": "{charge_down_up}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Hard Edgeハードエッジ",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Rage Runレイジラン • Type \"Dunk\"「ダンク」",
+          "type": "special",
+          "notation": "{qcb}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Rage Runレイジラン • Type \"Shift\"「シフト」",
+          "type": "special",
+          "notation": "{qcb}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Crack Counterクラックカウンター Jou-Dan (上段)",
+          "type": "special",
+          "notation": "{qcf}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Crack Counterクラックカウンター Ge-Dan (下段)",
+          "type": "special",
+          "notation": "{qcf}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Shinkuu Nage (真空投げ)",
+          "type": "special",
+          "notation": "(close) {360}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "└►Rasetsu (羅刹)",
+          "type": "special",
+          "notation": "(hold) {a}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Crack Counterクラックカウンター Jou-Dan (上段)",
+          "type": "special",
+          "notation": "{qcf}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Crack Counterクラックカウンター Ge-Dan (下段)",
+          "type": "special",
+          "notation": "{qcf}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Shinkuu Nage (真空投げ)",
+          "type": "special",
+          "notation": "(close) {360}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "└►Rasetsu (羅刹)",
+          "type": "special",
+          "notation": "(hold) {a}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Raging Stormレイジングストーム",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Shine Knuckleシャインナックル",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Raging Stormレイジングストーム",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Shine Knuckleシャインナックル",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Raging Stormレイジングストーム",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Shine Knuckleシャインナックル",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "DeadlyデッドリーRave Neoレイブ・ネオ",
+          "type": "super",
+          "notation": "{hcbf}+{a} • {a}{a}{b}{b}{c}{c}{d}{d} • {qcb}{c}",
+          "notes": ""
+        },
+        {
+          "name": "Raging Stormレイジングストーム",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Shine Knuckleシャインナックル",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "DeadlyデッドリーRave Neoレイブ・ネオ",
+          "type": "super",
+          "notation": "{hcbf}+{a} • {a}{a}{b}{b}{c}{c}{d}{d} • {qcb}{c}",
+          "notes": ""
+        }
+      ],
+      "id": "rock_howard",
+      "image": "images/Portrait_GarouMOTW_Rock.png"
+    },
+    {
+      "name": "Terry Bogard",
+      "moves": [
+        {
+          "name": "Buster Throwバスタースルー",
+          "type": "throw",
+          "notation": "(close) {back} or {forward}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Max Dunkマックスダンク",
+          "type": "top",
+          "notation": "{c}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "CombinationAttack",
+          "type": "command",
+          "notation": "(close) {c} • {forward}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Special Moves",
+          "type": "command",
+          "notation": "Power Waveパワーウェイブ {qcf}+{p} Burn Knuckleバーンナックル {qcb}+{p} Power Chargeパワーチャージ (perform 3x) {forward}{forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Power Waveパワーウェイブ",
+          "type": "command",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Burn Knuckleバーンナックル",
+          "type": "command",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Power Chargeパワーチャージ",
+          "type": "command",
+          "notation": "(perform 3x) {forward}{forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Power Waveパワーウェイブ",
+          "type": "command",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Burn Knuckleバーンナックル",
+          "type": "command",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Power Chargeパワーチャージ",
+          "type": "command",
+          "notation": "(perform 3x) {forward}{forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Special Moves",
+          "type": "command",
+          "notation": "Crack Shootクラックシュート {qcb}+{k} Power Dunkパワーダンク {dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Crack Shootクラックシュート",
+          "type": "command",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Power Dunkパワーダンク",
+          "type": "command",
+          "notation": "{dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Crack Shootクラックシュート",
+          "type": "command",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Power Dunkパワーダンク",
+          "type": "command",
+          "notation": "{dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Power Geyserパワーゲイザー",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Buster Wolfバスターウルフ",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Power Geyserパワーゲイザー",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Buster Wolfバスターウルフ",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Triple Geyserトリプルゲイザー",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Buster Wolfバスターウルフ",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Triple Geyserトリプルゲイザー",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Buster Wolfバスターウルフ",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{d}",
+          "notes": ""
+        }
+      ],
+      "id": "terry_bogard",
+      "image": null
+    },
+    {
+      "name": "Tizoc",
+      "moves": [
+        {
+          "name": "Griffon Towerグリフォンタワー",
+          "type": "throw",
+          "notation": "(close) {back} or {forward}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "└►Grif-Fallグリフォール",
+          "type": "throw",
+          "notation": "{down_forward}{down_forward}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Griffon Hugグリハッグ",
+          "type": "throw",
+          "notation": "(close) {back} or {forward}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Griffon Towerグリフォンタワー",
+          "type": "throw",
+          "notation": "(close) {back} or {forward}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "└►Grif-Fallグリフォール",
+          "type": "throw",
+          "notation": "{down_forward}{down_forward}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Griffon Hugグリハッグ",
+          "type": "throw",
+          "notation": "(close) {back} or {forward}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Gridro Super Kickグリドロスーパーキック",
+          "type": "top",
+          "notation": "{c}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Active Tuponアクティブテュポーン",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Poseidon Waveポセイドンウェーブ",
+          "type": "special",
+          "notation": "{rdp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Olympus Overオリンポスオーバー",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Active Tuponアクティブテュポーン",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Poseidon Waveポセイドンウェーブ",
+          "type": "special",
+          "notation": "{rdp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Olympus Overオリンポスオーバー",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Justice Hurricaneジャスティスハリケーン",
+          "type": "special",
+          "notation": "(close) {360}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Icarus Crashイカロスクラッシュ",
+          "type": "special",
+          "notation": "(close) {air} {qcf}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Hercules Throwヘラクレスルー",
+          "type": "special",
+          "notation": "(close) {hcf}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Justice Hurricaneジャスティスハリケーン",
+          "type": "special",
+          "notation": "(close) {360}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Icarus Crashイカロスクラッシュ",
+          "type": "special",
+          "notation": "(close) {air} {qcf}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Hercules Throwヘラクレスルー",
+          "type": "special",
+          "notation": "(close) {hcf}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Big Fall Griffonビッグフォールグリフォン",
+          "type": "super",
+          "notation": "{360}{360}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Daedalus Attackダイダロスアタック",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Big Fall Griffonビッグフォールグリフォン",
+          "type": "super",
+          "notation": "{360}{360}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Daedalus Attackダイダロスアタック",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Big Fall Griffonビッグフォールグリフォン",
+          "type": "super",
+          "notation": "{360}{360}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Daedalus Attackダイダロスアタック",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Big Fall Griffonビッグフォールグリフォン",
+          "type": "super",
+          "notation": "{360}{360}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Daedalus Attackダイダロスアタック",
+          "type": "super",
+          "notation": "{qcf}{qcf}+{d}",
+          "notes": ""
+        }
+      ],
+      "id": "tizoc",
+      "image": "images/Portrait_GarouMOTW_Tizoc.png"
+    }
+  ]
+}

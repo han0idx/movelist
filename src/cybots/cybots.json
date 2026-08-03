@@ -1,0 +1,2370 @@
+{
+  "name": "cybots",
+  "title": "Cyberbots: Full Metal Madness",
+  "image": "images/Cyberbots_logo.png",
+  "characters": [
+    {
+      "name": "BX-02 Blodia",
+      "moves": [
+        {
+          "name": "Throws",
+          "type": "special",
+          "notation": "Normal Throw (close) {back} or {forward}+{p} Pickup Throw (close, downed foe){back} or {forward}+{p} Arm Ripper (close) {qcd}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Normal Throw",
+          "type": "special",
+          "notation": "(close) {back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Pickup Throw",
+          "type": "special",
+          "notation": "(close, downed foe){back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Arm Ripper",
+          "type": "special",
+          "notation": "(close) {qcd}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Normal Throw",
+          "type": "special",
+          "notation": "(close) {back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Pickup Throw",
+          "type": "special",
+          "notation": "(close, downed foe){back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Arm Ripper",
+          "type": "special",
+          "notation": "(close) {qcd}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Command Moves",
+          "type": "special",
+          "notation": "Stomping {air} {down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Stomping",
+          "type": "special",
+          "notation": "{air} {down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Special Moves",
+          "type": "special",
+          "notation": "Gatling Rod {qcb}+{p} Full Metal Charge {dp}+{p} Break Shaft {hcf}+{p} DirectPress (close) {forward}{down_forward}+{hp}(or {pp} during {lp} throw) Needle Press (downed foe) {down}{up}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Gatling Rod",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Full Metal Charge",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Break Shaft",
+          "type": "special",
+          "notation": "{hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "DirectPress",
+          "type": "special",
+          "notation": "(close) {forward}{down_forward}+{hp}(or {pp} during {lp} throw)",
+          "notes": ""
+        },
+        {
+          "name": "Needle Press",
+          "type": "special",
+          "notation": "(downed foe) {down}{up}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Gatling Rod",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Full Metal Charge",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Break Shaft",
+          "type": "special",
+          "notation": "{hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "DirectPress",
+          "type": "special",
+          "notation": "(close) {forward}{down_forward}+{hp}(or {pp} during {lp} throw)",
+          "notes": ""
+        },
+        {
+          "name": "Needle Press",
+          "type": "special",
+          "notation": "(downed foe) {down}{up}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Cyber EX",
+          "type": "special",
+          "notation": "Planet Smasher {qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Planet Smasher",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        }
+      ],
+      "id": "bx-02_blodia",
+      "image": "images/Portrait_Cyberbots_Blodia.png"
+    },
+    {
+      "name": "BX-04S B-Swordsman",
+      "moves": [
+        {
+          "name": "Throws",
+          "type": "special",
+          "notation": "Normal Throw (close) {back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Normal Throw",
+          "type": "special",
+          "notation": "(close) {back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Command Moves",
+          "type": "special",
+          "notation": "E Slicer (dash) {down}+{lp} Stomping {air} {down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "E Slicer",
+          "type": "special",
+          "notation": "(dash) {down}+{lp}",
+          "notes": ""
+        },
+        {
+          "name": "Stomping",
+          "type": "special",
+          "notation": "{air} {down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "E Slicer",
+          "type": "special",
+          "notation": "(dash) {down}+{lp}",
+          "notes": ""
+        },
+        {
+          "name": "Stomping",
+          "type": "special",
+          "notation": "{air} {down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Special Moves",
+          "type": "special",
+          "notation": "Slay Sword {hcb}+{p} (hold) Photon Splash {air} {rdp}+{p} G-Splasher {qcf}+{p} Vertical Gears {down}{up}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Slay Sword",
+          "type": "special",
+          "notation": "{hcb}+{p} (hold)",
+          "notes": ""
+        },
+        {
+          "name": "Photon Splash",
+          "type": "special",
+          "notation": "{air} {rdp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "G-Splasher",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Vertical Gears",
+          "type": "special",
+          "notation": "{down}{up}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Slay Sword",
+          "type": "special",
+          "notation": "{hcb}+{p} (hold)",
+          "notes": ""
+        },
+        {
+          "name": "Photon Splash",
+          "type": "special",
+          "notation": "{air} {rdp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "G-Splasher",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Vertical Gears",
+          "type": "special",
+          "notation": "{down}{up}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Cyber EX",
+          "type": "special",
+          "notation": "Crescent Tornado {qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Crescent Tornado",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        }
+      ],
+      "id": "bx-04s_b-swordsman",
+      "image": "images/Portrait_Cyberbots_Swordsman.png"
+    },
+    {
+      "name": "BX-07R B-Riot",
+      "moves": [
+        {
+          "name": "Throws",
+          "type": "special",
+          "notation": "Normal Throw (close) {back} or {forward}+{p} Pickup Throw (close, downed foe){back} or {forward}+{p} Arm Ripper (close) {qcd}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Normal Throw",
+          "type": "special",
+          "notation": "(close) {back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Pickup Throw",
+          "type": "special",
+          "notation": "(close, downed foe){back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Arm Ripper",
+          "type": "special",
+          "notation": "(close) {qcd}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Normal Throw",
+          "type": "special",
+          "notation": "(close) {back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Pickup Throw",
+          "type": "special",
+          "notation": "(close, downed foe){back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Arm Ripper",
+          "type": "special",
+          "notation": "(close) {qcd}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Command Moves",
+          "type": "special",
+          "notation": "Stomping {air} {down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Stomping",
+          "type": "special",
+          "notation": "{air} {down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Special Moves",
+          "type": "special",
+          "notation": "Dyna Blow {air} {qcf}+{p} Death Bolt {hcb}+{p} Riot Strike {air} {dp}+{p} or {pp} Shining Arm {rdp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Dyna Blow",
+          "type": "special",
+          "notation": "{air} {qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Death Bolt",
+          "type": "special",
+          "notation": "{hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Riot Strike",
+          "type": "special",
+          "notation": "{air} {dp}+{p} or {pp}",
+          "notes": ""
+        },
+        {
+          "name": "Shining Arm",
+          "type": "special",
+          "notation": "{rdp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Dyna Blow",
+          "type": "special",
+          "notation": "{air} {qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Death Bolt",
+          "type": "special",
+          "notation": "{hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Riot Strike",
+          "type": "special",
+          "notation": "{air} {dp}+{p} or {pp}",
+          "notes": ""
+        },
+        {
+          "name": "Shining Arm",
+          "type": "special",
+          "notation": "{rdp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Cyber EX",
+          "type": "special",
+          "notation": "Graviton Field {qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Graviton Field",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        }
+      ],
+      "id": "bx-07r_b-riot",
+      "image": "images/Portrait_Cyberbots_Riot.png"
+    },
+    {
+      "name": "RF-004 Reptos",
+      "moves": [
+        {
+          "name": "Throws",
+          "type": "special",
+          "notation": "Normal Throw (close) {back} or {forward}+{p} Pickup Throw (close, downed foe){back} or {forward}+{p} Air Throw (close) {air} {back} or {forward}+{p} Arm Ripper (close) {qcd}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Normal Throw",
+          "type": "special",
+          "notation": "(close) {back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Pickup Throw",
+          "type": "special",
+          "notation": "(close, downed foe){back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Air Throw",
+          "type": "special",
+          "notation": "(close) {air} {back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Arm Ripper",
+          "type": "special",
+          "notation": "(close) {qcd}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Normal Throw",
+          "type": "special",
+          "notation": "(close) {back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Pickup Throw",
+          "type": "special",
+          "notation": "(close, downed foe){back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Air Throw",
+          "type": "special",
+          "notation": "(close) {air} {back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Arm Ripper",
+          "type": "special",
+          "notation": "(close) {qcd}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Command Moves",
+          "type": "special",
+          "notation": "Stomping {air} {down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Stomping",
+          "type": "special",
+          "notation": "{air} {down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Special Moves",
+          "type": "special",
+          "notation": "Violent Wind {hcf}+{p} Full Metal Charge {dp}+{p} SatelliteForce {qcb}+{p} or {pp}(change pos. w/{p} or {pp}) Risky Nail {dp}+{p} Fatality Dunk (close) {down}{down}+{p} Raiding Fall (close, {air} boost) {down}{down}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Violent Wind",
+          "type": "special",
+          "notation": "{hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Full Metal Charge",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "SatelliteForce",
+          "type": "special",
+          "notation": "{qcb}+{p} or {pp}(change pos. w/{p} or {pp})",
+          "notes": ""
+        },
+        {
+          "name": "Risky Nail",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Fatality Dunk",
+          "type": "special",
+          "notation": "(close) {down}{down}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Raiding Fall",
+          "type": "special",
+          "notation": "(close, {air} boost) {down}{down}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Violent Wind",
+          "type": "special",
+          "notation": "{hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Full Metal Charge",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "SatelliteForce",
+          "type": "special",
+          "notation": "{qcb}+{p} or {pp}(change pos. w/{p} or {pp})",
+          "notes": ""
+        },
+        {
+          "name": "Risky Nail",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Fatality Dunk",
+          "type": "special",
+          "notation": "(close) {down}{down}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Raiding Fall",
+          "type": "special",
+          "notation": "(close, {air} boost) {down}{down}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Cyber EX",
+          "type": "special",
+          "notation": "Full Verniern Hurricane {qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Full Verniern Hurricane",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        }
+      ],
+      "id": "rf-004_reptos",
+      "image": "images/Portrait_Cyberbots_Reptos.png"
+    },
+    {
+      "name": "RF-009 R-Lightning",
+      "moves": [
+        {
+          "name": "Throws",
+          "type": "special",
+          "notation": "Normal Throw (close) {back} or {forward}+{p} Pickup Throw (close, downed foe){back} or {forward}+{p} Arm Ripper (close) {qcd}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Normal Throw",
+          "type": "special",
+          "notation": "(close) {back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Pickup Throw",
+          "type": "special",
+          "notation": "(close, downed foe){back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Arm Ripper",
+          "type": "special",
+          "notation": "(close) {qcd}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Normal Throw",
+          "type": "special",
+          "notation": "(close) {back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Pickup Throw",
+          "type": "special",
+          "notation": "(close, downed foe){back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Arm Ripper",
+          "type": "special",
+          "notation": "(close) {qcd}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Command Moves",
+          "type": "special",
+          "notation": "Stomping {air} {down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Stomping",
+          "type": "special",
+          "notation": "{air} {down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Special Moves",
+          "type": "special",
+          "notation": "Sparkle Laser {qcf}+{p} Rolling Gear {air} {charge_down_up}+{p} Thunder Rain {down}{down}+{p} Vertical Gears {down}{up}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Sparkle Laser",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Rolling Gear",
+          "type": "special",
+          "notation": "{air} {charge_down_up}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Thunder Rain",
+          "type": "special",
+          "notation": "{down}{down}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Vertical Gears",
+          "type": "special",
+          "notation": "{down}{up}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Sparkle Laser",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Rolling Gear",
+          "type": "special",
+          "notation": "{air} {charge_down_up}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Thunder Rain",
+          "type": "special",
+          "notation": "{down}{down}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Vertical Gears",
+          "type": "special",
+          "notation": "{down}{up}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Cyber EX",
+          "type": "special",
+          "notation": "Thunder Shaking {qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Thunder Shaking",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        }
+      ],
+      "id": "rf-009_r-lightning",
+      "image": "images/Portrait_Cyberbots_Lightning.png"
+    },
+    {
+      "name": "RF-027 R-Jackal",
+      "moves": [
+        {
+          "name": "Throws",
+          "type": "special",
+          "notation": "Normal Throw (close) {back} or {forward}+{p} Pickup Throw (close, downed foe){back} or {forward}+{p} Arm Ripper (close) {qcd}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Normal Throw",
+          "type": "special",
+          "notation": "(close) {back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Pickup Throw",
+          "type": "special",
+          "notation": "(close, downed foe){back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Arm Ripper",
+          "type": "special",
+          "notation": "(close) {qcd}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Normal Throw",
+          "type": "special",
+          "notation": "(close) {back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Pickup Throw",
+          "type": "special",
+          "notation": "(close, downed foe){back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Arm Ripper",
+          "type": "special",
+          "notation": "(close) {qcd}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Command Moves",
+          "type": "special",
+          "notation": "Stomping {air} {down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Stomping",
+          "type": "special",
+          "notation": "{air} {down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Special Moves",
+          "type": "special",
+          "notation": "Dizzy Boomerang {air} {qcb}+{p} Heat Grapple {qcf}+{p} Jackal Stamp {charge_down_up}+{p} Laser Screen (Low) {qcd}+{slash} Laser Screen (High) {qcf}+{slash} Whip Sting {tap}{p}",
+          "notes": ""
+        },
+        {
+          "name": "Dizzy Boomerang",
+          "type": "special",
+          "notation": "{air} {qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Heat Grapple",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Jackal Stamp",
+          "type": "special",
+          "notation": "{charge_down_up}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Laser Screen (Low)",
+          "type": "special",
+          "notation": "{qcd}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Laser Screen (High)",
+          "type": "special",
+          "notation": "{qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Whip Sting",
+          "type": "special",
+          "notation": "{tap}{p}",
+          "notes": ""
+        },
+        {
+          "name": "Dizzy Boomerang",
+          "type": "special",
+          "notation": "{air} {qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Heat Grapple",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Jackal Stamp",
+          "type": "special",
+          "notation": "{charge_down_up}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Laser Screen (Low)",
+          "type": "special",
+          "notation": "{qcd}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Laser Screen (High)",
+          "type": "special",
+          "notation": "{qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Whip Sting",
+          "type": "special",
+          "notation": "{tap}{p}",
+          "notes": ""
+        },
+        {
+          "name": "Cyber EX",
+          "type": "special",
+          "notation": "Assault Bits {qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Assault Bits",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        }
+      ],
+      "id": "rf-027_r-jackal",
+      "image": "images/Portrait_Cyberbots_Jackal.png"
+    },
+    {
+      "name": "FZ-100 Fordy",
+      "moves": [
+        {
+          "name": "Throws",
+          "type": "special",
+          "notation": "Normal Throw (close) {back} or {forward}+{p} Pickup Throw (close, downed foe){back} or {forward}+{p} Arm Ripper (close) {qcd}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Normal Throw",
+          "type": "special",
+          "notation": "(close) {back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Pickup Throw",
+          "type": "special",
+          "notation": "(close, downed foe){back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Arm Ripper",
+          "type": "special",
+          "notation": "(close) {qcd}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Normal Throw",
+          "type": "special",
+          "notation": "(close) {back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Pickup Throw",
+          "type": "special",
+          "notation": "(close, downed foe){back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Arm Ripper",
+          "type": "special",
+          "notation": "(close) {qcd}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Command Moves",
+          "type": "special",
+          "notation": "Stomping {air} {down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Stomping",
+          "type": "special",
+          "notation": "{air} {down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Special Moves",
+          "type": "special",
+          "notation": "Iron Nail {qcf}+{p} Surprise Blade {dp}+{p} Spiral Anchor {charge_back_forward}+{p} Fordy Beat {lp}{slash}{hp} or {lp}{hp}{slash} └►Fordy Break {lp}{slash}{hp}{lp} Dual Homing Missile {air} {qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Iron Nail",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Surprise Blade",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Spiral Anchor",
+          "type": "special",
+          "notation": "{charge_back_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Fordy Beat",
+          "type": "special",
+          "notation": "{lp}{slash}{hp} or {lp}{hp}{slash}",
+          "notes": ""
+        },
+        {
+          "name": "└►Fordy Break",
+          "type": "special",
+          "notation": "{lp}{slash}{hp}{lp}",
+          "notes": ""
+        },
+        {
+          "name": "Dual Homing Missile",
+          "type": "special",
+          "notation": "{air} {qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Iron Nail",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Surprise Blade",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Spiral Anchor",
+          "type": "special",
+          "notation": "{charge_back_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Fordy Beat",
+          "type": "special",
+          "notation": "{lp}{slash}{hp} or {lp}{hp}{slash}",
+          "notes": ""
+        },
+        {
+          "name": "└►Fordy Break",
+          "type": "special",
+          "notation": "{lp}{slash}{hp}{lp}",
+          "notes": ""
+        },
+        {
+          "name": "Dual Homing Missile",
+          "type": "special",
+          "notation": "{air} {qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Cyber EX",
+          "type": "special",
+          "notation": "Nebula Stream {qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Nebula Stream",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        }
+      ],
+      "id": "fz-100_fordy",
+      "image": "images/Portrait_Cyberbots_Fordy.png"
+    },
+    {
+      "name": "FZ-200 F-Tarantula",
+      "moves": [
+        {
+          "name": "Throws",
+          "type": "special",
+          "notation": "Normal Throw (close) {back} or {forward}+{p} Pickup Throw (close, downed foe){back} or {forward}+{p} Arm Ripper (close) {qcd}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Normal Throw",
+          "type": "special",
+          "notation": "(close) {back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Pickup Throw",
+          "type": "special",
+          "notation": "(close, downed foe){back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Arm Ripper",
+          "type": "special",
+          "notation": "(close) {qcd}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Normal Throw",
+          "type": "special",
+          "notation": "(close) {back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Pickup Throw",
+          "type": "special",
+          "notation": "(close, downed foe){back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Arm Ripper",
+          "type": "special",
+          "notation": "(close) {qcd}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Command Moves",
+          "type": "special",
+          "notation": "Stomping {air} {down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Stomping",
+          "type": "special",
+          "notation": "{air} {down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Special Moves",
+          "type": "special",
+          "notation": "Rising Tornado (Forward) {dp}+{p} Rising Tornado (Backward) {rdp}+{p} Tarantula Stamp {charge_down_up}+{p} PoweredWrecker {air} {qcf}+{p} or {pp}(or w/{qcd} in air) └►Thousand Missiles {qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Rising Tornado (Forward)",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Rising Tornado (Backward)",
+          "type": "special",
+          "notation": "{rdp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Tarantula Stamp",
+          "type": "special",
+          "notation": "{charge_down_up}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "PoweredWrecker",
+          "type": "special",
+          "notation": "{air} {qcf}+{p} or {pp}(or w/{qcd} in air)",
+          "notes": ""
+        },
+        {
+          "name": "└►Thousand Missiles",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Rising Tornado (Forward)",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Rising Tornado (Backward)",
+          "type": "special",
+          "notation": "{rdp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Tarantula Stamp",
+          "type": "special",
+          "notation": "{charge_down_up}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "PoweredWrecker",
+          "type": "special",
+          "notation": "{air} {qcf}+{p} or {pp}(or w/{qcd} in air)",
+          "notes": ""
+        },
+        {
+          "name": "└►Thousand Missiles",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Cyber EX",
+          "type": "special",
+          "notation": "Falling Destroy {qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Falling Destroy",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        }
+      ],
+      "id": "fz-200_f-tarantula",
+      "image": "images/Portrait_Cyberbots_Tarantula.png"
+    },
+    {
+      "name": "FZ-800 F-Killer Bee",
+      "moves": [
+        {
+          "name": "Throws",
+          "type": "special",
+          "notation": "Normal Throw (close) {back} or {forward}+{p} Pickup Throw (close, downed foe){back} or {forward}+{p} Air Throw (close) {air} {back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Normal Throw",
+          "type": "special",
+          "notation": "(close) {back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Pickup Throw",
+          "type": "special",
+          "notation": "(close, downed foe){back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Air Throw",
+          "type": "special",
+          "notation": "(close) {air} {back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Normal Throw",
+          "type": "special",
+          "notation": "(close) {back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Pickup Throw",
+          "type": "special",
+          "notation": "(close, downed foe){back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Air Throw",
+          "type": "special",
+          "notation": "(close) {air} {back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Command Moves",
+          "type": "special",
+          "notation": "Stomping {air} {down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Stomping",
+          "type": "special",
+          "notation": "{air} {down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Special Moves",
+          "type": "special",
+          "notation": "Killer Screw α {air} {qcf}+{p} or {pp}(or w/{qcd} in air) └►Follow-up Attack any dir+{p} Killer Screw β {dp}+{p} Killer Sword {hcb}+{p} (hold) Killer Eye {charge_back_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Killer Screw α",
+          "type": "special",
+          "notation": "{air} {qcf}+{p} or {pp}(or w/{qcd} in air)",
+          "notes": ""
+        },
+        {
+          "name": "└►Follow-up Attack",
+          "type": "special",
+          "notation": "any dir+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Killer Screw β",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Killer Sword",
+          "type": "special",
+          "notation": "{hcb}+{p} (hold)",
+          "notes": ""
+        },
+        {
+          "name": "Killer Eye",
+          "type": "special",
+          "notation": "{charge_back_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Killer Screw α",
+          "type": "special",
+          "notation": "{air} {qcf}+{p} or {pp}(or w/{qcd} in air)",
+          "notes": ""
+        },
+        {
+          "name": "└►Follow-up Attack",
+          "type": "special",
+          "notation": "any dir+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Killer Screw β",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Killer Sword",
+          "type": "special",
+          "notation": "{hcb}+{p} (hold)",
+          "notes": ""
+        },
+        {
+          "name": "Killer Eye",
+          "type": "special",
+          "notation": "{charge_back_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Cyber EX",
+          "type": "special",
+          "notation": "Delta Blast {qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Delta Blast",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        }
+      ],
+      "id": "fz-800_f-killer_bee",
+      "image": "images/Portrait_Cyberbots_Killer_Bee.png"
+    },
+    {
+      "name": "GP-N1 Guldin",
+      "moves": [
+        {
+          "name": "Throws",
+          "type": "special",
+          "notation": "Normal Throw (close) {back} or {forward}+{p} Pickup Throw (close, downed foe){back} or {forward}+{p} Arm Ripper (close) {qcd}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Normal Throw",
+          "type": "special",
+          "notation": "(close) {back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Pickup Throw",
+          "type": "special",
+          "notation": "(close, downed foe){back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Arm Ripper",
+          "type": "special",
+          "notation": "(close) {qcd}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Normal Throw",
+          "type": "special",
+          "notation": "(close) {back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Pickup Throw",
+          "type": "special",
+          "notation": "(close, downed foe){back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Arm Ripper",
+          "type": "special",
+          "notation": "(close) {qcd}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Command Moves",
+          "type": "special",
+          "notation": "Stomping {air} {down}+{hp} Heavy Dive (boost) {air} {down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Stomping",
+          "type": "special",
+          "notation": "{air} {down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Heavy Dive",
+          "type": "special",
+          "notation": "(boost) {air} {down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Stomping",
+          "type": "special",
+          "notation": "{air} {down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Heavy Dive",
+          "type": "special",
+          "notation": "(boost) {air} {down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Special Moves",
+          "type": "special",
+          "notation": "Gul Lariat {qcf}+{p} Sky Gul Lariat {qcb}+{p} Gul Wheel {dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Gul Lariat",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Sky Gul Lariat",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Gul Wheel",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Gul Lariat",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Sky Gul Lariat",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Gul Wheel",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Cyber EX",
+          "type": "special",
+          "notation": "Gul Burning {qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Gul Burning",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        }
+      ],
+      "id": "gp-n1_guldin",
+      "image": "images/Portrait_Cyberbots_Guldin.png"
+    },
+    {
+      "name": "GP-V4 G-Vise",
+      "moves": [
+        {
+          "name": "Throws",
+          "type": "special",
+          "notation": "Normal Throw (close) {back} or {forward}+{p} Pickup Throw (close, downed foe){back} or {forward}+{p} Arm Ripper (close) {qcd}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Normal Throw",
+          "type": "special",
+          "notation": "(close) {back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Pickup Throw",
+          "type": "special",
+          "notation": "(close, downed foe){back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Arm Ripper",
+          "type": "special",
+          "notation": "(close) {qcd}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Normal Throw",
+          "type": "special",
+          "notation": "(close) {back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Pickup Throw",
+          "type": "special",
+          "notation": "(close, downed foe){back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Arm Ripper",
+          "type": "special",
+          "notation": "(close) {qcd}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Command Moves",
+          "type": "special",
+          "notation": "Stomping {air} {down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Stomping",
+          "type": "special",
+          "notation": "{air} {down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Special Moves",
+          "type": "special",
+          "notation": "E-Pressure {qcb}+{p} Capture Device {qcf}+{p} or {pp} Capture Device(Forward) {hcf}+{p} or {pp} E-Typhoon (Capture Device) {qcb}+{p} Body Scrap (close) {air} {dp}+{p} Vertical Gears {down}{up}+{hp} Dual Homing Missile {air} {qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "E-Pressure",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Capture Device",
+          "type": "special",
+          "notation": "{qcf}+{p} or {pp}",
+          "notes": ""
+        },
+        {
+          "name": "Capture Device(Forward)",
+          "type": "special",
+          "notation": "{hcf}+{p} or {pp}",
+          "notes": ""
+        },
+        {
+          "name": "E-Typhoon",
+          "type": "special",
+          "notation": "(Capture Device) {qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Body Scrap",
+          "type": "special",
+          "notation": "(close) {air} {dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Vertical Gears",
+          "type": "special",
+          "notation": "{down}{up}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Dual Homing Missile",
+          "type": "special",
+          "notation": "{air} {qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "E-Pressure",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Capture Device",
+          "type": "special",
+          "notation": "{qcf}+{p} or {pp}",
+          "notes": ""
+        },
+        {
+          "name": "Capture Device(Forward)",
+          "type": "special",
+          "notation": "{hcf}+{p} or {pp}",
+          "notes": ""
+        },
+        {
+          "name": "E-Typhoon",
+          "type": "special",
+          "notation": "(Capture Device) {qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Body Scrap",
+          "type": "special",
+          "notation": "(close) {air} {dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Vertical Gears",
+          "type": "special",
+          "notation": "{down}{up}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Dual Homing Missile",
+          "type": "special",
+          "notation": "{air} {qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Cyber EX",
+          "type": "special",
+          "notation": "G-Typhoon {qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "G-Typhoon",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        }
+      ],
+      "id": "gp-v4_g-vise",
+      "image": "images/Portrait_Cyberbots_Vise.png"
+    },
+    {
+      "name": "GP-D2 G-Cyclone",
+      "moves": [
+        {
+          "name": "Throws",
+          "type": "special",
+          "notation": "Normal Throw (close) {back} or {forward}+{p} Pickup Throw (close, downed foe){back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Normal Throw",
+          "type": "special",
+          "notation": "(close) {back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Pickup Throw",
+          "type": "special",
+          "notation": "(close, downed foe){back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Normal Throw",
+          "type": "special",
+          "notation": "(close) {back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Pickup Throw",
+          "type": "special",
+          "notation": "(close, downed foe){back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Command Moves",
+          "type": "special",
+          "notation": "Stomping {air} {down}+{hp} Long Anchor Drop {air} {pp}",
+          "notes": ""
+        },
+        {
+          "name": "Stomping",
+          "type": "special",
+          "notation": "{air} {down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Long Anchor Drop",
+          "type": "special",
+          "notation": "{air} {pp}",
+          "notes": ""
+        },
+        {
+          "name": "Stomping",
+          "type": "special",
+          "notation": "{air} {down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Long Anchor Drop",
+          "type": "special",
+          "notation": "{air} {pp}",
+          "notes": ""
+        },
+        {
+          "name": "Special Moves",
+          "type": "special",
+          "notation": "Drill Cannon {air} {qcf}+{p} (hold) Hyper Death Drill {forward}{back}{forward}+{tap}{p} Cyclone Stamp {charge_down_up}+{p} D3 Bomb (Far) {qcf}+{slash} D3 Bomb (Near) {qcb}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Drill Cannon",
+          "type": "special",
+          "notation": "{air} {qcf}+{p} (hold)",
+          "notes": ""
+        },
+        {
+          "name": "Hyper Death Drill",
+          "type": "special",
+          "notation": "{forward}{back}{forward}+{tap}{p}",
+          "notes": ""
+        },
+        {
+          "name": "Cyclone Stamp",
+          "type": "special",
+          "notation": "{charge_down_up}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "D3 Bomb (Far)",
+          "type": "special",
+          "notation": "{qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "D3 Bomb (Near)",
+          "type": "special",
+          "notation": "{qcb}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Drill Cannon",
+          "type": "special",
+          "notation": "{air} {qcf}+{p} (hold)",
+          "notes": ""
+        },
+        {
+          "name": "Hyper Death Drill",
+          "type": "special",
+          "notation": "{forward}{back}{forward}+{tap}{p}",
+          "notes": ""
+        },
+        {
+          "name": "Cyclone Stamp",
+          "type": "special",
+          "notation": "{charge_down_up}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "D3 Bomb (Far)",
+          "type": "special",
+          "notation": "{qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "D3 Bomb (Near)",
+          "type": "special",
+          "notation": "{qcb}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Cyber EX",
+          "type": "special",
+          "notation": "Final Death Drill {qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Final Death Drill",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        }
+      ],
+      "id": "gp-d2_g-cyclone",
+      "image": "images/Portrait_Cyberbots_Cyclone.png"
+    },
+    {
+      "name": "S-008 Super-8",
+      "moves": [
+        {
+          "name": "Throws",
+          "type": "special",
+          "notation": "Normal Throw (close) {back} or {forward}+{p} Pickup Throw (close, downed foe){back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Normal Throw",
+          "type": "special",
+          "notation": "(close) {back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Pickup Throw",
+          "type": "special",
+          "notation": "(close, downed foe){back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Normal Throw",
+          "type": "special",
+          "notation": "(close) {back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Pickup Throw",
+          "type": "special",
+          "notation": "(close, downed foe){back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Command Moves",
+          "type": "special",
+          "notation": "Stomping {air} {down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Stomping",
+          "type": "special",
+          "notation": "{air} {down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Special Moves",
+          "type": "special",
+          "notation": "Octopus Jr. {dp}+{p} or {pp} Red Ω {hcf}+{p} Devil χ {down}{up}+{lp} Final ο {down}{up}+{hp} Super γ {down}{up}+{slash} Hell Δ1 {hcf}+{slash} Hell Δ2 {qcf}+{slash} Hell Δ3 {dp}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Octopus Jr.",
+          "type": "special",
+          "notation": "{dp}+{p} or {pp}",
+          "notes": ""
+        },
+        {
+          "name": "Red Ω",
+          "type": "special",
+          "notation": "{hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Devil χ",
+          "type": "special",
+          "notation": "{down}{up}+{lp}",
+          "notes": ""
+        },
+        {
+          "name": "Final ο",
+          "type": "special",
+          "notation": "{down}{up}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Super γ",
+          "type": "special",
+          "notation": "{down}{up}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Hell Δ1",
+          "type": "special",
+          "notation": "{hcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Hell Δ2",
+          "type": "special",
+          "notation": "{qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Hell Δ3",
+          "type": "special",
+          "notation": "{dp}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Octopus Jr.",
+          "type": "special",
+          "notation": "{dp}+{p} or {pp}",
+          "notes": ""
+        },
+        {
+          "name": "Red Ω",
+          "type": "special",
+          "notation": "{hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Devil χ",
+          "type": "special",
+          "notation": "{down}{up}+{lp}",
+          "notes": ""
+        },
+        {
+          "name": "Final ο",
+          "type": "special",
+          "notation": "{down}{up}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Super γ",
+          "type": "special",
+          "notation": "{down}{up}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Hell Δ1",
+          "type": "special",
+          "notation": "{hcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Hell Δ2",
+          "type": "special",
+          "notation": "{qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Hell Δ3",
+          "type": "special",
+          "notation": "{dp}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Cyber EX",
+          "type": "special",
+          "notation": "Death Satan ∑ {qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Death Satan ∑",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        }
+      ],
+      "id": "s-008_super-8",
+      "image": "images/Portrait_Cyberbots_Super-8.png"
+    },
+    {
+      "name": "P-10033 Gaits",
+      "moves": [
+        {
+          "name": "Throws",
+          "type": "special",
+          "notation": "Normal Throw (close) {back} or {forward}+{p} Pickup Throw (close, downed foe){back} or {forward}+{p} Arm Ripper (close) {qcd}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Normal Throw",
+          "type": "special",
+          "notation": "(close) {back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Pickup Throw",
+          "type": "special",
+          "notation": "(close, downed foe){back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Arm Ripper",
+          "type": "special",
+          "notation": "(close) {qcd}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Normal Throw",
+          "type": "special",
+          "notation": "(close) {back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Pickup Throw",
+          "type": "special",
+          "notation": "(close, downed foe){back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Arm Ripper",
+          "type": "special",
+          "notation": "(close) {qcd}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Command Moves",
+          "type": "special",
+          "notation": "Stomping {air} {down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Stomping",
+          "type": "special",
+          "notation": "{air} {down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Special Moves",
+          "type": "special",
+          "notation": "Ikki Tousen {air} {qcf}+{p} Mondou Muyou {dp}+{p} Ichimou Dajin (close) {qcb}+{p} ShogyouMujou (Behind) {air} {charge_back_forward}+{p} ShogyouMujou (Front) {air} {charge_back_forward}{back}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Ikki Tousen",
+          "type": "special",
+          "notation": "{air} {qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Mondou Muyou",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Ichimou Dajin",
+          "type": "special",
+          "notation": "(close) {qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "ShogyouMujou (Behind)",
+          "type": "special",
+          "notation": "{air} {charge_back_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "ShogyouMujou (Front)",
+          "type": "special",
+          "notation": "{air} {charge_back_forward}{back}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Ikki Tousen",
+          "type": "special",
+          "notation": "{air} {qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Mondou Muyou",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Ichimou Dajin",
+          "type": "special",
+          "notation": "(close) {qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "ShogyouMujou (Behind)",
+          "type": "special",
+          "notation": "{air} {charge_back_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "ShogyouMujou (Front)",
+          "type": "special",
+          "notation": "{air} {charge_back_forward}{back}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Cyber EX",
+          "type": "special",
+          "notation": "Kuuzen Zetsugo {qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Kuuzen Zetsugo",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        }
+      ],
+      "id": "p-10033_gaits",
+      "image": "images/Portrait_Cyberbots_Gaits.png"
+    },
+    {
+      "name": "UVA-02 Helion",
+      "moves": [
+        {
+          "name": "Throws",
+          "type": "special",
+          "notation": "Normal Throw (close) {back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Normal Throw",
+          "type": "special",
+          "notation": "(close) {back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Command Moves",
+          "type": "special",
+          "notation": "Stomping {air} {down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Stomping",
+          "type": "special",
+          "notation": "{air} {down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Special Moves",
+          "type": "special",
+          "notation": "Gott Kugel {qcf}+{p} Himmel Fangen {air} {qcb}+{p} Flugel Bogen {hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Gott Kugel",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Himmel Fangen",
+          "type": "special",
+          "notation": "{air} {qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Flugel Bogen",
+          "type": "special",
+          "notation": "{hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Gott Kugel",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Himmel Fangen",
+          "type": "special",
+          "notation": "{air} {qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Flugel Bogen",
+          "type": "special",
+          "notation": "{hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Cyber EX",
+          "type": "special",
+          "notation": "Schlachtfeld Qual {qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Schlachtfeld Qual",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        }
+      ],
+      "id": "uva-02_helion",
+      "image": "images/Portrait_Cyberbots_Helion.png"
+    },
+    {
+      "name": "X-0 Warlock",
+      "moves": [
+        {
+          "name": "Throws",
+          "type": "special",
+          "notation": "Normal Throw (close) {back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Normal Throw",
+          "type": "special",
+          "notation": "(close) {back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Special Moves",
+          "type": "special",
+          "notation": "Sacred Stare {qcf}+{p} Forbidden Force {air} {charge_back_forward}+{p} Energy Drain (close) {360}+{p} Ascension Black {qcf}+{slash} Imitation α {back}{back}{neogeo_b}{forward}{forward}{neogeo_b} Imitation β {forward}{lp}{hp}{lp}{back}",
+          "notes": ""
+        },
+        {
+          "name": "Sacred Stare",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Forbidden Force",
+          "type": "special",
+          "notation": "{air} {charge_back_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Energy Drain",
+          "type": "special",
+          "notation": "(close) {360}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Ascension Black",
+          "type": "special",
+          "notation": "{qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Imitation α",
+          "type": "special",
+          "notation": "{back}{back}{neogeo_b}{forward}{forward}{neogeo_b}",
+          "notes": ""
+        },
+        {
+          "name": "Imitation β",
+          "type": "special",
+          "notation": "{forward}{lp}{hp}{lp}{back}",
+          "notes": ""
+        },
+        {
+          "name": "Sacred Stare",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Forbidden Force",
+          "type": "special",
+          "notation": "{air} {charge_back_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Energy Drain",
+          "type": "special",
+          "notation": "(close) {360}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Ascension Black",
+          "type": "special",
+          "notation": "{qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Imitation α",
+          "type": "special",
+          "notation": "{back}{back}{neogeo_b}{forward}{forward}{neogeo_b}",
+          "notes": ""
+        },
+        {
+          "name": "Imitation β",
+          "type": "special",
+          "notation": "{forward}{lp}{hp}{lp}{back}",
+          "notes": ""
+        },
+        {
+          "name": "Cyber EX",
+          "type": "special",
+          "notation": "Final Sacrifice {air} {qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Final Sacrifice",
+          "type": "special",
+          "notation": "{air} {qcf}{qcf}+{p}",
+          "notes": ""
+        }
+      ],
+      "id": "x-0_warlock",
+      "image": "images/Portrait_Cyberbots_Warlock.png"
+    },
+    {
+      "name": "G-13EX Zero Gouki",
+      "moves": [
+        {
+          "name": "Throws",
+          "type": "special",
+          "notation": "Normal Throw (close) {back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Normal Throw",
+          "type": "special",
+          "notation": "(close) {back} or {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Command Moves",
+          "type": "special",
+          "notation": "Stomping {air} {down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Stomping",
+          "type": "special",
+          "notation": "{air} {down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Special Moves",
+          "type": "special",
+          "notation": "Gou Hadouken {qcf}+{p} Shakunetsu Hadouken {hcb}+{p} Zankuu Hadouken {air} {qcf}+{p} Gou Shoryuken {dp}+{p} Tatsumaki Zankuukyaku {qcb}+{p} Kuuchuu TatsumakiZankuukyaku {air} {qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Gou Hadouken",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Shakunetsu Hadouken",
+          "type": "special",
+          "notation": "{hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Zankuu Hadouken",
+          "type": "special",
+          "notation": "{air} {qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Gou Shoryuken",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Tatsumaki Zankuukyaku",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Kuuchuu TatsumakiZankuukyaku",
+          "type": "special",
+          "notation": "{air} {qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Gou Hadouken",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Shakunetsu Hadouken",
+          "type": "special",
+          "notation": "{hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Zankuu Hadouken",
+          "type": "special",
+          "notation": "{air} {qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Gou Shoryuken",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Tatsumaki Zankuukyaku",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Kuuchuu TatsumakiZankuukyaku",
+          "type": "special",
+          "notation": "{air} {qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Cyber EX",
+          "type": "special",
+          "notation": "Messatsu Gou Shoryuu {qcf}{qcf}+{p} Messatsu Gou Hadou {qcb}{qcb}+{p} Tenma Gou Zankuu {air} {qcf}{qcf}+{slash} Messatsu Gou Rasen {qcb}{qcb}+{slash} Shun Goku Satsu {lp}{lp}{forward}{slash}{neogeo_b}",
+          "notes": ""
+        },
+        {
+          "name": "Messatsu Gou Shoryuu",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Messatsu Gou Hadou",
+          "type": "special",
+          "notation": "{qcb}{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Tenma Gou Zankuu",
+          "type": "special",
+          "notation": "{air} {qcf}{qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Messatsu Gou Rasen",
+          "type": "special",
+          "notation": "{qcb}{qcb}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Shun Goku Satsu",
+          "type": "special",
+          "notation": "{lp}{lp}{forward}{slash}{neogeo_b}",
+          "notes": ""
+        },
+        {
+          "name": "Messatsu Gou Shoryuu",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Messatsu Gou Hadou",
+          "type": "special",
+          "notation": "{qcb}{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Tenma Gou Zankuu",
+          "type": "special",
+          "notation": "{air} {qcf}{qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Messatsu Gou Rasen",
+          "type": "special",
+          "notation": "{qcb}{qcb}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Shun Goku Satsu",
+          "type": "special",
+          "notation": "{lp}{lp}{forward}{slash}{neogeo_b}",
+          "notes": ""
+        }
+      ],
+      "id": "g-13ex_zero_gouki",
+      "image": null
+    }
+  ]
+}
