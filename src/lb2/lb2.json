@@ -1,0 +1,1634 @@
+{
+  "name": "lb2",
+  "title": "The Last Blade 2",
+  "image": "images/The_Last_Blade_2_logo.png",
+  "characters": [
+    {
+      "name": "Akari Ichijou",
+      "moves": [
+        {
+          "name": "",
+          "type": "special",
+          "notation": "{back}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "ShikiGami Tenku",
+          "type": "special",
+          "notation": "{qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Tenmon Hoshi no Meguri (SUPER CANCEL)",
+          "type": "special",
+          "notation": "{down_up}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "└►Tenmon Kakageshi Tenshin",
+          "type": "special",
+          "notation": "{down_up}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "└►Tenmon Tenzuru Hokuto",
+          "type": "special",
+          "notation": "{down_up}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Gaiki DorotaBou",
+          "type": "special",
+          "notation": "{dp}+{slash} or {ckick}",
+          "notes": ""
+        },
+        {
+          "name": "└►MeiRyu Otoshi",
+          "type": "special",
+          "notation": "{down_back} or {down} or {down_forward}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "└►MeiRyu MariHouri",
+          "type": "special",
+          "notation": "{up_back} or {up} or {up_forward}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "└►MeiRyu MariKoroge",
+          "type": "special",
+          "notation": "Hold {slash}",
+          "notes": ""
+        },
+        {
+          "name": "Gaiki KiyoHime",
+          "type": "special",
+          "notation": "{hcb}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "Mamori HitoGata",
+          "type": "special",
+          "notation": "{hcb}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Henge HitoGata",
+          "type": "special",
+          "notation": "{hcb}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "",
+          "type": "special",
+          "notation": "{rdp}+{aslash} or {bslash} or {ckick} Cost meter, changes controls for ennemy",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  ShikiGami Rikugou",
+          "type": "special",
+          "notation": "{qcb}{down_back}{forward}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Super Desperation Move  ShikiGami HyakkiYakou",
+          "type": "special",
+          "notation": "{hcbf}+{bslash} Power Only",
+          "notes": ""
+        },
+        {
+          "name": "Furious Fandango Ougi",
+          "type": "special",
+          "notation": "{down}{down}+{aslash}/{bslash} Speed Only",
+          "notes": ""
+        }
+      ],
+      "id": "akari_ichijou",
+      "image": "images/Portrait_LB2_Akari.png"
+    },
+    {
+      "name": "Genbu no Okina",
+      "moves": [
+        {
+          "name": "Ki Paku",
+          "type": "special",
+          "notation": "{qcf}+{slash} or {ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Kame Mai Chi (SUPER CANCEL)",
+          "type": "special",
+          "notation": "{hcb}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Make Mai Ten",
+          "type": "special",
+          "notation": "{hcb}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Chouka Tairyou",
+          "type": "special",
+          "notation": "{dp}+{slash} or {ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Mukuyu Jin",
+          "type": "special",
+          "notation": "{rdp}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "Mukuyu Chi",
+          "type": "special",
+          "notation": "{rdp}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Mukuyu Ten",
+          "type": "special",
+          "notation": "{rdp}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Genbu no Hoko",
+          "type": "special",
+          "notation": "{forward}{hcf}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Super Desperation Move  Genbu no Ikari",
+          "type": "special",
+          "notation": "{forward}{hcf}+{bslash} Power Only",
+          "notes": ""
+        },
+        {
+          "name": "Furious Fandango Ougi",
+          "type": "special",
+          "notation": "{down}{down}+{aslash}/{bslash} Speed Only",
+          "notes": ""
+        }
+      ],
+      "id": "genbu_no_okina",
+      "image": "images/Portrait_LB2_Okina.png"
+    },
+    {
+      "name": "Hibiki Takane",
+      "moves": [
+        {
+          "name": "Touma ni te Kiru Nari",
+          "type": "special",
+          "notation": "{qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Chikayoru te Kiru Nari (SUPER CANCEL)",
+          "type": "special",
+          "notation": "{dp}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Kami Hitoe ni te Kawasu Nari",
+          "type": "special",
+          "notation": "{aslash}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "└►Ma o Tsumeru Koto Kanyou Nari",
+          "type": "special",
+          "notation": "{forward}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "└►Ma o Oku Koto Kanyou Nari",
+          "type": "special",
+          "notation": "{back}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Suigetsu o Tsuku Nari",
+          "type": "special",
+          "notation": "{dp}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "I o Awasu Nari",
+          "type": "special",
+          "notation": "Counter {hcf}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "└►Nukaba Kiru Nari",
+          "type": "special",
+          "notation": "{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "└►Nukazuba Kiranu Nari",
+          "type": "special",
+          "notation": "{bslash}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Sanae o Okotaranu Kokoro Nari",
+          "type": "special",
+          "notation": "{start} Hold",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Hasshou Suru Shinki Nari",
+          "type": "special",
+          "notation": "{qcb}{forward}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Super Desperation Move  Shi o Osorenu Kokoro Nari",
+          "type": "special",
+          "notation": "{forward}{hcf}+{bslash} Power Only",
+          "notes": ""
+        },
+        {
+          "name": "Furious Fandango Ougi",
+          "type": "special",
+          "notation": "{down}{down}+{aslash}/{bslash} Speed Only",
+          "notes": ""
+        }
+      ],
+      "id": "hibiki_takane",
+      "image": "images/Portrait_LB2_Hibiki.png"
+    },
+    {
+      "name": "Hyo Amano",
+      "moves": [
+        {
+          "name": "Keima no Taka",
+          "type": "special",
+          "notation": "{dp}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Suzume Sashi (SUPER CANCEL)",
+          "type": "special",
+          "notation": "{forward}{down_back}{forward}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Fusha",
+          "type": "special",
+          "notation": "{qcb}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "Shougi Doushi",
+          "type": "special",
+          "notation": "(Close) {down_forward}{down_forward}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Ibisha Anaguma",
+          "type": "special",
+          "notation": "{tap} {aslash}",
+          "notes": ""
+        },
+        {
+          "name": "└►Anaguma no Fundoshi Nugi",
+          "type": "special",
+          "notation": "{qcf}+{bslash} Can Repeat",
+          "notes": ""
+        },
+        {
+          "name": "Hisshi",
+          "type": "special",
+          "notation": "{hcb}+{bslash} (Can Hold)",
+          "notes": ""
+        },
+        {
+          "name": "Takabisha",
+          "type": "special",
+          "notation": "Counter {hcb}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Choujouhatsu",
+          "type": "special",
+          "notation": "{qcf}+{start}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Banjo Kono Itte \"Tokin\"",
+          "type": "special",
+          "notation": "{hcb}{hcb}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Super Desperation Move  Banjo Kono Itte \"Hisha\"",
+          "type": "special",
+          "notation": "{hcb}{hcb}+{aslash} Power Only",
+          "notes": ""
+        },
+        {
+          "name": "Super Desperation Move  Banjo Kono Itte \"Kaku\"",
+          "type": "special",
+          "notation": "{hcb}{hcb}+{bslash} Power Only",
+          "notes": ""
+        },
+        {
+          "name": "Furious Fandango Ougi",
+          "type": "special",
+          "notation": "{down}{down}+{aslash}/{bslash} Speed Only",
+          "notes": ""
+        }
+      ],
+      "id": "hyo_amano",
+      "image": "images/Portrait_LB2_Amano.png"
+    },
+    {
+      "name": "Juzoh Kanzaki",
+      "moves": [
+        {
+          "name": "Happa",
+          "type": "special",
+          "notation": "{qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Yasegaman",
+          "type": "special",
+          "notation": "{qcf}+{ckick} Gives Super Armor",
+          "notes": ""
+        },
+        {
+          "name": "Mozuhana",
+          "type": "special",
+          "notation": "{qcb}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Iwakudaki",
+          "type": "special",
+          "notation": "{cfb}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "└►Tetsu Atama",
+          "type": "special",
+          "notation": "{qcf}+{ckick} Can repeat x3 Speed Only",
+          "notes": ""
+        },
+        {
+          "name": "Yurashi (SUPER CANCEL)",
+          "type": "special",
+          "notation": "{dp}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Tatakitsuke",
+          "type": "special",
+          "notation": "Anti Air Counter {hcb}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "└►Suritsubushi",
+          "type": "special",
+          "notation": "{qcf}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "└►Bokunaguri",
+          "type": "special",
+          "notation": "{qcf}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move    └►Ranmoku",
+          "type": "special",
+          "notation": "{hcb}{hcb}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Super Desperation Move      └►Chougeki Dou Jai",
+          "type": "special",
+          "notation": "{qcf}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Bunnage",
+          "type": "special",
+          "notation": "Close {hcb}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "└►Kattobashi",
+          "type": "special",
+          "notation": "{qcf}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "└►Futtobashi",
+          "type": "special",
+          "notation": "{qcf}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  └►Houmuran",
+          "type": "special",
+          "notation": "{qcf}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Daitan Muteki",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Super Desperation Move  Chougekiretsubouzen Gyoutendaifunka",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{bslash} Power Only",
+          "notes": ""
+        },
+        {
+          "name": "Furious Fandango Ougi",
+          "type": "special",
+          "notation": "{down}{down}+{aslash}/{bslash} Speed Only",
+          "notes": ""
+        }
+      ],
+      "id": "juzoh_kanzaki",
+      "image": "images/Portrait_LB2_Juzoh.png"
+    },
+    {
+      "name": "Kaede (After the Awakening)",
+      "moves": [
+        {
+          "name": "Ittou RaiTei",
+          "type": "special",
+          "notation": "Close {air} {ckick}+{neogeo_d}",
+          "notes": ""
+        },
+        {
+          "name": "Ittou Hayate",
+          "type": "special",
+          "notation": "{qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Ittou Kuga",
+          "type": "special",
+          "notation": "{dp}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "└►Ittou Kuga",
+          "type": "special",
+          "notation": "{dp}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Ittou RenjinZan (SUPER CANCEL)",
+          "type": "special",
+          "notation": "{qcb}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Ittou Oite",
+          "type": "special",
+          "notation": "{air}{qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Ittou TabaKaze",
+          "type": "special",
+          "notation": "{qcb}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Ittou ArashiUchi",
+          "type": "special",
+          "notation": "Close {hcf}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Kasshin FukuRyu",
+          "type": "special",
+          "notation": "{qcb}{down_back}{forward}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Kasshin SeiRyu",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Super Desperation Move  Kasshin KouRyu",
+          "type": "special",
+          "notation": "{qcb}{down_back}{forward}+{bslash} Power Only",
+          "notes": ""
+        },
+        {
+          "name": "Super Desperation Move  Kasshin SouRyu",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{bslash} Power Only",
+          "notes": ""
+        },
+        {
+          "name": "Furious Fandango Ougi",
+          "type": "special",
+          "notation": "{down}{down}+{aslash}/{bslash} Speed Only",
+          "notes": ""
+        }
+      ],
+      "id": "kaede_after_the_awakening",
+      "image": "images/Portrait_LB2_Kaede.png"
+    },
+    {
+      "name": "Keiichiro Washizuka",
+      "moves": [
+        {
+          "name": "Shikku Satsu",
+          "type": "special",
+          "notation": "{charge_back_forward}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Koku Satsu",
+          "type": "special",
+          "notation": "{charge_down_up}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Rōga (SUPER CANCEL)",
+          "type": "special",
+          "notation": "{charge_back_forward}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "└►Rōga Fukushiki",
+          "type": "special",
+          "notation": "{qcb}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "└►Rōga Onshiki",
+          "type": "special",
+          "notation": "{qcb}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "└►Rōga Shashiki",
+          "type": "special",
+          "notation": "{qcf}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Shun Satsu",
+          "type": "special",
+          "notation": "{qcb}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "└►Shun Satsu ren",
+          "type": "special",
+          "notation": "{tap} {slash}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Shin Rōga",
+          "type": "special",
+          "notation": "{qcb}{down_back}{forward}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Super Desperation Move  Saishu Rōga",
+          "type": "special",
+          "notation": "Can Hold {qcb}{down_back}{forward}+{bslash} Power Only",
+          "notes": ""
+        },
+        {
+          "name": "Furious Fandango Ougi",
+          "type": "special",
+          "notation": "{down}{down}+{aslash}/{bslash} Speed Only",
+          "notes": ""
+        }
+      ],
+      "id": "keiichiro_washizuka",
+      "image": "images/Portrait_LB2_Washizuka.png"
+    },
+    {
+      "name": "Kojiroh Sanada",
+      "moves": [
+        {
+          "name": "Shikku Satsu",
+          "type": "special",
+          "notation": "{qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Koku Satsu",
+          "type": "special",
+          "notation": "{dp}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Shoubi Sen",
+          "type": "special",
+          "notation": "{qcb}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "Mu Myou Ken (SUPER CANCEL)",
+          "type": "special",
+          "notation": "{qcb}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Shunjin",
+          "type": "special",
+          "notation": "{qcb}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "└►Tenchi",
+          "type": "special",
+          "notation": "{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Mu Myou Ken Nie",
+          "type": "special",
+          "notation": "{qcb}{forward}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Super Desperation Move  Rouga Zero",
+          "type": "special",
+          "notation": "{qcb}{forward}+{bslash} Can Hold Power Only",
+          "notes": ""
+        },
+        {
+          "name": "Furious Fandango Ougi",
+          "type": "special",
+          "notation": "{down}{down}+{aslash}/{bslash} Speed Only",
+          "notes": ""
+        }
+      ],
+      "id": "kojiroh_sanada",
+      "image": "images/Portrait_LB2_Kojiroh.png"
+    },
+    {
+      "name": "Lee Rekka",
+      "moves": [
+        {
+          "name": "Ryu Tsui Sen",
+          "type": "special",
+          "notation": "{qcb}+{ckick} Can repeat x3",
+          "notes": ""
+        },
+        {
+          "name": "Ryu Shou Sen",
+          "type": "special",
+          "notation": "{air}{qcb}+{ckick} Can repeat x2",
+          "notes": ""
+        },
+        {
+          "name": "Muei Kyaku",
+          "type": "special",
+          "notation": "{air}{qcf}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "En Sen Shou",
+          "type": "special",
+          "notation": "{charge_down_up}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "└►En Sen Shou",
+          "type": "special",
+          "notation": "{down}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Kasumi",
+          "type": "special",
+          "notation": "{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "└►Hokage",
+          "type": "special",
+          "notation": "{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "└►Homura",
+          "type": "special",
+          "notation": "{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "└►Senpuu",
+          "type": "special",
+          "notation": "{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "└►Senpuu Follow up",
+          "type": "special",
+          "notation": "{down}+{ckick} Up to 2 Times",
+          "notes": ""
+        },
+        {
+          "name": "└►Hakkei",
+          "type": "special",
+          "notation": "{neogeo_d}",
+          "notes": ""
+        },
+        {
+          "name": "Enryu Haibi (SUPER CANCEL)",
+          "type": "special",
+          "notation": "{hcb}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "└►Enryu Haibi",
+          "type": "special",
+          "notation": "{hcf}+{bslash} Only for B version",
+          "notes": ""
+        },
+        {
+          "name": "Ibuki",
+          "type": "special",
+          "notation": "Hold {start} Restore HP",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Ougi Enryu Tenshin",
+          "type": "special",
+          "notation": "{qcb}{forward}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Super Desperation Move  Hiougi Soten Muei Kyaku",
+          "type": "special",
+          "notation": "{qcb}{forward}+{bslash} Power Only",
+          "notes": ""
+        },
+        {
+          "name": "Furious Fandango Ougi",
+          "type": "special",
+          "notation": "{down}{down}+{aslash}/{bslash} Speed Only",
+          "notes": ""
+        }
+      ],
+      "id": "lee_rekka",
+      "image": "images/Portrait_LB2_Lee.png"
+    },
+    {
+      "name": "Moriya Minakata",
+      "moves": [
+        {
+          "name": "",
+          "type": "special",
+          "notation": "{down_forward}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "",
+          "type": "special",
+          "notation": "{back}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Ittou Shingetsu",
+          "type": "special",
+          "notation": "{dp}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "└►Ittou Sogetsu",
+          "type": "special",
+          "notation": "{dp}+{bslash} Speed Only",
+          "notes": ""
+        },
+        {
+          "name": "Ittou Tsukikage (SUPER CANCEL)",
+          "type": "special",
+          "notation": "{qcf}+{aslash} Can repeat x3",
+          "notes": ""
+        },
+        {
+          "name": "└►Ittou Shingetsu",
+          "type": "special",
+          "notation": "{dp}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "└►Ittou Sogetsu",
+          "type": "special",
+          "notation": "{dp}+{bslash} Speed Only",
+          "notes": ""
+        },
+        {
+          "name": "Ittou Tsukikage (SUPER CANCEL)",
+          "type": "special",
+          "notation": "{qcf}+{bslash} Can repeat x4",
+          "notes": ""
+        },
+        {
+          "name": "└►Ittou Shingetsu",
+          "type": "special",
+          "notation": "{dp}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "└►Ittou Sogetsu",
+          "type": "special",
+          "notation": "{dp}+{bslash} Speed Only",
+          "notes": ""
+        },
+        {
+          "name": "Ittou Oboro",
+          "type": "special",
+          "notation": "{qcb}+",
+          "notes": ""
+        },
+        {
+          "name": "└►Jodan",
+          "type": "special",
+          "notation": "Can Hold {aslash}",
+          "notes": ""
+        },
+        {
+          "name": "└►Chuudan",
+          "type": "special",
+          "notation": "Can Hold {bslash}",
+          "notes": ""
+        },
+        {
+          "name": "└►Gedan",
+          "type": "special",
+          "notation": "Can Hold {ckick}",
+          "notes": ""
+        },
+        {
+          "name": "└►Battō Kaiji Yo",
+          "type": "special",
+          "notation": "Cancel Hold {neogeo_d}",
+          "notes": ""
+        },
+        {
+          "name": "Taitou Hogetsu",
+          "type": "special",
+          "notation": "{qcbd}+{aslash}/{bslash}/{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "└►Jodan",
+          "type": "special",
+          "notation": "Can Hold {aslash}",
+          "notes": ""
+        },
+        {
+          "name": "└►Chuudan",
+          "type": "special",
+          "notation": "Can Hold {bslash}",
+          "notes": ""
+        },
+        {
+          "name": "└►Gedan",
+          "type": "special",
+          "notation": "Can Hold {ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Kassatsu Izayoi Gekka",
+          "type": "special",
+          "notation": "{forward}{hcf}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Super Desperation Move  Kassatsu Midare Setsu Gekka",
+          "type": "special",
+          "notation": "{forward}{hcf}+{bslash} Power Only",
+          "notes": ""
+        },
+        {
+          "name": "Furious Fandango Ougi",
+          "type": "special",
+          "notation": "{down}{down}+{aslash}/{bslash} Speed Only",
+          "notes": ""
+        }
+      ],
+      "id": "moriya_minakata",
+      "image": "images/Portrait_LB2_Moriya.png"
+    },
+    {
+      "name": "Mukuro",
+      "moves": [
+        {
+          "name": "Kaiten Kimo Eguri",
+          "type": "special",
+          "notation": "{dp}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "└►Kaiten Kimo Eguri",
+          "type": "special",
+          "notation": "{tap} {slash}",
+          "notes": ""
+        },
+        {
+          "name": "Hage Washi",
+          "type": "special",
+          "notation": "{qcb}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "└►Tsuibami",
+          "type": "special",
+          "notation": "{up}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Zan Niku Kamaitachi",
+          "type": "special",
+          "notation": "{hcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Ji Name Suberi",
+          "type": "special",
+          "notation": "{forward_back}{forward}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "└►Ji Name Suberi",
+          "type": "special",
+          "notation": "{cf}",
+          "notes": ""
+        },
+        {
+          "name": "Mujihi Sashi",
+          "type": "special",
+          "notation": "Close {hcb}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Zan Niku Obasami (SUPER CANCEL)",
+          "type": "special",
+          "notation": "{air}{qcb}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Mei Kyo Shisui Kyoki",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Super Desperation Move  Mei Kyo hisui Kyoki",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{bslash} Power Only",
+          "notes": ""
+        },
+        {
+          "name": "Furious Fandango Ougi",
+          "type": "special",
+          "notation": "{down}{down}+{aslash}/{bslash} Speed Only",
+          "notes": ""
+        }
+      ],
+      "id": "mukuro",
+      "image": "images/Portrait_LB2_Mukuro.png"
+    },
+    {
+      "name": "Setsuna",
+      "moves": [
+        {
+          "name": "Mumei - Ichi (SUPER CANCEL)",
+          "type": "special",
+          "notation": "{qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Mumei - Ni",
+          "type": "special",
+          "notation": "{dp}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Mumei - San",
+          "type": "special",
+          "notation": "{qcb}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Mumei - Yon",
+          "type": "special",
+          "notation": "{dp}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Mumei - Go",
+          "type": "special",
+          "notation": "{hcb}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "└►Mumei - Go no Tsui (SUPER CANCEL)",
+          "type": "special",
+          "notation": "{hcf}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Mumei - Zetsu",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{2xslash} Can Hold",
+          "notes": ""
+        },
+        {
+          "name": "Super Desperation Move  Mumei - Kyoku",
+          "type": "special",
+          "notation": "{hcb}{hcb}+{bslash} Power Only",
+          "notes": ""
+        },
+        {
+          "name": "Super Desperation Move  └►Mumei - Kyoku no Tsui",
+          "type": "special",
+          "notation": "{hcf}+{2xslash} Power Only",
+          "notes": ""
+        },
+        {
+          "name": "Furious Fandango Ougi",
+          "type": "special",
+          "notation": "{down}{down}+{aslash}/{bslash} Speed Only",
+          "notes": ""
+        }
+      ],
+      "id": "setsuna",
+      "image": "images/Portrait_LB2_Setsuna.png"
+    },
+    {
+      "name": "Shigen Naoe",
+      "moves": [
+        {
+          "name": "Ruri Sai",
+          "type": "special",
+          "notation": "Close {air} {ckick}+{neogeo_d}",
+          "notes": ""
+        },
+        {
+          "name": "Retsu Hoko",
+          "type": "special",
+          "notation": "{dp}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "Zetsu Hoko",
+          "type": "special",
+          "notation": "{dp}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Byakko So (SUPER CANCEL)",
+          "type": "special",
+          "notation": "{qcb}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Byakko Shu",
+          "type": "special",
+          "notation": "{qcb}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "└►Byakko Shuu Tsuika",
+          "type": "special",
+          "notation": "{qcb}+{ckick} Speed Only",
+          "notes": ""
+        },
+        {
+          "name": "Hisui Sai",
+          "type": "special",
+          "notation": "Close {hcf}+{aslash}/{bslash}/{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Kongo Sai",
+          "type": "special",
+          "notation": "Close {hcbf}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "└►Kai",
+          "type": "special",
+          "notation": "{hcf}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "└►Kai",
+          "type": "special",
+          "notation": "{qcb}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "└►Retsu",
+          "type": "special",
+          "notation": "{qcb}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move    └►Shinden Taichi",
+          "type": "special",
+          "notation": "{hcb}{hcb}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "└►Aku",
+          "type": "special",
+          "notation": "{hcf}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "└►Shou",
+          "type": "special",
+          "notation": "{qcb}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "└►Da",
+          "type": "special",
+          "notation": "{qcb}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Super Desperation Move    └►Dohatsu Taiten",
+          "type": "special",
+          "notation": "{hcb}{hcb}+{ckick} Power Only",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Bouko Hyouga",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  └►Kyouten Douji",
+          "type": "special",
+          "notation": "{hcb}{hcb}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  └►Yuuchuu Maisai",
+          "type": "special",
+          "notation": "{hcf}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Inga Ouhou",
+          "type": "special",
+          "notation": "Reversal {hcfb}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Inga Ohou",
+          "type": "special",
+          "notation": "Close {hcb}{hcb}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Super Desperation Move  Fugu Taiten",
+          "type": "special",
+          "notation": "Close {hcb}{hcb}+{bslash} Power Only",
+          "notes": ""
+        },
+        {
+          "name": "Furious Fandango Ougi",
+          "type": "special",
+          "notation": "{down}{down}+{aslash}/{bslash} Speed Only",
+          "notes": ""
+        }
+      ],
+      "id": "shigen_naoe",
+      "image": "images/Portrait_LB2_Shigen.png"
+    },
+    {
+      "name": "Shinnosuke Kagami",
+      "moves": [
+        {
+          "name": "Kouenshou",
+          "type": "special",
+          "notation": "{air}{down}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Hien Yoku",
+          "type": "special",
+          "notation": "{qcf}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "Gouen Sou",
+          "type": "special",
+          "notation": "{qcf}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "└►Shiranui",
+          "type": "special",
+          "notation": "{qcf}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Sho Hoko (SUPER CANCEL)",
+          "type": "special",
+          "notation": "{dp}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "En Hoko",
+          "type": "special",
+          "notation": "Close {hcb}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Shizuka Naru Kodou",
+          "type": "special",
+          "notation": "{qcb}+{ckick}Hold to charge gauge",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Guren Suzaku",
+          "type": "special",
+          "notation": "{air}{hcf}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Houou Tenshou",
+          "type": "special",
+          "notation": "{forward}{hcf}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Super Desperation Move  Funshokouju",
+          "type": "special",
+          "notation": "{air}{hcf}+{bslash} Power Only",
+          "notes": ""
+        },
+        {
+          "name": "Furious Fandango Ougi",
+          "type": "special",
+          "notation": "{down}{down}+{aslash}/{bslash} Speed Only",
+          "notes": ""
+        }
+      ],
+      "id": "shinnosuke_kagami",
+      "image": "images/Portrait_LB2_Kagami.png"
+    },
+    {
+      "name": "Yuki",
+      "moves": [
+        {
+          "name": "Hyou Jin",
+          "type": "special",
+          "notation": "{qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Sou Ka",
+          "type": "special",
+          "notation": "{dp}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Shun Setsu Zan (SUPER CANCEL)",
+          "type": "special",
+          "notation": "{qcb}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Hyou Kyou",
+          "type": "special",
+          "notation": "Reversal {hcf}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Suizan",
+          "type": "special",
+          "notation": "Close {hcb}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Juuyou",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Super Desperation Move  Shin Yukishi Maki",
+          "type": "special",
+          "notation": "{qcb}{forward}+{bslash} Power Only",
+          "notes": ""
+        },
+        {
+          "name": "Furious Fandango Ougi",
+          "type": "special",
+          "notation": "{down}{down}+{aslash}/{bslash} Speed Only",
+          "notes": ""
+        }
+      ],
+      "id": "yuki",
+      "image": "images/Portrait_LB2_Yuki.png"
+    },
+    {
+      "name": "Zantetsu",
+      "moves": [
+        {
+          "name": "Ryuei Jin",
+          "type": "special",
+          "notation": "{qcf}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "Minamo Gakure",
+          "type": "special",
+          "notation": "{rdp}+{aslash}Turns Invisible",
+          "notes": ""
+        },
+        {
+          "name": "Kikou Hou (SUPER CANCEL)",
+          "type": "special",
+          "notation": "{qcb}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Mukuro Nui",
+          "type": "special",
+          "notation": "{air}{qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "└►Mukuro Nui",
+          "type": "special",
+          "notation": "{qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Kagehoushi",
+          "type": "special",
+          "notation": "{forward_back}{forward}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "└►Tachi Koppa",
+          "type": "special",
+          "notation": "{qcb}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "└►Kasumigiri",
+          "type": "special",
+          "notation": "{qcb}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Tenma Otoshi",
+          "type": "special",
+          "notation": "Close {air}{hcb}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Oboro Giri",
+          "type": "special",
+          "notation": "{dp}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Tenma Kyaku",
+          "type": "special",
+          "notation": "{air}{down}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "└►Tenma Kyaku",
+          "type": "special",
+          "notation": "{air}{down}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Dankoujin",
+          "type": "special",
+          "notation": "{forward}{hcf}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Super Desperation Move  Rouga Zero",
+          "type": "special",
+          "notation": "Close {hcb}{hcb}+{bslash} Can Hold Power Only",
+          "notes": ""
+        },
+        {
+          "name": "Furious Fandango Ougi",
+          "type": "special",
+          "notation": "{down}{down}+{aslash}/{bslash} Speed Only",
+          "notes": ""
+        }
+      ],
+      "id": "zantetsu",
+      "image": "images/Portrait_LB2_Zantetsu.png"
+    },
+    {
+      "name": "Kaede (Before the Awakening)",
+      "moves": [
+        {
+          "name": "Ittou RaiTei",
+          "type": "special",
+          "notation": "Close {air} {ckick}+{neogeo_d}",
+          "notes": ""
+        },
+        {
+          "name": "Ittou Hayate",
+          "type": "special",
+          "notation": "{qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Ittou Kuga",
+          "type": "special",
+          "notation": "{dp}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "└►Ittou Kabutowari",
+          "type": "special",
+          "notation": "{dp}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Ittou RenjinZan (SUPER CANCEL)",
+          "type": "special",
+          "notation": "{qcb}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Ittou TabaKaze",
+          "type": "special",
+          "notation": "{qcb}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Ittou ArashiUchi",
+          "type": "special",
+          "notation": "Close {hcf}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Kasshin FukuRyu",
+          "type": "special",
+          "notation": "{qcb}{down_back}{forward}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Super Desperation Move  Kasshin KouRyu",
+          "type": "special",
+          "notation": "{qcb}{down_back}{forward}+{bslash} Power Only",
+          "notes": ""
+        },
+        {
+          "name": "Furious Fandango Ougi",
+          "type": "special",
+          "notation": "{down}{down}+{aslash}/{bslash} Speed Only",
+          "notes": ""
+        }
+      ],
+      "id": "kaede_before_the_awakening",
+      "image": "images/Portrait_LB2_Kaede_Before.png"
+    },
+    {
+      "name": "Kouryu",
+      "moves": [
+        {
+          "name": "Soranuken",
+          "type": "special",
+          "notation": "{qcf}+{slash}Can Hold",
+          "notes": ""
+        },
+        {
+          "name": "Slash Combo (SUPER CANCEL)",
+          "type": "special",
+          "notation": "{qcb}+{slash} X4",
+          "notes": ""
+        },
+        {
+          "name": "Overhead Slash",
+          "type": "special",
+          "notation": "{qcb}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Mode Change",
+          "type": "special",
+          "notation": "{bslash}+{ckick}+{neogeo_d}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Suzaku",
+          "type": "special",
+          "notation": "{air}{forward}{hcf}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Byakko",
+          "type": "special",
+          "notation": "Close {forward}{hcf}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Genbu",
+          "type": "special",
+          "notation": "{forward}{hcf}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Seiryuu",
+          "type": "special",
+          "notation": "{forward}{hcf}+{neogeo_d}",
+          "notes": ""
+        },
+        {
+          "name": "Super Desperation Move  Mortal Spear",
+          "type": "special",
+          "notation": "{back}{hcb}+{bslash} Power Only",
+          "notes": ""
+        },
+        {
+          "name": "Furious Fandango Ougi",
+          "type": "special",
+          "notation": "{down}{down}+{aslash}/{bslash} Speed Only",
+          "notes": ""
+        }
+      ],
+      "id": "kouryu",
+      "image": "images/Portrait_LB2_Kouryu.png"
+    },
+    {
+      "name": "Musashi Akatsuki",
+      "moves": [
+        {
+          "name": "Kanketsu Sen",
+          "type": "special",
+          "notation": "{qcf}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Obiyakashi (SUPER CANCEL)",
+          "type": "special",
+          "notation": "{hcf}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "Juji Gamae",
+          "type": "special",
+          "notation": "Can Hold {dp}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Makura Niren",
+          "type": "special",
+          "notation": "Close {hcb}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Shuchu",
+          "type": "special",
+          "notation": "Hold {qcb} {aslash}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Gorin Tsurane",
+          "type": "special",
+          "notation": "{hcbf}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Super Desperation Move  Niten Muso Ken",
+          "type": "special",
+          "notation": "{hcb}{hcb}+{bslash} Power Only",
+          "notes": ""
+        },
+        {
+          "name": "Furious Fandango Ougi",
+          "type": "special",
+          "notation": "{down}{down}+{aslash}/{bslash} Speed Only",
+          "notes": ""
+        }
+      ],
+      "id": "musashi_akatsuki",
+      "image": "images/Portrait_LB2_Musashi.png"
+    }
+  ]
+}

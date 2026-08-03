@@ -1,0 +1,1906 @@
+{
+  "name": "mvsc",
+  "title": "Marvel vs. Capcom",
+  "image": "images/Marvel_vs_Capcom_logo.png",
+  "characters": [
+    {
+      "name": "Captain Commando",
+      "moves": [
+        {
+          "name": "Captain Fire",
+          "type": "special",
+          "notation": "{air} {qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Captain Corridor",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Captain Kick",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Commando Strike: Ginzu",
+          "type": "special",
+          "notation": "{qcf}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Commando Strike: Mack",
+          "type": "special",
+          "notation": "{qcf}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Commando Strike: Babyhead",
+          "type": "special",
+          "notation": "{qcf}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Captain Sword",
+          "type": "special",
+          "notation": "{qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Hyper Captain Storm",
+          "type": "special",
+          "notation": "{qcf}+{kk}",
+          "notes": ""
+        }
+      ],
+      "id": "captain_commando",
+      "image": "images/Portrait_MVC_CaptCommando.png"
+    },
+    {
+      "name": "Chun-Li",
+      "moves": [
+        {
+          "name": "Wall Jump",
+          "type": "special",
+          "notation": "Jump against a wall, press in opposite direction",
+          "notes": ""
+        },
+        {
+          "name": "Air Dash",
+          "type": "special",
+          "notation": "{air} {forward}{forward} or {3xpunch}",
+          "notes": ""
+        },
+        {
+          "name": "Triple Jump",
+          "type": "special",
+          "notation": "{air} {up_back} , {up} or {up_forward} x2",
+          "notes": ""
+        },
+        {
+          "name": "Yousou Kyaku",
+          "type": "special",
+          "notation": "{air} {down}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Kaku Kyaku Raku",
+          "type": "special",
+          "notation": "{down_forward}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Reishiki Kikouken",
+          "type": "special",
+          "notation": "{forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Kikouken",
+          "type": "special",
+          "notation": "{hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Sen'en Shuu",
+          "type": "special",
+          "notation": "{hcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Hyakuretsu Kyaku",
+          "type": "special",
+          "notation": "{air} {tap} {k}",
+          "notes": ""
+        },
+        {
+          "name": "Tenshoukyaku",
+          "type": "special",
+          "notation": "{dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Kikoushou",
+          "type": "special",
+          "notation": "{qcf}+{pp} ({tap} {p} or {k})",
+          "notes": ""
+        },
+        {
+          "name": "Senretsu Kyaku",
+          "type": "special",
+          "notation": "{qcf}+{kk} ({tap} {p} or {k})",
+          "notes": ""
+        },
+        {
+          "name": "Hazan Tenshoukyaku",
+          "type": "special",
+          "notation": "{dp}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Shichisei Senkuu Kyaku",
+          "type": "special",
+          "notation": "{air} {qcf}+{kk}",
+          "notes": ""
+        }
+      ],
+      "id": "chun-li",
+      "image": "images/Portrait_MVC_Chun-Li.png"
+    },
+    {
+      "name": "Jin Saotome",
+      "moves": [
+        {
+          "name": "Sliding Cyclone",
+          "type": "special",
+          "notation": "{down}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Diving Cyclone",
+          "type": "special",
+          "notation": "{air} {down}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Saotome Typhoon",
+          "type": "special",
+          "notation": "{charge_back_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Saotome Dynamite",
+          "type": "special",
+          "notation": "{charge_down_up}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Saotome Crush",
+          "type": "special",
+          "notation": "{hcb}+{k} , close",
+          "notes": ""
+        },
+        {
+          "name": "Saotome Fire",
+          "type": "special",
+          "notation": "Press {start} and {tap} {p} or {k}",
+          "notes": ""
+        },
+        {
+          "name": "Blodia Punch",
+          "type": "special",
+          "notation": "{qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Blodia Vulcan",
+          "type": "special",
+          "notation": "{qcb}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Saotome Cyclone",
+          "type": "special",
+          "notation": "{qcf}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Saotome Shine",
+          "type": "special",
+          "notation": "Starts automatically when Jin is the last man standing and has 25% of life left.",
+          "notes": ""
+        }
+      ],
+      "id": "jin_saotome",
+      "image": "images/Portrait_MVC_Jin_Saotome.png"
+    },
+    {
+      "name": "Mega Man",
+      "moves": [
+        {
+          "name": "Wall Jump",
+          "type": "special",
+          "notation": "Jump against a wall, press in opposite direction",
+          "notes": ""
+        },
+        {
+          "name": "Sliding",
+          "type": "special",
+          "notation": "{down}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Mega Buster",
+          "type": "special",
+          "notation": "{air} {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Charge Shot",
+          "type": "special",
+          "notation": "{air} {hp} , release after holding Mega Buster",
+          "notes": ""
+        },
+        {
+          "name": "Mega Upper",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Item Change: Rock Ball",
+          "type": "special",
+          "notation": "{qcb}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Item Change: Tornado Hold",
+          "type": "special",
+          "notation": "{qcb}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Item Change: Leaf Shield",
+          "type": "special",
+          "notation": "{qcb}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Item Attack",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Hyper Mega Man",
+          "type": "special",
+          "notation": "{air} {qcf}+{pp} ({tap} {p} or {k} for more hits)",
+          "notes": ""
+        },
+        {
+          "name": "Rush Drill",
+          "type": "special",
+          "notation": "{qcf}+{kk} ({tap} {p} or {k} for boosting)",
+          "notes": ""
+        },
+        {
+          "name": "_Controls",
+          "type": "special",
+          "notation": "move with {back} or {forward} , jump with {up_back}, {up} or {up_forward}",
+          "notes": ""
+        },
+        {
+          "name": "Beat Plane",
+          "type": "special",
+          "notation": "{air} {qcb}+{kk} , press {p} for fireballs, press for {k} missiles",
+          "notes": ""
+        },
+        {
+          "name": "_Controls",
+          "type": "special",
+          "notation": "move in any direction",
+          "notes": ""
+        },
+        {
+          "name": "Magnetic Shockwave",
+          "type": "special",
+          "notation": "{qcb}+{pp} , only for the PSone version. Beat the game with Mega Man, then hold the Select button when choosing him.",
+          "notes": ""
+        }
+      ],
+      "id": "mega_man",
+      "image": "images/Portrait_MVC_Mega_Man.png"
+    },
+    {
+      "name": "Morrigan",
+      "moves": [
+        {
+          "name": "Air Dash",
+          "type": "special",
+          "notation": "{air} {forward}{forward} or {3xpunch}",
+          "notes": ""
+        },
+        {
+          "name": "Vernier Dash (Upward)",
+          "type": "special",
+          "notation": "{air} {forward}{up_forward} or {up}+{3xpunch}",
+          "notes": ""
+        },
+        {
+          "name": "Vernier Dash (Downward)",
+          "type": "special",
+          "notation": "{air} {forward}{down_forward} or {down}+{3xpunch}",
+          "notes": ""
+        },
+        {
+          "name": "Shell Kick",
+          "type": "special",
+          "notation": "{air} {down}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Shell Pierce",
+          "type": "special",
+          "notation": "{air} {down}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Mysterious Arc",
+          "type": "special",
+          "notation": "{down_forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Necro Desire",
+          "type": "special",
+          "notation": "{forward}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Soul Fist",
+          "type": "special",
+          "notation": "{air} {qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Shadow Blade",
+          "type": "special",
+          "notation": "{air} {dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Vector Drain",
+          "type": "special",
+          "notation": "{hcb}+{p} , {tap} {p} and/or {360}, close",
+          "notes": ""
+        },
+        {
+          "name": "Soul Eraser",
+          "type": "special",
+          "notation": "{qcf}+{pp} , {tap} {p} or {k} for more hits",
+          "notes": ""
+        },
+        {
+          "name": "Darkness Illusion",
+          "type": "special",
+          "notation": "{air} {qcf}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Silhouette Blade",
+          "type": "special",
+          "notation": "{dp}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Eternal Slumber",
+          "type": "special",
+          "notation": "{max} {lp} {mk} {back} {mp} {hk} , unblockable",
+          "notes": ""
+        }
+      ],
+      "id": "morrigan",
+      "image": "images/Portrait_MVC_Morrigan.png"
+    },
+    {
+      "name": "Ryu",
+      "moves": [
+        {
+          "name": "Aerial High Kick",
+          "type": "special",
+          "notation": "{air} {up}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Aerial Senpuu Kyaku",
+          "type": "special",
+          "notation": "{air} {up}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Sakotsu Wari",
+          "type": "special",
+          "notation": "{forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Senpuu Kyaku",
+          "type": "special",
+          "notation": "{forward}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Hadouken",
+          "type": "special",
+          "notation": "{air} {qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Shoryuken",
+          "type": "special",
+          "notation": "{air} {dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Tatsumaki Senpukyaku",
+          "type": "special",
+          "notation": "{air} {qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Shinkuu Hadouken",
+          "type": "special",
+          "notation": "{air} {qcf}+{pp}, {tap} {p} or {k} for more hits",
+          "notes": ""
+        },
+        {
+          "name": "Shinkuu Tatsumaki Senpukyaku",
+          "type": "special",
+          "notation": "{qcb}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Shin Shoryuken",
+          "type": "special",
+          "notation": "{dp}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Mode Change: Ken",
+          "type": "special",
+          "notation": "{hcb}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Mode Change: Akuma",
+          "type": "special",
+          "notation": "{hcb}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Aerial High Kick",
+          "type": "special",
+          "notation": "{air} {up}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Aerial Senpuu Kyaku",
+          "type": "special",
+          "notation": "{air} {up}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Inazuma Kakato Wari",
+          "type": "special",
+          "notation": "{forward}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Hadouken",
+          "type": "special",
+          "notation": "{air} {qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Shoryuken",
+          "type": "special",
+          "notation": "{air} {dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Tatsumaki Senpukyaku",
+          "type": "special",
+          "notation": "{air} {qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Shouryuu Reppa",
+          "type": "special",
+          "notation": "{qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Shinryuu Ken",
+          "type": "special",
+          "notation": "{qcf}+{kk}, {tap} {p} or {k} for more hits",
+          "notes": ""
+        },
+        {
+          "name": "Shippuujinrai Kyaku",
+          "type": "special",
+          "notation": "{qcb}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Mode Change: Ryu",
+          "type": "special",
+          "notation": "{hcb}+{lp}",
+          "notes": ""
+        },
+        {
+          "name": "Mode Change: Akuma",
+          "type": "special",
+          "notation": "{hcb}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Aerial High Kick",
+          "type": "special",
+          "notation": "{air} {up}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Aerial Senpuu Kyaku",
+          "type": "special",
+          "notation": "{air} {up}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Zugai Hassatsu",
+          "type": "special",
+          "notation": "{forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Senpuu Kyaku",
+          "type": "special",
+          "notation": "{forward}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Gou Hadouken",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Zankuu Hadouken",
+          "type": "special",
+          "notation": "{air} {qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Gou Shoryuken",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Tatsumaki Zankuu Kyaku",
+          "type": "special",
+          "notation": "{air} {qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Tenma Kuujin Kyaku",
+          "type": "special",
+          "notation": "{air} {qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Ashura Senkuu",
+          "type": "special",
+          "notation": "{rdp} or {dp}+{3xpunch} or {kkk}",
+          "notes": ""
+        },
+        {
+          "name": "Messatsu Gou Hadou",
+          "type": "special",
+          "notation": "{qcb}+{pp}, {tap} {p} or {k} for more hits",
+          "notes": ""
+        },
+        {
+          "name": "Messatsu Gou Shouryuu",
+          "type": "special",
+          "notation": "{qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Tenma Gou Zankuu",
+          "type": "special",
+          "notation": "{air} {qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Shun Goku Satsu",
+          "type": "special",
+          "notation": "{max} {lp} {lp} {forward} {lk} {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Mode Change: Ryu",
+          "type": "special",
+          "notation": "{hcb}+{lp}",
+          "notes": ""
+        },
+        {
+          "name": "Mode Change: Ken",
+          "type": "special",
+          "notation": "{hcb}+{mp}",
+          "notes": ""
+        }
+      ],
+      "id": "ryu",
+      "image": "images/Portrait_MVC_Ryu.png"
+    },
+    {
+      "name": "Strider Hiryu",
+      "moves": [
+        {
+          "name": "Wall Jump",
+          "type": "special",
+          "notation": "Jump against a wall, press {up_forward}, {forward} or {down_forward}",
+          "notes": ""
+        },
+        {
+          "name": "Double Jump",
+          "type": "special",
+          "notation": "{air} {up}",
+          "notes": ""
+        },
+        {
+          "name": "Sliding Kick",
+          "type": "special",
+          "notation": "{down_forward}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Ame no Murakumo",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Excalibur",
+          "type": "special",
+          "notation": "{air} {qcf}+{p} or {k}",
+          "notes": ""
+        },
+        {
+          "name": "Gram",
+          "type": "special",
+          "notation": "{dp}+{air} {p} or {k}",
+          "notes": ""
+        },
+        {
+          "name": "Warp",
+          "type": "special",
+          "notation": "{rdp}+{p} or {k}",
+          "notes": ""
+        },
+        {
+          "name": "Vajra",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Formation A",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Formation B",
+          "type": "special",
+          "notation": "{charge_back_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Formation B Fire",
+          "type": "special",
+          "notation": "{air} {charge_back_forward}+{p} during Formation B",
+          "notes": ""
+        },
+        {
+          "name": "Formation C",
+          "type": "special",
+          "notation": "{charge_back_forward}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Heki Hari Tsuki",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "__Uwa Idou/Shimo Idou",
+          "type": "special",
+          "notation": "{up} or {down} after Heki Hari Tsuki",
+          "notes": ""
+        },
+        {
+          "name": "__Chakuji",
+          "type": "special",
+          "notation": "{forward} after Heki Hari Tsuki",
+          "notes": ""
+        },
+        {
+          "name": "__Hantai Soku no Heki e Idou",
+          "type": "special",
+          "notation": "{back_forward} after Heki Hari Tsuki",
+          "notes": ""
+        },
+        {
+          "name": "__Cipher Kougeki",
+          "type": "special",
+          "notation": "{p} after Heki Hari Tsuki",
+          "notes": ""
+        },
+        {
+          "name": "__Jimen ni Tobigeri",
+          "type": "special",
+          "notation": "{k} after Heki Hari Tsuki",
+          "notes": ""
+        },
+        {
+          "name": "__Sliding Heel",
+          "type": "special",
+          "notation": "{down}+{k} after Heki Hari Tsuki",
+          "notes": ""
+        },
+        {
+          "name": "Ragnarok",
+          "type": "special",
+          "notation": "{dp}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Ouroboros",
+          "type": "special",
+          "notation": "{qcf}+{pp} , {tap} {p} for shoot ring lasers",
+          "notes": ""
+        },
+        {
+          "name": "Legion",
+          "type": "special",
+          "notation": "{qcf}+{kk}",
+          "notes": ""
+        }
+      ],
+      "id": "strider_hiryu",
+      "image": "images/Portrait_MVC_Strider.png"
+    },
+    {
+      "name": "Zangief",
+      "moves": [
+        {
+          "name": "Body Press",
+          "type": "special",
+          "notation": "{air} {down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Double Knee Drop",
+          "type": "special",
+          "notation": "{air} {down}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Headbutt",
+          "type": "special",
+          "notation": "{air} {up}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Long Punch",
+          "type": "special",
+          "notation": "{air} {forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Elbow Dive",
+          "type": "special",
+          "notation": "{air} {down}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Elbow Drop",
+          "type": "special",
+          "notation": "{forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Dash Throw",
+          "type": "special",
+          "notation": "{forward}{forward}+{mp}/{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Dash Bites",
+          "type": "special",
+          "notation": "{forward}{forward}+{mk}/{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Double Lariat",
+          "type": "special",
+          "notation": "{air} {3xpunch} or {kkk} , move with {back} or {forward}",
+          "notes": ""
+        },
+        {
+          "name": "Screw Piledriver",
+          "type": "special",
+          "notation": "{air} {360}+{p} , {tap} {p} and/or {360}",
+          "notes": ""
+        },
+        {
+          "name": "Flying Powerbomb",
+          "type": "special",
+          "notation": "{hcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Atomic Suplex",
+          "type": "special",
+          "notation": "{hcf}+{k} , close",
+          "notes": ""
+        },
+        {
+          "name": "Banishing Flat",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Aerial Russian Slam",
+          "type": "special",
+          "notation": "{dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Final Atomic Buster",
+          "type": "special",
+          "notation": "{360}+{pp} , {tap} {p} and/or {360}",
+          "notes": ""
+        },
+        {
+          "name": "Ultra Final Atomic Buster",
+          "type": "special",
+          "notation": "{max} {360}+{kk} , {tap} {p} and/or {360}",
+          "notes": ""
+        },
+        {
+          "name": "Iron Body",
+          "type": "special",
+          "notation": "{rdp}+{lk}",
+          "notes": ""
+        }
+      ],
+      "id": "zangief",
+      "image": "images/Portrait_MVC_Zangief.png"
+    },
+    {
+      "name": "Zangief, Mech",
+      "moves": [
+        {
+          "name": "Body Press",
+          "type": "special",
+          "notation": "{air} {down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Double Knee Drop",
+          "type": "special",
+          "notation": "{air} {down}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Headbutt",
+          "type": "special",
+          "notation": "{air} {up}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Long Punch",
+          "type": "special",
+          "notation": "{air} {forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Elbow Dive",
+          "type": "special",
+          "notation": "{air} {down}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Elbow Drop",
+          "type": "special",
+          "notation": "{forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Dash Throw",
+          "type": "special",
+          "notation": "{forward}{forward}+{mp} or {hp} , close",
+          "notes": ""
+        },
+        {
+          "name": "Dash Bites",
+          "type": "special",
+          "notation": "{forward}{forward}+{mk} or {hk} close",
+          "notes": ""
+        },
+        {
+          "name": "Double Lariat",
+          "type": "special",
+          "notation": "{air} {3xpunch} or {kkk} , move {back} or {forward}",
+          "notes": ""
+        },
+        {
+          "name": "Screw Piledriver",
+          "type": "special",
+          "notation": "{air} {360}+{p} , {tap} {p} and/or {360}",
+          "notes": ""
+        },
+        {
+          "name": "Flying Powerbomb",
+          "type": "special",
+          "notation": "{hcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Atomic Suplex",
+          "type": "special",
+          "notation": "{hcf}+{k} , close",
+          "notes": ""
+        },
+        {
+          "name": "Vodka Fire",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Aerial Russian Slam",
+          "type": "special",
+          "notation": "{dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Final Atomic Buster",
+          "type": "special",
+          "notation": "{360}+{pp} , {tap} {p} and/or {360}",
+          "notes": ""
+        },
+        {
+          "name": "Siberian Blizzard",
+          "type": "special",
+          "notation": "{360}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Iron Body Cancel",
+          "type": "special",
+          "notation": "{rdp}+{lk}",
+          "notes": ""
+        }
+      ],
+      "id": "zangief_mech",
+      "image": null
+    },
+    {
+      "name": "Captain America",
+      "moves": [
+        {
+          "name": "Double Jump",
+          "type": "special",
+          "notation": "{air} {up}",
+          "notes": ""
+        },
+        {
+          "name": "Double Kick",
+          "type": "special",
+          "notation": "{mk} x2",
+          "notes": ""
+        },
+        {
+          "name": "Aerial Kick",
+          "type": "special",
+          "notation": "{air} {up}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Heel Kick",
+          "type": "special",
+          "notation": "{air} {down}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Shield Slash",
+          "type": "special",
+          "notation": "{air} {qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Charging Star",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Stars & Stripes",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Cartwheel",
+          "type": "special",
+          "notation": "{hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Final Justice",
+          "type": "special",
+          "notation": "{qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Hyper Charging Star",
+          "type": "special",
+          "notation": "{qcf}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Hyper Stars & Stripes",
+          "type": "special",
+          "notation": "{dp}+{pp}",
+          "notes": ""
+        }
+      ],
+      "id": "captain_america",
+      "image": "images/Portrait_MVC_CaptAmerica.png"
+    },
+    {
+      "name": "Gambit",
+      "moves": [
+        {
+          "name": "Kinetic Card",
+          "type": "special",
+          "notation": "{air} {qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Trick Card",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Cajun Slash",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Cajun Escape",
+          "type": "special",
+          "notation": "{cd}{up_back}, {charge_down_up} or {cd}{up_forward}+{p} (leap with {back} or {forward})",
+          "notes": ""
+        },
+        {
+          "name": "__Downward Slash",
+          "type": "special",
+          "notation": "({back} or {forward}+) {p} after Cajun Escape",
+          "notes": ""
+        },
+        {
+          "name": "Cajun Strike",
+          "type": "special",
+          "notation": "{cd}{up_back}, {charge_down_up} or {cd}{up_forward}+{k} (leap with {back} or {forward})",
+          "notes": ""
+        },
+        {
+          "name": "Royal Flush",
+          "type": "special",
+          "notation": "{qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Cajun Explosion (Front)",
+          "type": "special",
+          "notation": "{qcf}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Cajun Explosion (Behind)",
+          "type": "special",
+          "notation": "{qcb}+{kk}",
+          "notes": ""
+        }
+      ],
+      "id": "gambit",
+      "image": "images/Portrait_MVC_Gambit.png"
+    },
+    {
+      "name": "Hulk",
+      "moves": [
+        {
+          "name": "Gamma Slam",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Gamma Tornado",
+          "type": "special",
+          "notation": "{hcb}+{p} , close",
+          "notes": ""
+        },
+        {
+          "name": "Gamma Charge",
+          "type": "special",
+          "notation": "{charge_back_forward}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Gamma Charge (Anti-Air)",
+          "type": "special",
+          "notation": "{charge_down_up}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "__Charge Direction Change",
+          "type": "special",
+          "notation": "(any direction+) {k} during any Gamma Charge",
+          "notes": ""
+        },
+        {
+          "name": "Gamma Wave",
+          "type": "special",
+          "notation": "{qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Gamma Quake",
+          "type": "special",
+          "notation": "{qcf}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Gamma Crush",
+          "type": "special",
+          "notation": "{qcb}+{pp} , direct with {back} or {forward}",
+          "notes": ""
+        }
+      ],
+      "id": "hulk",
+      "image": "images/Portrait_MVC_Hulk.png"
+    },
+    {
+      "name": "Spider-Man",
+      "moves": [
+        {
+          "name": "Wall Jump",
+          "type": "special",
+          "notation": "Jump against a wall, press in opposite direction",
+          "notes": ""
+        },
+        {
+          "name": "Air Dash (Spider Swing)",
+          "type": "special",
+          "notation": "{air} {forward}{forward} or {3xpunch}",
+          "notes": ""
+        },
+        {
+          "name": "Web Ball",
+          "type": "special",
+          "notation": "{air} {qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Web Throw",
+          "type": "special",
+          "notation": "{hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Spider Sting",
+          "type": "special",
+          "notation": "{dp}+{p} (press {p} as optional)",
+          "notes": ""
+        },
+        {
+          "name": "Web Swing",
+          "type": "special",
+          "notation": "{air} {qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Maximum Spider",
+          "type": "special",
+          "notation": "{air} {qcf}+{pp} (aim with joystick)",
+          "notes": ""
+        },
+        {
+          "name": "Crawler Assault",
+          "type": "special",
+          "notation": "{qcf}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Ultimate Web Throw",
+          "type": "special",
+          "notation": "{qcb}+{pp}",
+          "notes": ""
+        }
+      ],
+      "id": "spider-man",
+      "image": "images/Portrait_MVC_Spider-Man.png"
+    },
+    {
+      "name": "Venom",
+      "moves": [
+        {
+          "name": "Air Dash",
+          "type": "special",
+          "notation": "{air} {forward}{forward} or {pp}",
+          "notes": ""
+        },
+        {
+          "name": "Venom Fang",
+          "type": "special",
+          "notation": "{air} {qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Venom Rush",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Web Throw",
+          "type": "special",
+          "notation": "{hcb}+{p} ({tap} {p} and/or {360})",
+          "notes": ""
+        },
+        {
+          "name": "Venom Web",
+          "type": "special",
+          "notation": "{qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Death Bite",
+          "type": "special",
+          "notation": "{qcf}+{kk}",
+          "notes": ""
+        }
+      ],
+      "id": "venom",
+      "image": "images/Portrait_MVC_Venom.png"
+    },
+    {
+      "name": "War Machine",
+      "moves": [
+        {
+          "name": "Air Dash",
+          "type": "special",
+          "notation": "{air} (any direction+) {3xpunch}",
+          "notes": ""
+        },
+        {
+          "name": "Double Punches",
+          "type": "special",
+          "notation": "{lp} x2",
+          "notes": ""
+        },
+        {
+          "name": "Knee Dive",
+          "type": "special",
+          "notation": "{air} {down}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Upward Kick",
+          "type": "special",
+          "notation": "{air} {up}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Blast",
+          "type": "special",
+          "notation": "{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Focus Shot",
+          "type": "special",
+          "notation": "{air} ({up} or {down}+) {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Missile Launch",
+          "type": "special",
+          "notation": "{down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Shoulder Cannon",
+          "type": "special",
+          "notation": "{qcf}+{air} {p} or {k}",
+          "notes": ""
+        },
+        {
+          "name": "Repulsor Blast",
+          "type": "special",
+          "notation": "{hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Smart Bomb",
+          "type": "special",
+          "notation": "{air} ({back} or {forward}+) {mp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Flying",
+          "type": "special",
+          "notation": "{air} {qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Proton Cannon",
+          "type": "special",
+          "notation": "{qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "War Destroyer",
+          "type": "special",
+          "notation": "{qcf}+{kk}",
+          "notes": ""
+        }
+      ],
+      "id": "war_machine",
+      "image": "images/Portrait_MVC_War_Machine.png"
+    },
+    {
+      "name": "Wolverine",
+      "moves": [
+        {
+          "name": "Wall Jump",
+          "type": "special",
+          "notation": "Jump against a wall, press in opposite direction",
+          "notes": ""
+        },
+        {
+          "name": "Trampling",
+          "type": "special",
+          "notation": "{air} {down}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Knee Kick",
+          "type": "special",
+          "notation": "{mk} {mk}",
+          "notes": ""
+        },
+        {
+          "name": "Double Claw",
+          "type": "special",
+          "notation": "{mp} {mp}",
+          "notes": ""
+        },
+        {
+          "name": "Repeated Claws",
+          "type": "special",
+          "notation": "{air} {tap} {mp}",
+          "notes": ""
+        },
+        {
+          "name": "Sliding Claw",
+          "type": "special",
+          "notation": "{down_forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Berserker Slash",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Berserker Barrage",
+          "type": "special",
+          "notation": "{qcf}+{p}, {tap} {p}",
+          "notes": ""
+        },
+        {
+          "name": "Tornado Claw",
+          "type": "special",
+          "notation": "{dp}+{p}, {tap} {p}",
+          "notes": ""
+        },
+        {
+          "name": "Drill Claw",
+          "type": "special",
+          "notation": "{air} any direction+{mp}+{lk} , can make in walls",
+          "notes": ""
+        },
+        {
+          "name": "__Wall Drill Claw",
+          "type": "special",
+          "notation": "any direction+{p} or {k} during Drill Claw in wall",
+          "notes": ""
+        },
+        {
+          "name": "Berserker Barrage X",
+          "type": "special",
+          "notation": "{qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Berserker Charge",
+          "type": "special",
+          "notation": "{qcb}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Weapon X",
+          "type": "special",
+          "notation": "{dp}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Fatal Claw",
+          "type": "special",
+          "notation": "{air} {dp}+{kk}",
+          "notes": ""
+        }
+      ],
+      "id": "wolverine",
+      "image": "images/Portrait_MVC_Wolverine.png"
+    },
+    {
+      "name": "High Speed Venom",
+      "moves": [
+        {
+          "name": "Air Dash",
+          "type": "special",
+          "notation": "{air} {forward}{forward} or {pp}",
+          "notes": ""
+        },
+        {
+          "name": "Venom Crush",
+          "type": "special",
+          "notation": "{qcf}+{p}, {tap} {p}",
+          "notes": ""
+        },
+        {
+          "name": "Venom Storm",
+          "type": "special",
+          "notation": "{qcf}+{k}, {tap} {k}",
+          "notes": ""
+        },
+        {
+          "name": "Venom Charge",
+          "type": "special",
+          "notation": "{air} {qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Web Throw",
+          "type": "special",
+          "notation": "{hcb}+{p} , {tap} {p} and/or {360}",
+          "notes": ""
+        },
+        {
+          "name": "Venom Web",
+          "type": "special",
+          "notation": "{qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Death Bite",
+          "type": "special",
+          "notation": "{qcf}+{kk}",
+          "notes": ""
+        }
+      ],
+      "id": "high_speed_venom",
+      "image": null
+    },
+    {
+      "name": "Lilith-Style Morrigan",
+      "moves": [
+        {
+          "name": "Air Dash",
+          "type": "special",
+          "notation": "{air} {forward}{forward} or {3xpunch}",
+          "notes": ""
+        },
+        {
+          "name": "Vania Dash Above",
+          "type": "special",
+          "notation": "{air} {forward}{up_forward} or {up}+{3xpunch}",
+          "notes": ""
+        },
+        {
+          "name": "Vania Dash Below",
+          "type": "special",
+          "notation": "{air} {forward}{down_forward} or {down}+{3xpunch}",
+          "notes": ""
+        },
+        {
+          "name": "Moon Tracer",
+          "type": "special",
+          "notation": "{back} or {forward}+{mp} or {hp} , close",
+          "notes": ""
+        },
+        {
+          "name": "Breast Anguish",
+          "type": "special",
+          "notation": "{back} or {forward}+{mk} or {hk} , close",
+          "notes": ""
+        },
+        {
+          "name": "Sexual Embrace",
+          "type": "special",
+          "notation": "{air} {back} or {forward}+{mp} or {hp} , close",
+          "notes": ""
+        },
+        {
+          "name": "Shell Kick",
+          "type": "special",
+          "notation": "{air} {down}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Shell Pierce",
+          "type": "special",
+          "notation": "{air} {down}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Mysterious Arc",
+          "type": "special",
+          "notation": "{down_forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Necro Desire",
+          "type": "special",
+          "notation": "{forward}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Soul Flash",
+          "type": "special",
+          "notation": "{air} {qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Shining Blade",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Vector Drain",
+          "type": "special",
+          "notation": "{hcb}+{p} , {tap} {p} and/or {360}, close",
+          "notes": ""
+        },
+        {
+          "name": "Brilliant Shower",
+          "type": "special",
+          "notation": "{qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Luminous Illusion",
+          "type": "special",
+          "notation": "{air} {qcf}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Splendor Love",
+          "type": "special",
+          "notation": "{dp}+{pp}",
+          "notes": ""
+        }
+      ],
+      "id": "lilith-style_morrigan",
+      "image": "images/Portrait_MVC_Lilith.png"
+    },
+    {
+      "name": "Roll",
+      "moves": [
+        {
+          "name": "Wall Jump",
+          "type": "special",
+          "notation": "Jump against a wall, press in opposite direction",
+          "notes": ""
+        },
+        {
+          "name": "Sliding",
+          "type": "special",
+          "notation": "{down}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Swipe Kick",
+          "type": "special",
+          "notation": "{air} {up}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Roll Buster",
+          "type": "special",
+          "notation": "{air} {qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Exploding Flower",
+          "type": "special",
+          "notation": "{air} {qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Eddie Summon: Rock Ball",
+          "type": "special",
+          "notation": "{qcb}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Eddie Summon: Tornado Hold",
+          "type": "special",
+          "notation": "{qcb}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Eddie Summon: Leaf Shield",
+          "type": "special",
+          "notation": "{qcb}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Item Attack",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Hyper Roll",
+          "type": "special",
+          "notation": "{air} {qcf}+{pp} ({tap} {p} or {k} for more hits)",
+          "notes": ""
+        },
+        {
+          "name": "Rush Drill",
+          "type": "special",
+          "notation": "{qcf}+{kk} ({tap} {p} or {k} for boosting)",
+          "notes": ""
+        },
+        {
+          "name": "_Controls",
+          "type": "special",
+          "notation": "move with {back} or {forward} , jump with {up_back}, {up} or {up_forward}",
+          "notes": ""
+        },
+        {
+          "name": "Beat Plane",
+          "type": "special",
+          "notation": "{air} {qcb}+{kk} , press {p} for fireballs, press for {k} missiles",
+          "notes": ""
+        },
+        {
+          "name": "_Controls",
+          "type": "special",
+          "notation": "move in any direction",
+          "notes": ""
+        }
+      ],
+      "id": "roll",
+      "image": "images/Portrait_MVC_Roll.png"
+    },
+    {
+      "name": "Shadow Lady",
+      "moves": [
+        {
+          "name": "Wall Jump",
+          "type": "special",
+          "notation": "Jump against a wall, press in opposite direction",
+          "notes": ""
+        },
+        {
+          "name": "Air Dash",
+          "type": "special",
+          "notation": "{air} {forward}{forward} or {3xpunch}",
+          "notes": ""
+        },
+        {
+          "name": "Triple Jump",
+          "type": "special",
+          "notation": "{air} {up}{up}",
+          "notes": ""
+        },
+        {
+          "name": "Yousou Kyaku",
+          "type": "special",
+          "notation": "{air} {down}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Kaku Kyaku Raku",
+          "type": "special",
+          "notation": "{down_forward}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Miracle Drill",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Rainbow Missile",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Sky Counter Crash",
+          "type": "special",
+          "notation": "{hcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Infinity Leg",
+          "type": "special",
+          "notation": "{air} {tap} {k}",
+          "notes": ""
+        },
+        {
+          "name": "Plasma Barrier",
+          "type": "special",
+          "notation": "{dp}+{p} , {tap} {p} for more hits",
+          "notes": ""
+        },
+        {
+          "name": "Big Bang Laser",
+          "type": "special",
+          "notation": "{qcf}+{pp} , {tap} {p} or {k} for more hits",
+          "notes": ""
+        },
+        {
+          "name": "Galaxy Missile",
+          "type": "special",
+          "notation": "{qcf}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Final Mission",
+          "type": "special",
+          "notation": "{max} {charge_back_forward} {back_forward}+{kk}",
+          "notes": ""
+        }
+      ],
+      "id": "shadow_lady",
+      "image": null
+    },
+    {
+      "name": "Onslaught",
+      "moves": [
+        {
+          "name": "Sentinel Force",
+          "type": "special",
+          "notation": "{p} or {k}",
+          "notes": ""
+        },
+        {
+          "name": "Sentinel Assist",
+          "type": "special",
+          "notation": "{mp}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Magnetic Tempest",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Hyper Gravity",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Onslaught Head Crush",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Teleport",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Hyper Mind Blast",
+          "type": "special",
+          "notation": "{qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Magnetic Shockwave",
+          "type": "special",
+          "notation": "{qcf}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Clone Fighter Summon",
+          "type": "special",
+          "notation": "(2 Levels) {qcb}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Claw Crush",
+          "type": "special",
+          "notation": "{p}",
+          "notes": ""
+        },
+        {
+          "name": "Sentinel Attack",
+          "type": "special",
+          "notation": "{k}",
+          "notes": ""
+        },
+        {
+          "name": "Mind Blast",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Hyper Gravity",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Rushing Arm",
+          "type": "special",
+          "notation": "{hcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Multiple Mind Blast",
+          "type": "special",
+          "notation": "{qcf}+{pp}",
+          "notes": ""
+        }
+      ],
+      "id": "onslaught",
+      "image": "images/Portrait_MVC_Onslaught.png"
+    }
+  ]
+}

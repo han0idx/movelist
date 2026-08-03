@@ -1,0 +1,2255 @@
+{
+  "name": "samsho2",
+  "title": "Samurai Shodown II",
+  "image": "images/Samurai_Shodown_II_logo.png",
+  "characters": [
+    {
+      "name": "Caffeine Nicotine",
+      "moves": [
+        {
+          "name": "Amida BuddhaAnnihilator",
+          "type": "throw",
+          "notation": "{back} or {forward}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "NirvanaSubmission Blast",
+          "type": "throw",
+          "notation": "{back} or {forward}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Flamin'Immolation",
+          "type": "throw",
+          "notation": "{back} or {forward}+{d} or {kk}",
+          "notes": ""
+        },
+        {
+          "name": "Flamin'Immolation",
+          "type": "throw",
+          "notation": "(no weapon){back} or {forward}+{bslash} or {2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Amida BuddhaAnnihilator",
+          "type": "throw",
+          "notation": "{back} or {forward}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "NirvanaSubmission Blast",
+          "type": "throw",
+          "notation": "{back} or {forward}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Flamin'Immolation",
+          "type": "throw",
+          "notation": "{back} or {forward}+{d} or {kk}",
+          "notes": ""
+        },
+        {
+          "name": "Flamin'Immolation",
+          "type": "throw",
+          "notation": "(no weapon){back} or {forward}+{bslash} or {2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Cane Swirl Cutter",
+          "type": "special",
+          "notation": "{air} {hcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Chains of Sin Blast",
+          "type": "special",
+          "notation": "{hcb}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Cane Swirl Cutter",
+          "type": "special",
+          "notation": "{air} {hcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Chains of Sin Blast",
+          "type": "special",
+          "notation": "{hcb}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Shikigamireifu Thunder",
+          "type": "special",
+          "notation": "{qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Shikigamireifu Fire",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Wildheart Whammy",
+          "type": "special",
+          "notation": "{rdp}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Shikigamireifu Thunder",
+          "type": "special",
+          "notation": "{qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Shikigamireifu Fire",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Wildheart Whammy",
+          "type": "special",
+          "notation": "{rdp}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Hidden Move",
+          "type": "special",
+          "notation": "Toy Transformation {qcbd}{qcb}{forward}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Toy Transformation",
+          "type": "special",
+          "notation": "{qcbd}{qcb}{forward}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Weapon Breaking",
+          "type": "special",
+          "notation": "Underworld Pummeler {forward}{hcf}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Underworld Pummeler",
+          "type": "special",
+          "notation": "{forward}{hcf}+{d}",
+          "notes": ""
+        }
+      ],
+      "id": "caffeine_nicotine",
+      "image": "images/Portrait_SSII_Nicotine.png"
+    },
+    {
+      "name": "Cham Cham",
+      "moves": [
+        {
+          "name": "Multa Unguese Inclusio",
+          "type": "throw",
+          "notation": "{back} or {forward}+{bslash} or {2xslash} or {d} or {kk}",
+          "notes": ""
+        },
+        {
+          "name": "Boomerang Gut Buster",
+          "type": "special",
+          "notation": "{qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Boomerang Beheader",
+          "type": "special",
+          "notation": "{qcb}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Flying Scratcher",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Boomerang Gut Buster",
+          "type": "special",
+          "notation": "{qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Boomerang Beheader",
+          "type": "special",
+          "notation": "{qcb}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Flying Scratcher",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Paku Paku-Dios",
+          "type": "special",
+          "notation": "{hcb}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Mula-Paku Paku",
+          "type": "special",
+          "notation": "{hcb}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Paku Paku-Gabool",
+          "type": "special",
+          "notation": "{hcb}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Paku Paku-Dios",
+          "type": "special",
+          "notation": "{hcb}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Mula-Paku Paku",
+          "type": "special",
+          "notation": "{hcb}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Paku Paku-Gabool",
+          "type": "special",
+          "notation": "{hcb}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Hidden Move",
+          "type": "special",
+          "notation": "Toy Transformation {hcb}{ddb}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Toy Transformation",
+          "type": "special",
+          "notation": "{hcb}{ddb}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Weapon Breaking",
+          "type": "special",
+          "notation": "Metamoranimal Attack {forward}{hcf}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "Metamoranimal Attack",
+          "type": "special",
+          "notation": "{forward}{hcf}+{aslash}",
+          "notes": ""
+        }
+      ],
+      "id": "cham_cham",
+      "image": "images/Portrait_SSII_Cham_Cham.png"
+    },
+    {
+      "name": "Charlotte Christine Colde",
+      "moves": [
+        {
+          "name": "Lance de Leon",
+          "type": "throw",
+          "notation": "{back} or {forward}+{bslash} or {2xslash}or {d} or {kk}",
+          "notes": ""
+        },
+        {
+          "name": "Power Gradation",
+          "type": "special",
+          "notation": "{down_back}{down}{down_forward}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Splash Fount",
+          "type": "special",
+          "notation": "{tap}{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Tri-Slash",
+          "type": "special",
+          "notation": "{dp}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Power Gradation",
+          "type": "special",
+          "notation": "{down_back}{down}{down_forward}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Splash Fount",
+          "type": "special",
+          "notation": "{tap}{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Tri-Slash",
+          "type": "special",
+          "notation": "{dp}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Hidden Move",
+          "type": "special",
+          "notation": "Toy Transformation {hcb}{ddb}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Toy Transformation",
+          "type": "special",
+          "notation": "{hcb}{ddb}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Weapon Breaking",
+          "type": "special",
+          "notation": "Splash Gradation {hcbf}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Splash Gradation",
+          "type": "special",
+          "notation": "{hcbf}+{bslash}",
+          "notes": ""
+        }
+      ],
+      "id": "charlotte_christine_colde",
+      "image": "images/Portrait_SSII_Charlotte.png"
+    },
+    {
+      "name": "Earthquake",
+      "moves": [
+        {
+          "name": "Death Throw",
+          "type": "throw",
+          "notation": "{back} or {forward}+{bslash} or {d}",
+          "notes": ""
+        },
+        {
+          "name": "Skunk Burst",
+          "type": "throw",
+          "notation": "{back} or {forward}+{2xslash} or {kk}",
+          "notes": ""
+        },
+        {
+          "name": "Death Throw",
+          "type": "throw",
+          "notation": "{back} or {forward}+{bslash} or {d}",
+          "notes": ""
+        },
+        {
+          "name": "Skunk Burst",
+          "type": "throw",
+          "notation": "{back} or {forward}+{2xslash} or {kk}",
+          "notes": ""
+        },
+        {
+          "name": "Bounding Fat",
+          "type": "special",
+          "notation": "{air} {down}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Fat Breath",
+          "type": "special",
+          "notation": "{qcb}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Bounding Fat",
+          "type": "special",
+          "notation": "{air} {down}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Fat Breath",
+          "type": "special",
+          "notation": "{qcb}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Fat Chainsaw",
+          "type": "special",
+          "notation": "{tap}{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Fat Replica Attack",
+          "type": "special",
+          "notation": "{hcb}+{bslash}{ckick}{d}",
+          "notes": ""
+        },
+        {
+          "name": "Fat Copy",
+          "type": "special",
+          "notation": "{forward}{hcf}+{aslash} or {bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Fat Chainsaw",
+          "type": "special",
+          "notation": "{tap}{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Fat Replica Attack",
+          "type": "special",
+          "notation": "{hcb}+{bslash}{ckick}{d}",
+          "notes": ""
+        },
+        {
+          "name": "Fat Copy",
+          "type": "special",
+          "notation": "{forward}{hcf}+{aslash} or {bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Hidden Move",
+          "type": "special",
+          "notation": "Toy Transformation {forward}{back}{forward}{back}{forward}{back}{down}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Toy Transformation",
+          "type": "special",
+          "notation": "{forward}{back}{forward}{back}{forward}{back}{down}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Weapon Breaking",
+          "type": "special",
+          "notation": "Earth's ThunderationCrunch {forward}{hcf}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Earth's ThunderationCrunch",
+          "type": "special",
+          "notation": "{forward}{hcf}+{kk}",
+          "notes": ""
+        }
+      ],
+      "id": "earthquake",
+      "image": "images/Portrait_SSII_Earthquake.png"
+    },
+    {
+      "name": "Galford D. Weller",
+      "moves": [
+        {
+          "name": "Rolling Drop",
+          "type": "throw",
+          "notation": "{back} or {forward}+{bslash} or {2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "ExecutionerSlash",
+          "type": "throw",
+          "notation": "{back} or {forward}+{d} or {kk}",
+          "notes": ""
+        },
+        {
+          "name": "Leg Throw",
+          "type": "throw",
+          "notation": "(no weapon){back} or {forward}+{d} or {kk}",
+          "notes": ""
+        },
+        {
+          "name": "Stardust Drop",
+          "type": "throw",
+          "notation": "{air} {down}+{bslash} or {2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Rolling Drop",
+          "type": "throw",
+          "notation": "{back} or {forward}+{bslash} or {2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "ExecutionerSlash",
+          "type": "throw",
+          "notation": "{back} or {forward}+{d} or {kk}",
+          "notes": ""
+        },
+        {
+          "name": "Leg Throw",
+          "type": "throw",
+          "notation": "(no weapon){back} or {forward}+{d} or {kk}",
+          "notes": ""
+        },
+        {
+          "name": "Stardust Drop",
+          "type": "throw",
+          "notation": "{air} {down}+{bslash} or {2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Plasma Blade",
+          "type": "special",
+          "notation": "{qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Strike Heads",
+          "type": "special",
+          "notation": "(close) {dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Dash StrikeHeads",
+          "type": "special",
+          "notation": "(close, during dash) {dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Plasma Blade",
+          "type": "special",
+          "notation": "{qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Strike Heads",
+          "type": "special",
+          "notation": "(close) {dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Dash StrikeHeads",
+          "type": "special",
+          "notation": "(close, during dash) {dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Shadow Copy",
+          "type": "special",
+          "notation": "{forward}{hcf}+{aslash} or {bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Rear Replica Attack",
+          "type": "special",
+          "notation": "{hcb}+{bslash}{ckick}{d}",
+          "notes": ""
+        },
+        {
+          "name": "Head ReplicaAttack",
+          "type": "special",
+          "notation": "(when hit) {bslash}{ckick}{d}",
+          "notes": ""
+        },
+        {
+          "name": "Rush Dog",
+          "type": "special",
+          "notation": "{qcb}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Machine Gun Dog",
+          "type": "special",
+          "notation": "{qcb}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Replica Dog",
+          "type": "special",
+          "notation": "{qcb}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Shadow Copy",
+          "type": "special",
+          "notation": "{forward}{hcf}+{aslash} or {bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Rear Replica Attack",
+          "type": "special",
+          "notation": "{hcb}+{bslash}{ckick}{d}",
+          "notes": ""
+        },
+        {
+          "name": "Head ReplicaAttack",
+          "type": "special",
+          "notation": "(when hit) {bslash}{ckick}{d}",
+          "notes": ""
+        },
+        {
+          "name": "Rush Dog",
+          "type": "special",
+          "notation": "{qcb}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Machine Gun Dog",
+          "type": "special",
+          "notation": "{qcb}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Replica Dog",
+          "type": "special",
+          "notation": "{qcb}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Hidden Move",
+          "type": "special",
+          "notation": "Back Stab {forward}{back}{forward}{back}{forward}{back}{down}+{bslash}{ckick}{d} Toy Transformation {hcbf}{back}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Back Stab",
+          "type": "special",
+          "notation": "{forward}{back}{forward}{back}{forward}{back}{down}+{bslash}{ckick}{d}",
+          "notes": ""
+        },
+        {
+          "name": "Toy Transformation",
+          "type": "special",
+          "notation": "{hcbf}{back}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Back Stab",
+          "type": "special",
+          "notation": "{forward}{back}{forward}{back}{forward}{back}{down}+{bslash}{ckick}{d}",
+          "notes": ""
+        },
+        {
+          "name": "Toy Transformation",
+          "type": "special",
+          "notation": "{hcbf}{back}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Weapon Breaking",
+          "type": "special",
+          "notation": "Mega Strike Dog {hcbf}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Mega Strike Dog",
+          "type": "special",
+          "notation": "{hcbf}+{d}",
+          "notes": ""
+        }
+      ],
+      "id": "galford_d_weller",
+      "image": "images/Portrait_SSII_Galford.png"
+    },
+    {
+      "name": "Gen-An Shiranui",
+      "moves": [
+        {
+          "name": "Knee Kick",
+          "type": "throw",
+          "notation": "{back} or {forward}+{bslash} or {2xslash}or {d} or {kk}",
+          "notes": ""
+        },
+        {
+          "name": "Slaughterhouse Tumble",
+          "type": "special",
+          "notation": "{dp}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Poison Cloud Puff",
+          "type": "special",
+          "notation": "{qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Slaughterhouse Tumble",
+          "type": "special",
+          "notation": "{dp}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Poison Cloud Puff",
+          "type": "special",
+          "notation": "{qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Gen-An's SuperShredder",
+          "type": "special",
+          "notation": "{down_forward}{down}{down_back}+{bslash}{ckick}{d}",
+          "notes": ""
+        },
+        {
+          "name": "Flaying Gen-An",
+          "type": "special",
+          "notation": "(when hit) {bslash}{ckick}{d}",
+          "notes": ""
+        },
+        {
+          "name": "Talon Grab",
+          "type": "special",
+          "notation": "{hcb}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Gen-An's SuperShredder",
+          "type": "special",
+          "notation": "{down_forward}{down}{down_back}+{bslash}{ckick}{d}",
+          "notes": ""
+        },
+        {
+          "name": "Flaying Gen-An",
+          "type": "special",
+          "notation": "(when hit) {bslash}{ckick}{d}",
+          "notes": ""
+        },
+        {
+          "name": "Talon Grab",
+          "type": "special",
+          "notation": "{hcb}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Hidden Move",
+          "type": "special",
+          "notation": "Toy Transformation {hcb}{down_downforward}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Toy Transformation",
+          "type": "special",
+          "notation": "{hcb}{down_downforward}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Weapon Breaking",
+          "type": "special",
+          "notation": "Magic Diving Claw {hcbf}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Magic Diving Claw",
+          "type": "special",
+          "notation": "{hcbf}+{2xslash}",
+          "notes": ""
+        }
+      ],
+      "id": "gen-an_shiranui",
+      "image": "images/Portrait_SSII_Gen-An.png"
+    },
+    {
+      "name": "Genjuro Kibagami",
+      "moves": [
+        {
+          "name": "MovelessGhost Reverse",
+          "type": "throw",
+          "notation": "{back} or {forward}+{bslash} or {2xslash}or {d} or {kk}",
+          "notes": ""
+        },
+        {
+          "name": "Cherry Blossom Slice",
+          "type": "special",
+          "notation": "{qcb}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Lightning Wings",
+          "type": "special",
+          "notation": "{dp}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Triple Death Hack",
+          "type": "special",
+          "notation": "{qcf}+{slash} (up to 3x)",
+          "notes": ""
+        },
+        {
+          "name": "Cherry Blossom Slice",
+          "type": "special",
+          "notation": "{qcb}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Lightning Wings",
+          "type": "special",
+          "notation": "{dp}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Triple Death Hack",
+          "type": "special",
+          "notation": "{qcf}+{slash} (up to 3x)",
+          "notes": ""
+        },
+        {
+          "name": "Hidden Move",
+          "type": "special",
+          "notation": "Toy Transformation {hcbf}{back}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Toy Transformation",
+          "type": "special",
+          "notation": "{hcbf}{back}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Weapon Breaking",
+          "type": "special",
+          "notation": "Five Flash Rip {hcbf}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "Five Flash Rip",
+          "type": "special",
+          "notation": "{hcbf}+{aslash}",
+          "notes": ""
+        }
+      ],
+      "id": "genjuro_kibagami",
+      "image": "images/Portrait_SSII_Genjuro.png"
+    },
+    {
+      "name": "Hanzo Hattori",
+      "moves": [
+        {
+          "name": "Sky WhilingThrow",
+          "type": "throw",
+          "notation": "{back} or {forward}+{bslash} or {2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Head ThrowSlash",
+          "type": "throw",
+          "notation": "{back} or {forward}+{d} or {kk}",
+          "notes": ""
+        },
+        {
+          "name": "Head Throw",
+          "type": "throw",
+          "notation": "(no weapon){back} or {forward}+{d} or {kk}",
+          "notes": ""
+        },
+        {
+          "name": "Rolling AerialAttack",
+          "type": "throw",
+          "notation": "{air} {down}+{bslash} or {2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Sky WhilingThrow",
+          "type": "throw",
+          "notation": "{back} or {forward}+{bslash} or {2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Head ThrowSlash",
+          "type": "throw",
+          "notation": "{back} or {forward}+{d} or {kk}",
+          "notes": ""
+        },
+        {
+          "name": "Head Throw",
+          "type": "throw",
+          "notation": "(no weapon){back} or {forward}+{d} or {kk}",
+          "notes": ""
+        },
+        {
+          "name": "Rolling AerialAttack",
+          "type": "throw",
+          "notation": "{air} {down}+{bslash} or {2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Ninja Exploding Dragon Blast",
+          "type": "special",
+          "notation": "{hcb}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Ninja Windsplitter",
+          "type": "special",
+          "notation": "{air} {hcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Ninja Shrike Dash",
+          "type": "special",
+          "notation": "(close) {dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Ninja Exploding Dragon Blast",
+          "type": "special",
+          "notation": "{hcb}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Ninja Windsplitter",
+          "type": "special",
+          "notation": "{air} {hcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Ninja Shrike Dash",
+          "type": "special",
+          "notation": "(close) {dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "WhistlingShrike Drop",
+          "type": "special",
+          "notation": "(close, during dash) {dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Ninja Shadow Split",
+          "type": "special",
+          "notation": "{forward}{hcf}+{aslash} or {bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Falling NinjaCicada Larva",
+          "type": "special",
+          "notation": "{hcb}+{bslash}{ckick}{d}",
+          "notes": ""
+        },
+        {
+          "name": "Gashing NinjaCicada Larva",
+          "type": "special",
+          "notation": "(when hit) {bslash}{ckick}{d}",
+          "notes": ""
+        },
+        {
+          "name": "WhistlingShrike Drop",
+          "type": "special",
+          "notation": "(close, during dash) {dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Ninja Shadow Split",
+          "type": "special",
+          "notation": "{forward}{hcf}+{aslash} or {bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Falling NinjaCicada Larva",
+          "type": "special",
+          "notation": "{hcb}+{bslash}{ckick}{d}",
+          "notes": ""
+        },
+        {
+          "name": "Gashing NinjaCicada Larva",
+          "type": "special",
+          "notation": "(when hit) {bslash}{ckick}{d}",
+          "notes": ""
+        },
+        {
+          "name": "Hidden Move",
+          "type": "special",
+          "notation": "Ninja ShadowDance {forward}{back}{forward}{back}{forward}{back}{down}+{bslash}{ckick}{d} Toy Transformation {forward}{back}{forward}{back}{forward}{back}{down}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "Ninja ShadowDance",
+          "type": "special",
+          "notation": "{forward}{back}{forward}{back}{forward}{back}{down}+{bslash}{ckick}{d}",
+          "notes": ""
+        },
+        {
+          "name": "Toy Transformation",
+          "type": "special",
+          "notation": "{forward}{back}{forward}{back}{forward}{back}{down}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "Ninja ShadowDance",
+          "type": "special",
+          "notation": "{forward}{back}{forward}{back}{forward}{back}{down}+{bslash}{ckick}{d}",
+          "notes": ""
+        },
+        {
+          "name": "Toy Transformation",
+          "type": "special",
+          "notation": "{forward}{back}{forward}{back}{forward}{back}{down}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "Weapon Breaking",
+          "type": "special",
+          "notation": "Ninja Heaven DemonFlames Blast {hcbf}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Ninja Heaven DemonFlames Blast",
+          "type": "special",
+          "notation": "{hcbf}+{d}",
+          "notes": ""
+        }
+      ],
+      "id": "hanzo_hattori",
+      "image": "images/Portrait_SSII_Hanzo.png"
+    },
+    {
+      "name": "Haohmaru",
+      "moves": [
+        {
+          "name": "Side Throw",
+          "type": "throw",
+          "notation": "{back} or {forward}+{bslash} or {2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "VacuumOverhead Throw",
+          "type": "throw",
+          "notation": "{back} or {forward}+{d}or {kk}",
+          "notes": ""
+        },
+        {
+          "name": "Side Throw",
+          "type": "throw",
+          "notation": "{back} or {forward}+{bslash} or {2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "VacuumOverhead Throw",
+          "type": "throw",
+          "notation": "{back} or {forward}+{d}or {kk}",
+          "notes": ""
+        },
+        {
+          "name": "Cyclone Slash",
+          "type": "special",
+          "notation": "{qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Fake Cyclone Slash",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Crescent Moon Slash",
+          "type": "special",
+          "notation": "{dp}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Cyclone Slash",
+          "type": "special",
+          "notation": "{qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Fake Cyclone Slash",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Crescent Moon Slash",
+          "type": "special",
+          "notation": "{dp}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Earthquake Slice",
+          "type": "special",
+          "notation": "{dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Rice Wine Whack",
+          "type": "special",
+          "notation": "{qcb}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "Earthquake Slice",
+          "type": "special",
+          "notation": "{dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Rice Wine Whack",
+          "type": "special",
+          "notation": "{qcb}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "Hidden Move",
+          "type": "special",
+          "notation": "JudgementBlast Slash {down_forward}{hcf}{rdp}+{bslash}{ckick} Toy Transformation {hcbf}{back}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "JudgementBlast Slash",
+          "type": "special",
+          "notation": "{down_forward}{hcf}{rdp}+{bslash}{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Toy Transformation",
+          "type": "special",
+          "notation": "{hcbf}{back}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "JudgementBlast Slash",
+          "type": "special",
+          "notation": "{down_forward}{hcf}{rdp}+{bslash}{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Toy Transformation",
+          "type": "special",
+          "notation": "{hcbf}{back}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Weapon Breaking",
+          "type": "special",
+          "notation": "Judgement DestroyFlash Slash {hcbf}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "Judgement DestroyFlash Slash",
+          "type": "special",
+          "notation": "{hcbf}+{aslash}",
+          "notes": ""
+        }
+      ],
+      "id": "haohmaru",
+      "image": "images/Portrait_SSII_Haohmaru.png"
+    },
+    {
+      "name": "Jubei Yagyu",
+      "moves": [
+        {
+          "name": "Shoulder Throw",
+          "type": "throw",
+          "notation": "{back} or {forward}+{bslash} or {2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Pinwheel Throw",
+          "type": "throw",
+          "notation": "{back} or {forward}+{d} or {kk}",
+          "notes": ""
+        },
+        {
+          "name": "Shoulder Throw",
+          "type": "throw",
+          "notation": "{back} or {forward}+{bslash} or {2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Pinwheel Throw",
+          "type": "throw",
+          "notation": "{back} or {forward}+{d} or {kk}",
+          "notes": ""
+        },
+        {
+          "name": "Tsunami Sabre",
+          "type": "special",
+          "notation": "{dp}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Geyser Thrust",
+          "type": "special",
+          "notation": "{qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Sabre Thrash",
+          "type": "special",
+          "notation": "{tap}{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Mind's Eye",
+          "type": "special",
+          "notation": "{qcb}{forward}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "Tsunami Sabre",
+          "type": "special",
+          "notation": "{dp}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Geyser Thrust",
+          "type": "special",
+          "notation": "{qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Sabre Thrash",
+          "type": "special",
+          "notation": "{tap}{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Mind's Eye",
+          "type": "special",
+          "notation": "{qcb}{forward}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "Hidden Move",
+          "type": "special",
+          "notation": "Toy Transformation {hcbf}{back}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Toy Transformation",
+          "type": "special",
+          "notation": "{hcbf}{back}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Weapon Breaking",
+          "type": "special",
+          "notation": "Moonbeam Slicer {hcbf}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Moonbeam Slicer",
+          "type": "special",
+          "notation": "{hcbf}+{ckick}",
+          "notes": ""
+        }
+      ],
+      "id": "jubei_yagyu",
+      "image": "images/Portrait_SSII_Jubei.png"
+    },
+    {
+      "name": "Kyoshiro Senryo",
+      "moves": [
+        {
+          "name": "Lance ThrowFandango",
+          "type": "throw",
+          "notation": "{back} or {forward}+{bslash} or {2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Whiling Throw",
+          "type": "throw",
+          "notation": "{back} or {forward}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Whiling Throw",
+          "type": "throw",
+          "notation": "(no weapon){back} or {forward}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Hair StrangleFandango",
+          "type": "throw",
+          "notation": "{back} or {forward}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Hair StrangleFandango",
+          "type": "throw",
+          "notation": "(no weapon){back} or {forward}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Lance ThrowFandango",
+          "type": "throw",
+          "notation": "{back} or {forward}+{bslash} or {2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Whiling Throw",
+          "type": "throw",
+          "notation": "{back} or {forward}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Whiling Throw",
+          "type": "throw",
+          "notation": "(no weapon){back} or {forward}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Hair StrangleFandango",
+          "type": "throw",
+          "notation": "{back} or {forward}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Hair StrangleFandango",
+          "type": "throw",
+          "notation": "(no weapon){back} or {forward}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Lion's Tail Blast",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Cut Wind Fan",
+          "type": "special",
+          "notation": "{qcb}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Lion's Tail Blast",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Cut Wind Fan",
+          "type": "special",
+          "notation": "{qcb}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Dance of Fire",
+          "type": "special",
+          "notation": "{qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Twisting Heavens",
+          "type": "special",
+          "notation": "{dp}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "SmolderingBlood Pounce",
+          "type": "special",
+          "notation": "{air} {down}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Dance of Fire",
+          "type": "special",
+          "notation": "{qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Twisting Heavens",
+          "type": "special",
+          "notation": "{dp}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "SmolderingBlood Pounce",
+          "type": "special",
+          "notation": "{air} {down}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Hidden Move",
+          "type": "special",
+          "notation": "Toy Transformation {forward}{hcfb}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Toy Transformation",
+          "type": "special",
+          "notation": "{forward}{hcfb}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Weapon Breaking",
+          "type": "special",
+          "notation": "Ruffian Kyoshiro's \"Fleshand Blood Fandango\" {forward}{hcf}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Ruffian Kyoshiro's \"Fleshand Blood Fandango\"",
+          "type": "special",
+          "notation": "{forward}{hcf}+{ckick}",
+          "notes": ""
+        }
+      ],
+      "id": "kyoshiro_senryo",
+      "image": "images/Portrait_SSII_Kyoshiro.png"
+    },
+    {
+      "name": "Nakoruru",
+      "moves": [
+        {
+          "name": "Cut Sky Throw",
+          "type": "throw",
+          "notation": "{back} or {forward}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Whiling Breast Blade",
+          "type": "throw",
+          "notation": "{back} or {forward}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Deadly Cut Claw",
+          "type": "throw",
+          "notation": "(no weapon){back} or {forward}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Ground AirThree Kicks",
+          "type": "throw",
+          "notation": "{back} or {forward}+{d} or {kk}",
+          "notes": ""
+        },
+        {
+          "name": "Flying EagleDrop Throw",
+          "type": "throw",
+          "notation": "{air} {down}+{bslash} or {2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Cut Sky Throw",
+          "type": "throw",
+          "notation": "{back} or {forward}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Whiling Breast Blade",
+          "type": "throw",
+          "notation": "{back} or {forward}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Deadly Cut Claw",
+          "type": "throw",
+          "notation": "(no weapon){back} or {forward}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Ground AirThree Kicks",
+          "type": "throw",
+          "notation": "{back} or {forward}+{d} or {kk}",
+          "notes": ""
+        },
+        {
+          "name": "Flying EagleDrop Throw",
+          "type": "throw",
+          "notation": "{air} {down}+{bslash} or {2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Annu Mutsube",
+          "type": "special",
+          "notation": "{qcbd}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Lela Mutsube",
+          "type": "special",
+          "notation": "{qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Kamui Rimse",
+          "type": "special",
+          "notation": "{qcb}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Annu Mutsube",
+          "type": "special",
+          "notation": "{qcbd}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Lela Mutsube",
+          "type": "special",
+          "notation": "{qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Kamui Rimse",
+          "type": "special",
+          "notation": "{qcb}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Amube Yatoro",
+          "type": "special",
+          "notation": "{hcb}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Mamahaha Flight",
+          "type": "special",
+          "notation": "{qcb}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "├►Kamui Mutsube",
+          "type": "special",
+          "notation": "{back} or {forward}+any button",
+          "notes": ""
+        },
+        {
+          "name": "└►Yatoro Pokku",
+          "type": "special",
+          "notation": "{down_back} or {down} or {down_forward}+any button",
+          "notes": ""
+        },
+        {
+          "name": "SummonMamahaha",
+          "type": "special",
+          "notation": "(no weapon) {qcb}+{ckick}or {hcb}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Amube Yatoro",
+          "type": "special",
+          "notation": "{hcb}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Mamahaha Flight",
+          "type": "special",
+          "notation": "{qcb}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "├►Kamui Mutsube",
+          "type": "special",
+          "notation": "{back} or {forward}+any button",
+          "notes": ""
+        },
+        {
+          "name": "└►Yatoro Pokku",
+          "type": "special",
+          "notation": "{down_back} or {down} or {down_forward}+any button",
+          "notes": ""
+        },
+        {
+          "name": "SummonMamahaha",
+          "type": "special",
+          "notation": "(no weapon) {qcb}+{ckick}or {hcb}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Hidden Move",
+          "type": "special",
+          "notation": "Apehuchi Kamui Risse {hcb}{dp}+{bslash}{ckick} Toy Transformation {hcb}{ddb}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Apehuchi Kamui Risse",
+          "type": "special",
+          "notation": "{hcb}{dp}+{bslash}{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Toy Transformation",
+          "type": "special",
+          "notation": "{hcb}{ddb}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Apehuchi Kamui Risse",
+          "type": "special",
+          "notation": "{hcb}{dp}+{bslash}{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Toy Transformation",
+          "type": "special",
+          "notation": "{hcb}{ddb}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Weapon Breaking",
+          "type": "special",
+          "notation": "Irusuka Yatoro Risse {forward}{hcf}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "Irusuka Yatoro Risse",
+          "type": "special",
+          "notation": "{forward}{hcf}+{aslash}",
+          "notes": ""
+        }
+      ],
+      "id": "nakoruru",
+      "image": "images/Portrait_SSII_Nakoruru.png"
+    },
+    {
+      "name": "Neinhalt Sieger",
+      "moves": [
+        {
+          "name": "Schuttel Eibelung",
+          "type": "throw",
+          "notation": "{down}+{bslash} or {2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Rabe SchutzanzugSturm Angriff",
+          "type": "throw",
+          "notation": "{back} or {forward}+{d}or {kk}",
+          "notes": ""
+        },
+        {
+          "name": "Faust ZwangsMarsname",
+          "type": "throw",
+          "notation": "{air} {down}+{bslash} or {2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Schuttel Eibelung",
+          "type": "throw",
+          "notation": "{down}+{bslash} or {2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Rabe SchutzanzugSturm Angriff",
+          "type": "throw",
+          "notation": "{back} or {forward}+{d}or {kk}",
+          "notes": ""
+        },
+        {
+          "name": "Faust ZwangsMarsname",
+          "type": "throw",
+          "notation": "{air} {down}+{bslash} or {2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Vulcan Weinen",
+          "type": "special",
+          "notation": "{qcf}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "├►Vulcan Trukken",
+          "type": "special",
+          "notation": "{tap}{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "└►Explosion",
+          "type": "special",
+          "notation": "{tap}{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "Tigerkopf",
+          "type": "special",
+          "notation": "{qcf}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "├►Falkennagel",
+          "type": "special",
+          "notation": "{qcf}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "└►Elefantglied",
+          "type": "special",
+          "notation": "{hcb}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "Vulcan Weinen",
+          "type": "special",
+          "notation": "{qcf}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "├►Vulcan Trukken",
+          "type": "special",
+          "notation": "{tap}{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "└►Explosion",
+          "type": "special",
+          "notation": "{tap}{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "Tigerkopf",
+          "type": "special",
+          "notation": "{qcf}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "├►Falkennagel",
+          "type": "special",
+          "notation": "{qcf}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "└►Elefantglied",
+          "type": "special",
+          "notation": "{hcb}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "Wolf Fangen",
+          "type": "special",
+          "notation": "{forward}{hcf}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Blitz Sieger",
+          "type": "special",
+          "notation": "{hcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Fire Sturm",
+          "type": "special",
+          "notation": "{down_forward}+{bslash}{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Wolf Fangen",
+          "type": "special",
+          "notation": "{forward}{hcf}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Blitz Sieger",
+          "type": "special",
+          "notation": "{hcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Fire Sturm",
+          "type": "special",
+          "notation": "{down_forward}+{bslash}{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Hidden Move",
+          "type": "special",
+          "notation": "Toy Transformation {hcbf}{back}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "Toy Transformation",
+          "type": "special",
+          "notation": "{hcbf}{back}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "Weapon Breaking",
+          "type": "special",
+          "notation": "Operation Tiger {hcbf}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Operation Tiger",
+          "type": "special",
+          "notation": "{hcbf}+{kk}",
+          "notes": ""
+        }
+      ],
+      "id": "neinhalt_sieger",
+      "image": "images/Portrait_SSII_Sieger.png"
+    },
+    {
+      "name": "Ukyo Tachibana",
+      "moves": [
+        {
+          "name": "Destroy Slash",
+          "type": "throw",
+          "notation": "{back} or {forward}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Sky Drop Throw Slash",
+          "type": "throw",
+          "notation": "{back} or {forward}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Fatal Reprobacy",
+          "type": "throw",
+          "notation": "{back} or {forward}+{d} or {kk}",
+          "notes": ""
+        },
+        {
+          "name": "Catch Throw",
+          "type": "throw",
+          "notation": "(no weapon) {back} or {forward}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Destroy Slash",
+          "type": "throw",
+          "notation": "{back} or {forward}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Sky Drop Throw Slash",
+          "type": "throw",
+          "notation": "{back} or {forward}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Fatal Reprobacy",
+          "type": "throw",
+          "notation": "{back} or {forward}+{d} or {kk}",
+          "notes": ""
+        },
+        {
+          "name": "Catch Throw",
+          "type": "throw",
+          "notation": "(no weapon) {back} or {forward}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Concealed SabreSnowfall Slash",
+          "type": "special",
+          "notation": "{qcb}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Swordless Sabre Snowfall Slash",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Concealed SabreSnowfall Slash",
+          "type": "special",
+          "notation": "{qcb}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Swordless Sabre Snowfall Slash",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Concealed SabreSwallow Swipe",
+          "type": "special",
+          "notation": "{air} {hcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Ghostly Dashing Slice",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Concealed SabreSwallow Swipe",
+          "type": "special",
+          "notation": "{air} {hcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Ghostly Dashing Slice",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Hidden Move",
+          "type": "special",
+          "notation": "Toy Transformation {hcb}{dp}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Toy Transformation",
+          "type": "special",
+          "notation": "{hcb}{dp}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Weapon Breaking",
+          "type": "special",
+          "notation": "6 Swallow Flash {forward}{hcf}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "6 Swallow Flash",
+          "type": "special",
+          "notation": "{forward}{hcf}+{2xslash}",
+          "notes": ""
+        }
+      ],
+      "id": "ukyo_tachibana",
+      "image": "images/Portrait_SSII_Ukyo.png"
+    },
+    {
+      "name": "Wan-Fu",
+      "moves": [
+        {
+          "name": "Killer LotusPunch",
+          "type": "throw",
+          "notation": "{back} or {forward}+{bslash} or {2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Crushing TailSmack",
+          "type": "throw",
+          "notation": "{back} or {forward}+{d} or {kk}",
+          "notes": ""
+        },
+        {
+          "name": "Skull Crusher Slam",
+          "type": "throw",
+          "notation": "(no weapon){back} or {forward}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Tail Crusher",
+          "type": "throw",
+          "notation": "(no weapon){back} or {forward}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Killer LotusPunch",
+          "type": "throw",
+          "notation": "{back} or {forward}+{bslash} or {2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Crushing TailSmack",
+          "type": "throw",
+          "notation": "{back} or {forward}+{d} or {kk}",
+          "notes": ""
+        },
+        {
+          "name": "Skull Crusher Slam",
+          "type": "throw",
+          "notation": "(no weapon){back} or {forward}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Tail Crusher",
+          "type": "throw",
+          "notation": "(no weapon){back} or {forward}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "True Rolling Spirit Blast",
+          "type": "special",
+          "notation": "{qcb}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Spirit Blast Whirlwind Wham",
+          "type": "special",
+          "notation": "{dp}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "True Rolling Spirit Blast",
+          "type": "special",
+          "notation": "{qcb}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Spirit Blast Whirlwind Wham",
+          "type": "special",
+          "notation": "{dp}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Spirit Blast Beating",
+          "type": "special",
+          "notation": "{qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Raging Pillar Pummel",
+          "type": "special",
+          "notation": "{qcb}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Spirit Blast Beating",
+          "type": "special",
+          "notation": "{qcf}+{slash}",
+          "notes": ""
+        },
+        {
+          "name": "Raging Pillar Pummel",
+          "type": "special",
+          "notation": "{qcb}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Hidden Move",
+          "type": "special",
+          "notation": "Toy Transformation {forward}{hcfb}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Toy Transformation",
+          "type": "special",
+          "notation": "{forward}{hcfb}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Weapon Breaking",
+          "type": "special",
+          "notation": "Wrath of God Blowout {forward}{hcf}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Wrath of God Blowout",
+          "type": "special",
+          "notation": "{forward}{hcf}+{bslash}",
+          "notes": ""
+        }
+      ],
+      "id": "wan-fu",
+      "image": "images/Portrait_SSII_Wan-Fu.png"
+    },
+    {
+      "name": "Kuroko",
+      "moves": [
+        {
+          "name": "FuriousThousand-Kick Can Can",
+          "type": "throw",
+          "notation": "{back} or {forward}+{bslash} or {2xslash}or {d} or {kk}",
+          "notes": ""
+        },
+        {
+          "name": "Fake Blade Slam",
+          "type": "special",
+          "notation": "(during sword clash) {down}",
+          "notes": ""
+        },
+        {
+          "name": "Exploding DanceDrubbing",
+          "type": "special",
+          "notation": "(when hit) {aslash}{bslash}{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Exploding DanceKickfest",
+          "type": "special",
+          "notation": "(when hit) {bslash}{ckick}{d}",
+          "notes": ""
+        },
+        {
+          "name": "Slick Unleashed",
+          "type": "special",
+          "notation": "{tap}{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "White Flag Wallop",
+          "type": "special",
+          "notation": "{forward}+{aslash}{bslash}{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Red Flag Rage",
+          "type": "special",
+          "notation": "{forward}+{bslash}{ckick}{d}",
+          "notes": ""
+        },
+        {
+          "name": "Choking Flag",
+          "type": "special",
+          "notation": "{hcb}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "Slick's Tiger Flash Blast",
+          "type": "special",
+          "notation": "{qcf}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "Slick's Blitzball",
+          "type": "special",
+          "notation": "{qcb}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "Fake Blade Slam",
+          "type": "special",
+          "notation": "(during sword clash) {down}",
+          "notes": ""
+        },
+        {
+          "name": "Exploding DanceDrubbing",
+          "type": "special",
+          "notation": "(when hit) {aslash}{bslash}{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Exploding DanceKickfest",
+          "type": "special",
+          "notation": "(when hit) {bslash}{ckick}{d}",
+          "notes": ""
+        },
+        {
+          "name": "Slick Unleashed",
+          "type": "special",
+          "notation": "{tap}{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "White Flag Wallop",
+          "type": "special",
+          "notation": "{forward}+{aslash}{bslash}{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Red Flag Rage",
+          "type": "special",
+          "notation": "{forward}+{bslash}{ckick}{d}",
+          "notes": ""
+        },
+        {
+          "name": "Choking Flag",
+          "type": "special",
+          "notation": "{hcb}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "Slick's Tiger Flash Blast",
+          "type": "special",
+          "notation": "{qcf}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "Slick's Blitzball",
+          "type": "special",
+          "notation": "{qcb}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "Slick's Conquering Crunch",
+          "type": "special",
+          "notation": "{forward}{hcf}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "Slick's Bean BallBlizzard",
+          "type": "special",
+          "notation": "{qcb}{down_back}{forward}+{bslash}{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Slick's Megasmash",
+          "type": "special",
+          "notation": "{qcf}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Slick's Rice Cracker Dirks",
+          "type": "special",
+          "notation": "{cdb}{forward}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "Slick's Steel Slicer Wave",
+          "type": "special",
+          "notation": "{qcf_hcb}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "Slick's ExplodingThunderblast",
+          "type": "special",
+          "notation": "{cdb}{down}{forward}+{bslash}{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Slick's Conquering Crunch",
+          "type": "special",
+          "notation": "{forward}{hcf}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "Slick's Bean BallBlizzard",
+          "type": "special",
+          "notation": "{qcb}{down_back}{forward}+{bslash}{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Slick's Megasmash",
+          "type": "special",
+          "notation": "{qcf}+{bslash}",
+          "notes": ""
+        },
+        {
+          "name": "Slick's Rice Cracker Dirks",
+          "type": "special",
+          "notation": "{cdb}{forward}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "Slick's Steel Slicer Wave",
+          "type": "special",
+          "notation": "{qcf_hcb}+{aslash}",
+          "notes": ""
+        },
+        {
+          "name": "Slick's ExplodingThunderblast",
+          "type": "special",
+          "notation": "{cdb}{down}{forward}+{bslash}{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Hidden Move",
+          "type": "special",
+          "notation": "Toy Transformation {hcf}{down_downforward}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Toy Transformation",
+          "type": "special",
+          "notation": "{hcf}{down_downforward}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Weapon Breaking",
+          "type": "special",
+          "notation": "Satanic Saturnalia {hcbf}+{2xslash} Super SatanicSaturnalia {forward}{hcf}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Satanic Saturnalia",
+          "type": "special",
+          "notation": "{hcbf}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Super SatanicSaturnalia",
+          "type": "special",
+          "notation": "{forward}{hcf}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Satanic Saturnalia",
+          "type": "special",
+          "notation": "{hcbf}+{2xslash}",
+          "notes": ""
+        },
+        {
+          "name": "Super SatanicSaturnalia",
+          "type": "special",
+          "notation": "{forward}{hcf}+{kk}",
+          "notes": ""
+        }
+      ],
+      "id": "kuroko",
+      "image": null
+    }
+  ]
+}
