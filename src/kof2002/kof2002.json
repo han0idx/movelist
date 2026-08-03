@@ -1,0 +1,4436 @@
+{
+  "name": "kof2002",
+  "title": "The King of Fighters 2002",
+  "image": "images/The_King_of_Fighters_2002_logo.png",
+  "characters": [
+    {
+      "name": "Kyo Kusanagi",
+      "moves": [
+        {
+          "name": "Ge-Shiki Go Gu Yo",
+          "type": "special",
+          "notation": "{forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Ge-Shiki Naraku Otoshi",
+          "type": "special",
+          "notation": "{air}{down}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "88 Shiki",
+          "type": "special",
+          "notation": "{down_forward}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "100 Shiki Oniyaki",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "212 Shiki Kototsuki You",
+          "type": "special",
+          "notation": "{hcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "R.E.D. Kick",
+          "type": "special",
+          "notation": "{rdp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "75 Shiki Kai",
+          "type": "special",
+          "notation": "{qcf}+{k}, then{k}",
+          "notes": ""
+        },
+        {
+          "name": "114 Shiki Aragami",
+          "type": "special",
+          "notation": "{qcf}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "____128 Shiki Konokizu",
+          "type": "special",
+          "notation": "{qcf}+{p}(during Aragami)",
+          "notes": ""
+        },
+        {
+          "name": "____127 Shiki Yanosabi",
+          "type": "special",
+          "notation": "{p}(during Konokizu)",
+          "notes": ""
+        },
+        {
+          "name": "____128 Shiki Yanosabi",
+          "type": "special",
+          "notation": "{hcb}+{p}(during Aragami)",
+          "notes": ""
+        },
+        {
+          "name": "427 Shiki Hikigane",
+          "type": "special",
+          "notation": "{hcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "_____Ge-Shiki Tsurubeotoshi",
+          "type": "special",
+          "notation": "{p}(during Munotsuchi)",
+          "notes": ""
+        },
+        {
+          "name": "",
+          "type": "special",
+          "notation": "{qcf}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "__115 Shiki Dokugami",
+          "type": "special",
+          "notation": "{hcb}+{p}(during Dokugami)",
+          "notes": ""
+        },
+        {
+          "name": "____401 Shiki Tsumiyomi",
+          "type": "special",
+          "notation": "{forward}+{p}(during Tsumiyomi)",
+          "notes": ""
+        },
+        {
+          "name": "______402 Shiki Batsuyomi",
+          "type": "special",
+          "notation": "{dp}+{p}(during Batsuyomi)",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Ura 108 Shiki Orochinagi",
+          "type": "special",
+          "notation": "{qcb_hcf}+{p}(hold to delay)",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Ura 108 Shiki Orochinagi",
+          "type": "special",
+          "notation": "{qcb_hcf}+{pp}(hold to delay)",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  521 Shiki Kamikura",
+          "type": "special",
+          "notation": "(close){hcb}{hcb}+{pp}",
+          "notes": ""
+        }
+      ],
+      "id": "kyo_kusanagi",
+      "image": "images/Portrait_KOF2002_Kyo.png"
+    },
+    {
+      "name": "Benimaru Nikaido",
+      "moves": [
+        {
+          "name": "Spinning Knee Drop (Air Throw)",
+          "type": "special",
+          "notation": "{air}(close){forward} or {down} or {back}+{c} or {d}",
+          "notes": ""
+        },
+        {
+          "name": "Jackknife Kick",
+          "type": "special",
+          "notation": "{forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Flying Drill",
+          "type": "special",
+          "notation": "{air}{down}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Iai Geri",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "__Handou Sandan Geri",
+          "type": "special",
+          "notation": "{down}{up}+{k}(during Iai Geri)",
+          "notes": ""
+        },
+        {
+          "name": "Shinku Katategoma",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Raijin Ken",
+          "type": "special",
+          "notation": "{air}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Benimaru Colider",
+          "type": "special",
+          "notation": "(close){hcbf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Raikou Ken",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Gen'Ei Hurricane",
+          "type": "special",
+          "notation": "{qcb}{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Raikou Ken",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  Heaven Blast Dress",
+          "type": "special",
+          "notation": "{forward}{down_back}{down_forward}{back}{forward}+any button",
+          "notes": ""
+        }
+      ],
+      "id": "benimaru_nikaido",
+      "image": "images/Portrait_KOF2002_Benimaru.png"
+    },
+    {
+      "name": "Goro Daimon",
+      "moves": [
+        {
+          "name": "Zujo Barai",
+          "type": "special",
+          "notation": "{down_forward}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Jiraishin",
+          "type": "special",
+          "notation": "{dp}+{p}(Heavy version is fake)",
+          "notes": ""
+        },
+        {
+          "name": "Chou Ukemi",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Kumo Tsukami",
+          "type": "special",
+          "notation": "{hcf}+{a}(use on airborne opponents)",
+          "notes": ""
+        },
+        {
+          "name": "Kirikabu Gaeshi",
+          "type": "special",
+          "notation": "(close){hcf}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Tenchi Gaeshi",
+          "type": "special",
+          "notation": "(close){hcbf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Chou Oosutogari",
+          "type": "special",
+          "notation": "(close){dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Nekko Gaeshi",
+          "type": "special",
+          "notation": "(counter){qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Ura Nage",
+          "type": "special",
+          "notation": "{hcbf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Jigoku Otoshi Gokuraku",
+          "type": "special",
+          "notation": "(close){hcb}{hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Stormy Mountain Uprooter",
+          "type": "special",
+          "notation": "(close){hcf}{hcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  __Super Stump Throw",
+          "type": "special",
+          "notation": "{hcf}+{k}(during Stormy Mountain Uprooter)",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  ____Radical Reverse Throw",
+          "type": "special",
+          "notation": "{dp}+{k}(during Super Stump Throw)",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Jigoku Otoshi Gokuraku",
+          "type": "special",
+          "notation": "(close){hcb}{hcb}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Stormy Mountain Uprooter",
+          "type": "special",
+          "notation": "(close){hcf}{hcf}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  __Super Stump Throw",
+          "type": "special",
+          "notation": "{hcf}+{k}(during Stormy Mountain Uprooter)",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  ____Radical Reverse Throw",
+          "type": "special",
+          "notation": "{dp}+{k}(during Super Stump Throw)",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  Fu Rin Ka Zan",
+          "type": "special",
+          "notation": "{dp}{rdp}+{b}+{c}",
+          "notes": ""
+        }
+      ],
+      "id": "goro_daimon",
+      "image": "images/Portrait_KOF2002_Daimon.png"
+    },
+    {
+      "name": "Terry Bogard",
+      "moves": [
+        {
+          "name": "Rising Upper",
+          "type": "special",
+          "notation": "{down_forward}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Power Wave",
+          "type": "special",
+          "notation": "{qcf}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Round Wave",
+          "type": "special",
+          "notation": "{qcf}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Burning Knuckle",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Power Dunk",
+          "type": "special",
+          "notation": "{dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Rising Tackle",
+          "type": "special",
+          "notation": "{charge_down_up}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Crack Shoot",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Power Geyser",
+          "type": "special",
+          "notation": "{qcb_hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  High-Angle Geyser",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Power Geyser",
+          "type": "special",
+          "notation": "{qcb_hcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  Rising Force",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{pp}",
+          "notes": ""
+        }
+      ],
+      "id": "terry_bogard",
+      "image": "images/Portrait_KOF2002_Terry.png"
+    },
+    {
+      "name": "Andy Bogard",
+      "moves": [
+        {
+          "name": "Chin Raiser",
+          "type": "special",
+          "notation": "{forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Facelift Smash",
+          "type": "special",
+          "notation": "{down_forward}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Zan Ei Ken",
+          "type": "special",
+          "notation": "{down_back}{forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "__Shippu Oh Ken",
+          "type": "special",
+          "notation": "{qcf}+{p} (during Zan Ei Ken)",
+          "notes": ""
+        },
+        {
+          "name": "Hisho Ken",
+          "type": "special",
+          "notation": "{qcb}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Geki Hisho Ken",
+          "type": "special",
+          "notation": "{qcb}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Sho Ryu Dan",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Sonic Split",
+          "type": "special",
+          "notation": "{hcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Dam Breaker Punch",
+          "type": "special",
+          "notation": "(close){hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Shiranui Shadow",
+          "type": "special",
+          "notation": "{air}{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "__Shiranui Shadow Downward Jab",
+          "type": "special",
+          "notation": "{p} (during Shiranui Shadow)",
+          "notes": ""
+        },
+        {
+          "name": "__Shiranui Shadow Uppercut Crush",
+          "type": "special",
+          "notation": "{k} (during Shiranui Shadow)",
+          "notes": ""
+        },
+        {
+          "name": "Darkness Kick",
+          "type": "special",
+          "notation": "{rdp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Super Sonic Swirl",
+          "type": "special",
+          "notation": "{qcb_hcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Zan Ei Comet Punch",
+          "type": "special",
+          "notation": "{qcb_hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Super Sonic Swirl",
+          "type": "special",
+          "notation": "{qcb_hcf}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  Zan Ei Super Sonic Swirl",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{pp}(for additional attack={kk}+{c})",
+          "notes": ""
+        }
+      ],
+      "id": "andy_bogard",
+      "image": "images/Portrait_KOF2002_Andy.png"
+    },
+    {
+      "name": "Joe Higashi",
+      "moves": [
+        {
+          "name": "Low Kick",
+          "type": "special",
+          "notation": "{forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Sliding",
+          "type": "special",
+          "notation": "{down_forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Hurricane Upper",
+          "type": "special",
+          "notation": "{hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Slash Kick",
+          "type": "special",
+          "notation": "{hcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Tiger Kick",
+          "type": "special",
+          "notation": "{dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Golden Heel Hunter",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "TNT Punch",
+          "type": "special",
+          "notation": "{tap} {p}",
+          "notes": ""
+        },
+        {
+          "name": "__TNT Punch Finish",
+          "type": "special",
+          "notation": "{qcf}+{p}(during TNT Punch)",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Screw Upper",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Golden Tiger Kick",
+          "type": "special",
+          "notation": "{qcf}{up_forward}+{k}(hold to delay)",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Exploding Hurricane Tiger Talon",
+          "type": "special",
+          "notation": "{qcf_hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Screw Upper",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  Cross Giganticness",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{kk}",
+          "notes": ""
+        }
+      ],
+      "id": "joe_higashi",
+      "image": "images/Portrait_KOF2002_Joe.png"
+    },
+    {
+      "name": "Ryo Sakazaki",
+      "moves": [
+        {
+          "name": "Ice Pillar Pulverizer",
+          "type": "special",
+          "notation": "{forward}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Upper Parry",
+          "type": "special",
+          "notation": "(parry){forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Lower Parry",
+          "type": "special",
+          "notation": "(parry){down_forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Ko Ou ken",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Koho",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Hien Shippu Kyaku",
+          "type": "special",
+          "notation": "{hcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Zan Retsu Ken",
+          "type": "special",
+          "notation": "{forward_back}{forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Mouko Raijin Satsu",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Haoh Sho Ko Ken",
+          "type": "special",
+          "notation": "{forward}{hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Ryuuko Ranbu",
+          "type": "special",
+          "notation": "{qcf_hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Ryuuko Ranbu Destory",
+          "type": "special",
+          "notation": "{qcf}+{c}, then{a} (5-6 millisecond at speed)",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  Heaven Glaze Punch",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{pp}",
+          "notes": ""
+        }
+      ],
+      "id": "ryo_sakazaki",
+      "image": "images/Portrait_KOF2002_Ryo.png"
+    },
+    {
+      "name": "Robert Garcia",
+      "moves": [
+        {
+          "name": "Dragon-felling Kick",
+          "type": "special",
+          "notation": "{forward}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Back Knuckle",
+          "type": "special",
+          "notation": "{back}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Soaring Dragon Kick",
+          "type": "special",
+          "notation": "{back}or{forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Dragon Blast Punch",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Ryuga",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Flying Dragon Kick",
+          "type": "special",
+          "notation": "{air}{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Great Spirit Kick",
+          "type": "special",
+          "notation": "{forward_back}{forward}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Kyoku Gen Kick Dance",
+          "type": "special",
+          "notation": "(close){hcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Haoh Sho Koh Ken",
+          "type": "special",
+          "notation": "{forward}{hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Ryuko Ranbu",
+          "type": "special",
+          "notation": "{qcf_hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Reverse Dragon Fang",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Ryuko Ranbu",
+          "type": "special",
+          "notation": "{qcf_hcb}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  Ryuko Ranbu: Absolute",
+          "type": "special",
+          "notation": "{qcf_hcb}+{kk}",
+          "notes": ""
+        }
+      ],
+      "id": "robert_garcia",
+      "image": "images/Portrait_KOF2002_Robert.png"
+    },
+    {
+      "name": "Takuma Sakazaki",
+      "moves": [
+        {
+          "name": "Bottle Breaker",
+          "type": "special",
+          "notation": "{forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Tiger Flame Punch",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Lighting Legs Knockout Kick",
+          "type": "special",
+          "notation": "{hcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Tiger Boulder Blash",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Haoh Shi Koh Ken",
+          "type": "special",
+          "notation": "{forward}{hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Ryuko Ranbu",
+          "type": "special",
+          "notation": "{qcf_hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Neo Demon-God Attack",
+          "type": "special",
+          "notation": "(close){qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Ryuko Ranbu",
+          "type": "special",
+          "notation": "{qcf_hcb}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  Tiger Killer",
+          "type": "special",
+          "notation": "(counter){back}{dp}+{pp}",
+          "notes": ""
+        }
+      ],
+      "id": "takuma_sakazaki",
+      "image": "images/Portrait_KOF2002_Takuma.png"
+    },
+    {
+      "name": "Leona Heidern",
+      "moves": [
+        {
+          "name": "Heidern Inferno",
+          "type": "special",
+          "notation": "(close){air}{back}or{forward}or{down}+{c}(Air Throw)",
+          "notes": ""
+        },
+        {
+          "name": "Strike Arch",
+          "type": "special",
+          "notation": "{back}or{forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Moon Slasher",
+          "type": "special",
+          "notation": "{charge_down_up}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Voltaic Launcher",
+          "type": "special",
+          "notation": "{charge_back_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "X-Caliber",
+          "type": "special",
+          "notation": "{air}{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Ground Sabre",
+          "type": "special",
+          "notation": "{charge_back_forward}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "__Gliding Buster",
+          "type": "special",
+          "notation": "{forward}+{d}(during heavy Ground Sabre)",
+          "notes": ""
+        },
+        {
+          "name": "Earring Explosive 1",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Earring Explosive 2: Heart Attack",
+          "type": "special",
+          "notation": "{rdp}+{k}(re-input to detonate)",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Awakening",
+          "type": "special",
+          "notation": "{up}{down}{up}{down}{up}{down}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  V-Slasher",
+          "type": "special",
+          "notation": "{air}{qcf_hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Revolver Spark",
+          "type": "special",
+          "notation": "{qcb_hcf}+{k} (only before Awakening)",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  V-Slasher",
+          "type": "special",
+          "notation": "{air}{qcf_hcb}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  Revolver Spark",
+          "type": "special",
+          "notation": "{qcb_hcf}+{kk}(only after Awakening)",
+          "notes": ""
+        }
+      ],
+      "id": "leona_heidern",
+      "image": "images/Portrait_KOF2002_Leona.png"
+    },
+    {
+      "name": "Ralf Jones",
+      "moves": [
+        {
+          "name": "Gatling Attack",
+          "type": "special",
+          "notation": "{charge_back_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Super Argentine Backbreaker",
+          "type": "special",
+          "notation": "(close){hcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Blitzkrieg Punch",
+          "type": "special",
+          "notation": "{charge_down_up}or{air}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Vulcan Punch",
+          "type": "special",
+          "notation": "{tap} {p}",
+          "notes": ""
+        },
+        {
+          "name": "Ralf Kick",
+          "type": "special",
+          "notation": "{hcb}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Ralf Tackle",
+          "type": "special",
+          "notation": "{hcb}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Galactica Phantom",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Super Vulcan Punch",
+          "type": "special",
+          "notation": "{qcf_hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Bareback Vulcan Punch",
+          "type": "special",
+          "notation": "{qcb_hcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Super Vulcan Punch",
+          "type": "special",
+          "notation": "{qcf_hcb}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  Bareback Galactica Phantom",
+          "type": "special",
+          "notation": "{qcb_hcf}{qcf}+{a}+{d}",
+          "notes": ""
+        }
+      ],
+      "id": "ralf_jones",
+      "image": "images/Portrait_KOF2002_Ralf.png"
+    },
+    {
+      "name": "Clark Still",
+      "moves": [
+        {
+          "name": "Drive to Death Lake",
+          "type": "special",
+          "notation": "(close){air}{back}or{forward}or{down}+{c}(Air Throw)",
+          "notes": ""
+        },
+        {
+          "name": "Stomping",
+          "type": "special",
+          "notation": "{back}or{forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Super Argentine Back Breaker",
+          "type": "special",
+          "notation": "(close){hcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Napalm Stretch",
+          "type": "special",
+          "notation": "{dp}+{p}(use on airborne opponents)",
+          "notes": ""
+        },
+        {
+          "name": "Frankensteiner",
+          "type": "special",
+          "notation": "(close){dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Shining Wizard",
+          "type": "special",
+          "notation": "{hcb}+{p}(use on crouching opponents)",
+          "notes": ""
+        },
+        {
+          "name": "Mount Tackle",
+          "type": "special",
+          "notation": "{hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "__Clark Lift",
+          "type": "special",
+          "notation": "{down}{down}+{a}(during Mount Tackle)",
+          "notes": ""
+        },
+        {
+          "name": "__Rolling Cradler",
+          "type": "special",
+          "notation": "{down}{down}+{k}(during Mount Tackle)",
+          "notes": ""
+        },
+        {
+          "name": "__Sleeper Lift",
+          "type": "special",
+          "notation": "{down}{down}+{c}(during Mount Tackle)",
+          "notes": ""
+        },
+        {
+          "name": "__Flashing Elbow",
+          "type": "special",
+          "notation": "{qcf}+{p}(during SUPER Argentine Back Breaker, Napalm Stretch, Frankensteiner, or Sleeper Lift)",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Ultra Argentine Back Breaker",
+          "type": "special",
+          "notation": "(close){hcb}{hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Running Three",
+          "type": "special",
+          "notation": "{hcf}{hcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Ultra Argentine Back Breaker",
+          "type": "special",
+          "notation": "(close){hcb}{hcb}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  Running Pirates",
+          "type": "special",
+          "notation": "{hcf}{hcf}+{kk}",
+          "notes": ""
+        }
+      ],
+      "id": "clark_still",
+      "image": "images/Portrait_KOF2002_Clark.png"
+    },
+    {
+      "name": "Athena Asamiya",
+      "moves": [
+        {
+          "name": "Psychic Shoot",
+          "type": "special",
+          "notation": "(close){air}{back}or{forward}or{down}+{c}(Air Throw)",
+          "notes": ""
+        },
+        {
+          "name": "Psychic Skin",
+          "type": "special",
+          "notation": "{forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Phoenix Bomb",
+          "type": "special",
+          "notation": "{air}{down}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Psycho Ball Attack",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Psycho Sword",
+          "type": "special",
+          "notation": "{air}{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Psycho Reflector",
+          "type": "special",
+          "notation": "{qcb}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Psychic Teleport",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Phoenix Arrow",
+          "type": "special",
+          "notation": "{air}{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Shining Crystal Bit",
+          "type": "special",
+          "notation": "{air}{hcb}{hcb}+{p}(press all 4 buttons to stop)",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  __Crystal Shoot",
+          "type": "special",
+          "notation": "{qcb}+{p}(during Shining Crystal Bit, hold to delay)",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Phoenix Fang Arrow",
+          "type": "special",
+          "notation": "{air}{qcf}{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Shining Crystal Bit",
+          "type": "special",
+          "notation": "{air}{hcb}{hcb}+{pp}(press all 4 buttons to stop)",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  __Crystal Shoot",
+          "type": "special",
+          "notation": "{qcb}+{p}(during Shining Crystal Bit, hold to delay)",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Psychic 9",
+          "type": "special",
+          "notation": "{hcbf}+{pp},then {a}{b}{c}{a}{b}{c}{d}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  __Fire Sword Finish",
+          "type": "special",
+          "notation": "{qcb}+{k}(after Psychic 9 input)",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  __Psycho Sword Finish",
+          "type": "special",
+          "notation": "{dp}+{p}(after Psychic 9 input)",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  __School Uniform Finish",
+          "type": "special",
+          "notation": "{qcf}+{p}(after Psychic 9 input)",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  Psycho Medley",
+          "type": "special",
+          "notation": "{qcf}+{pp}+{kk}, then{d}{c}{b}{d}{c}{b}{a}",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  __Cute Idols Finish",
+          "type": "special",
+          "notation": "{qcf}+{b}+{c}(after Psycho Medley input)",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  __Healing Athena Finish",
+          "type": "special",
+          "notation": "{qcf}+{a}+{b}(after Psycho Medley input)",
+          "notes": ""
+        }
+      ],
+      "id": "athena_asamiya",
+      "image": "images/Portrait_KOF2002_Athena.png"
+    },
+    {
+      "name": "Sie Kensou",
+      "moves": [
+        {
+          "name": "Tiger Takedown Punch",
+          "type": "special",
+          "notation": "{forward}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Reverse Mass Kick",
+          "type": "special",
+          "notation": "{forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Super Bullet Attack",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Earth Dragon Fang Nibble",
+          "type": "special",
+          "notation": "{hcf}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Heaven Dragon Fang Nibble",
+          "type": "special",
+          "notation": "{hcf}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Dragon Talon Tear",
+          "type": "special",
+          "notation": "{air}{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Dragon Uppercut",
+          "type": "special",
+          "notation": "{rdp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Arrow Kick",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Dragon God Kick",
+          "type": "special",
+          "notation": "{qcf_hcb}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Dragon God Drubbing",
+          "type": "special",
+          "notation": "{qcf_hcb}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  RESPECT Meat Dumplings",
+          "type": "special",
+          "notation": "{qcb}{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Hermit Power Blast",
+          "type": "special",
+          "notation": "(close){qcf}{qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  Dragon Awakening",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{kk}",
+          "notes": ""
+        }
+      ],
+      "id": "sie_kensou",
+      "image": "images/Portrait_KOF2002_Kensou.png"
+    },
+    {
+      "name": "Chin Gentsai",
+      "moves": [
+        {
+          "name": "Staggering Sake Gourd Attack",
+          "type": "special",
+          "notation": "{forward}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Gourd Attack",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Mochizuki Intoxicator",
+          "type": "special",
+          "notation": "{down}{down}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "__Serpent Adversary",
+          "type": "special",
+          "notation": "{up}+{b}(during Mochizuki Intoxicator)",
+          "notes": ""
+        },
+        {
+          "name": "__Carp Can Can",
+          "type": "special",
+          "notation": "{up}+{d}(during Mochizuki Intoxicator)",
+          "notes": ""
+        },
+        {
+          "name": "__Rolling Punch 1",
+          "type": "special",
+          "notation": "{forward}+{k}(during Mochizuki Intoxicator, and after using Gulp Sake once or more)",
+          "notes": ""
+        },
+        {
+          "name": "__Back Wrap Kick",
+          "type": "special",
+          "notation": "all buttons (during Mochizuki Intoxicator)",
+          "notes": ""
+        },
+        {
+          "name": "Gulp Sake",
+          "type": "special",
+          "notation": "{rdp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "__Rolling Punch 2",
+          "type": "special",
+          "notation": "{hcf}+{k}(after using Gulp Sake once or more)",
+          "notes": ""
+        },
+        {
+          "name": "__Burning Sake Belch",
+          "type": "special",
+          "notation": "{dp}+{p}(after using Gulp Sake once or more)",
+          "notes": ""
+        },
+        {
+          "name": "__Sake Fire Breath",
+          "type": "special",
+          "notation": "{qcf}+{p}(after using Gulp Sake once or more)",
+          "notes": ""
+        },
+        {
+          "name": "__Customized Invitation to the Furnace",
+          "type": "special",
+          "notation": "{dp}+{k}(after using Gulp Sake three or more time)",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Thunder Blast",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Invitation to the Furnace",
+          "type": "special",
+          "notation": "{qcf_hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Thunder Blast",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  Manipulate Flame Dance",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{kk}",
+          "notes": ""
+        }
+      ],
+      "id": "chin_gentsai",
+      "image": "images/Portrait_KOF2002_Chin.png"
+    },
+    {
+      "name": "Mai Shiranui",
+      "moves": [
+        {
+          "name": "Cherry Blossom Phantasm",
+          "type": "special",
+          "notation": "(close){air}{back}or{forward}or{down}+{c}(Air Throw)",
+          "notes": ""
+        },
+        {
+          "name": "Black Swallow Dance",
+          "type": "special",
+          "notation": "{forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Crimson Crane Dance",
+          "type": "special",
+          "notation": "{down_forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Fortune's Wheel Drop",
+          "type": "special",
+          "notation": "{air}{down}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Ukihane",
+          "type": "special",
+          "notation": "{air}{down}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Yusura",
+          "type": "special",
+          "notation": "{air}{down}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Ryu En Bu",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Sayo Chidori",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Kacho Sen",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Deadly Ninja Bees",
+          "type": "special",
+          "notation": "{hcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Flying Squirrel Dance",
+          "type": "special",
+          "notation": "{charge_down_up}or{air}{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "__Yusura",
+          "type": "special",
+          "notation": "{air}{down}+{p}(during Flying Squirrel Dance)",
+          "notes": ""
+        },
+        {
+          "name": "__Ukihane",
+          "type": "special",
+          "notation": "{air}{down}+{k}(during Flying Squirrel Dance)",
+          "notes": ""
+        },
+        {
+          "name": "__Peach Blossom Bounce",
+          "type": "special",
+          "notation": "(close){air}{down}+{d}(during Flying Squirrel Dance)",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Blossom Storm",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Super Deadly Ninja Bees",
+          "type": "special",
+          "notation": "{qcb_hcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Super Deadly Ninja Bees",
+          "type": "special",
+          "notation": "{qcb_hcf}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  Shiranui Nine Tails Fox",
+          "type": "special",
+          "notation": "{d}{b}{c}{c}{up}",
+          "notes": ""
+        }
+      ],
+      "id": "mai_shiranui",
+      "image": "images/Portrait_KOF2002_Mai.png"
+    },
+    {
+      "name": "Yuri Sakazaki",
+      "moves": [
+        {
+          "name": "Swallow Dropper",
+          "type": "special",
+          "notation": "(close){air}{back}or{forward}or{down}+{c}(Air Throw)",
+          "notes": ""
+        },
+        {
+          "name": "Swallow Wings",
+          "type": "special",
+          "notation": "{forward}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Piercing Swallow",
+          "type": "special",
+          "notation": "{down_forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Rising Swallow",
+          "type": "special",
+          "notation": "{down_forward}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Tiger Flame Punch",
+          "type": "special",
+          "notation": "{qcf}+{p}(hold for Haoh Sho Koh Ken)",
+          "notes": ""
+        },
+        {
+          "name": "Sai Ha",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Yuri Super Upper (SUPER CANCEL)",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "__Double Yuri Super Upper",
+          "type": "special",
+          "notation": "{dp}+{p}(during strong Yuri Super Upper)",
+          "notes": ""
+        },
+        {
+          "name": "Hundred Blows",
+          "type": "special",
+          "notation": "{hcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Flying Phoenix Kick",
+          "type": "special",
+          "notation": "{qcf_hcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Core! Super Upper",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  Super! Flying Phoenix Kick",
+          "type": "special",
+          "notation": "{forward_back}{hcb}+{kk}",
+          "notes": ""
+        }
+      ],
+      "id": "yuri_sakazaki",
+      "image": "images/Portrait_KOF2002_Yuri.png"
+    },
+    {
+      "name": "May Lee",
+      "moves": [
+        {
+          "name": "Posture Shift (in between Standard and Hero)",
+          "type": "special",
+          "notation": "{pp}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Hero's Guard (Hero)",
+          "type": "special",
+          "notation": "(parry){forward}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Sliding (Hero)",
+          "type": "special",
+          "notation": "{down_forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Self Rebellion 1 (Standard)",
+          "type": "special",
+          "notation": "(counter){hcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Dragon Tail Kick (Standard)",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "__Windmill Kick",
+          "type": "special",
+          "notation": "{k}(during Dragon Tail Kick)",
+          "notes": ""
+        },
+        {
+          "name": "____Heart Charge Kick",
+          "type": "special",
+          "notation": "{k}(during Windmill Kick)",
+          "notes": ""
+        },
+        {
+          "name": "__Sun Rise Kick",
+          "type": "special",
+          "notation": "{up_forward}+{k}(during Dragon Tail Kick or Windmill Kick)",
+          "notes": ""
+        },
+        {
+          "name": "____Sun Set Kick",
+          "type": "special",
+          "notation": "{down}+{k}(during Sun Rise Kick)",
+          "notes": ""
+        },
+        {
+          "name": "__Tiger Tail Kick",
+          "type": "special",
+          "notation": "{down}+{k}(during Dragon Tail Kick or Windmill Kick)",
+          "notes": ""
+        },
+        {
+          "name": "__Head Bone Kick",
+          "type": "special",
+          "notation": "{down_forward}+{k}(during Dragon Tail Kick or Windmill Kick)",
+          "notes": ""
+        },
+        {
+          "name": "__Self Rebellion 2",
+          "type": "special",
+          "notation": "(counter){back}+{k}(during Dragon Tail Kick or Windmill Kick)",
+          "notes": ""
+        },
+        {
+          "name": "__Dual Stars Kick",
+          "type": "special",
+          "notation": "{up}+{k}(during Dragon Tail Kick or Windmill Kick)",
+          "notes": ""
+        },
+        {
+          "name": "Full Swing Chop (Hero)",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "May Lee Chooop! (Hero)",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Shining Thunder Blow (Hero)",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "May Lee Break (Hero)",
+          "type": "special",
+          "notation": "(close){hcbf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Beast God Kick (Standard)",
+          "type": "special",
+          "notation": "{qcb}{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  May Lee Dynamic! (Hero)",
+          "type": "special",
+          "notation": "{air}{qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Disposition Frog",
+          "type": "special",
+          "notation": "{pp}{kk}{pp}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  May the End (Hero)",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  Key of Victory (Hero)",
+          "type": "special",
+          "notation": "{forward}{b}{c}{forward}{c}",
+          "notes": ""
+        }
+      ],
+      "id": "may_lee",
+      "image": "images/Portrait_KOF2002_May_Lee.png"
+    },
+    {
+      "name": "Kim Kaphwan",
+      "moves": [
+        {
+          "name": "Nerichagi",
+          "type": "special",
+          "notation": "{forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Flying Kick",
+          "type": "special",
+          "notation": "{air}{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Crescent Moon Slash",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Spirit of Conquest Kick",
+          "type": "special",
+          "notation": "{down}{down}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Flying Slice",
+          "type": "special",
+          "notation": "{charge_down_up}+{k}(for additional attack during strong version= {down}+{d})",
+          "notes": ""
+        },
+        {
+          "name": "Triple Attacks",
+          "type": "special",
+          "notation": "{qcb}+{p}(can be linked together up to 3 times)",
+          "notes": ""
+        },
+        {
+          "name": "Triple Aerial Attacks 1",
+          "type": "special",
+          "notation": "{up_forward}+{k}(during first hit of Triple Attacks)",
+          "notes": ""
+        },
+        {
+          "name": "Triple Aerial Attacks 2",
+          "type": "special",
+          "notation": "{down}+{k}(during Triple Aerial Attacks 1)",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Phoenix Flattener",
+          "type": "special",
+          "notation": "{qcb_hcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Phoenix Blow Kick",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Phoenix Flattener",
+          "type": "special",
+          "notation": "{air}{qcb_hcf}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  Zero Distance Phoenix Flattener",
+          "type": "special",
+          "notation": "(close){qcb_hcf}+all buttons",
+          "notes": ""
+        }
+      ],
+      "id": "kim_kaphwan",
+      "image": "images/Portrait_KOF2002_Kim.png"
+    },
+    {
+      "name": "Chang Koehan",
+      "moves": [
+        {
+          "name": "Hit and Run",
+          "type": "special",
+          "notation": "{down_forward}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Spinning Iron Ball",
+          "type": "special",
+          "notation": "{tap} {p}(press all 4 buttons to stop)",
+          "notes": ""
+        },
+        {
+          "name": "Breaking Iron Ball",
+          "type": "special",
+          "notation": "{charge_back_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Drumming Iron Ball",
+          "type": "special",
+          "notation": "(counter){hcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Big Destroyer Toss",
+          "type": "special",
+          "notation": "(close){hcbf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Spirit of Conquest Kick",
+          "type": "special",
+          "notation": "{down}{down}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Wild Ball Attack",
+          "type": "special",
+          "notation": "{qcf_hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Iron Sphere Smasher",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Wild Ball Beater",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Iron Sphere Smasher",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  Earth Sphere Smasher",
+          "type": "special",
+          "notation": "{b}{a}{down_forward}{c}{a}(stuns opponent)",
+          "notes": ""
+        }
+      ],
+      "id": "chang_koehan",
+      "image": "images/Portrait_KOF2002_Chang.png"
+    },
+    {
+      "name": "Choi Bounge",
+      "moves": [
+        {
+          "name": "Mad Slasher Kick",
+          "type": "special",
+          "notation": "{forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Hurricane Cutter",
+          "type": "special",
+          "notation": "{charge_down_up}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Hisho Kuretsu Zan",
+          "type": "special",
+          "notation": "{charge_down_up}+{k}(hold button)",
+          "notes": ""
+        },
+        {
+          "name": "Flying Monkey Slice",
+          "type": "special",
+          "notation": "{charge_back_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "__Change Direction",
+          "type": "special",
+          "notation": "any direction+any button(can be linked together up to 3 times, during Hisho Kuretsu Zan, or Flying Monkey Slice)",
+          "notes": ""
+        },
+        {
+          "name": "Soaring Kick",
+          "type": "special",
+          "notation": "{air}{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Monkey Slice",
+          "type": "special",
+          "notation": "{dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Kaiten Hien Zan",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "__Flying Monkey Ambush",
+          "type": "special",
+          "notation": "{p}(during Kaiten Hien Zan)",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Tornado Ripper",
+          "type": "special",
+          "notation": "{hcb}{hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Phoenix Flattener",
+          "type": "special",
+          "notation": "{qcf_hcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Phoenix Flattener",
+          "type": "special",
+          "notation": "{qcf_hcb}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  Instant Death",
+          "type": "special",
+          "notation": "{air}{hcf}{hcf}+{pp}",
+          "notes": ""
+        }
+      ],
+      "id": "choi_bounge",
+      "image": "images/Portrait_KOF2002_Choi.png"
+    },
+    {
+      "name": "Iori Yagami",
+      "moves": [
+        {
+          "name": "Dream Blast",
+          "type": "special",
+          "notation": "{forward}+{a}, then{a}",
+          "notes": ""
+        },
+        {
+          "name": "Thunder Axe Shadow Reaper",
+          "type": "special",
+          "notation": "{forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Lily Breaker",
+          "type": "special",
+          "notation": "{air}{back}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Fireball",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Dark Thrust",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Deadly Flower",
+          "type": "special",
+          "notation": "{qcb}+{p}(can be linked together up to three times)",
+          "notes": ""
+        },
+        {
+          "name": "Dark Crescent Slice",
+          "type": "special",
+          "notation": "{hcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Scum Gale",
+          "type": "special",
+          "notation": "(close){hcbf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Maiden Masher",
+          "type": "special",
+          "notation": "{qcf_hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  __Wolf Bloom",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{pp}(during Maiden Masher)",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Maiden Masher",
+          "type": "special",
+          "notation": "{qcf_hcb}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  Flame Disentengle",
+          "type": "special",
+          "notation": "{qcb}{forward}{back_forward}+{pp}",
+          "notes": ""
+        }
+      ],
+      "id": "iori_yagami",
+      "image": "images/Portrait_KOF2002_Iori.png"
+    },
+    {
+      "name": "Mature",
+      "moves": [
+        {
+          "name": "Despair",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Sacrilege",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Death Downer",
+          "type": "special",
+          "notation": "{qcb}+{p}(can be linked together up to 3 times)",
+          "notes": ""
+        },
+        {
+          "name": "Metal Massacre",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Da Cide",
+          "type": "special",
+          "notation": "{hcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Ebony Tears",
+          "type": "special",
+          "notation": "{qcf_hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Nocturnal Rites",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Heaven's Gate",
+          "type": "special",
+          "notation": "{qcb_hcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Nocturnal Rites",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Heaven's Gate",
+          "type": "special",
+          "notation": "{qcb_hcf}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  ECSTASY 816",
+          "type": "special",
+          "notation": "{forward}{d}{c}{b}{forward}",
+          "notes": ""
+        }
+      ],
+      "id": "mature",
+      "image": "images/Portrait_KOF2002_Mature.png"
+    },
+    {
+      "name": "Vice",
+      "moves": [
+        {
+          "name": "Monstrosity",
+          "type": "special",
+          "notation": "{forward}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Gore Fest",
+          "type": "special",
+          "notation": "(close){hcbf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Da Cide",
+          "type": "special",
+          "notation": "{hcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Blackener",
+          "type": "special",
+          "notation": "(close){hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Mayhem",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "__Misan's Rove",
+          "type": "special",
+          "notation": "{qcf}+{p}(after Mayhem or Blackener)",
+          "notes": ""
+        },
+        {
+          "name": "Outrage",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Rave Fest",
+          "type": "special",
+          "notation": "{air}{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Withering Surface",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Negative Gain",
+          "type": "special",
+          "notation": "(close){hcb}{hcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Withering Surface",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Negative Gain",
+          "type": "special",
+          "notation": "(close){hcb}{hcb}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  Over Kill",
+          "type": "special",
+          "notation": "(close){air}{dlhs}{up_down}+{pp}",
+          "notes": ""
+        }
+      ],
+      "id": "vice",
+      "image": "images/Portrait_KOF2002_Vice.png"
+    },
+    {
+      "name": "Ryuji Yamazaki",
+      "moves": [
+        {
+          "name": "Eviscerator",
+          "type": "special",
+          "notation": "{forward}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Sadomaso",
+          "type": "special",
+          "notation": "(counter){hcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Double Return",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Serpent Slash Upper",
+          "type": "special",
+          "notation": "{qcb}+{a}(hold to delay)",
+          "notes": ""
+        },
+        {
+          "name": "Serpent Slash Middle",
+          "type": "special",
+          "notation": "{qcb}+{b}(hold to delay)",
+          "notes": ""
+        },
+        {
+          "name": "Serpent Slash Lower",
+          "type": "special",
+          "notation": "{qcb}+{c}(hold to delay)",
+          "notes": ""
+        },
+        {
+          "name": "__Serpent Slash Fake",
+          "type": "special",
+          "notation": "{d}(while delaying Serpent Slash)",
+          "notes": ""
+        },
+        {
+          "name": "Bombshell Badda-Bing",
+          "type": "special",
+          "notation": "(close){hcbf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Judgement Dagger",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Fight of Tempering",
+          "type": "special",
+          "notation": "{dp}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Spray Sand",
+          "type": "special",
+          "notation": "{dp}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Insanity from Nightmare",
+          "type": "special",
+          "notation": "{qcf}+{pp}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Guillotine",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Drill",
+          "type": "special",
+          "notation": "(close){hcb}{hcb}+{p}({tap} to charge)",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Guillotine",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Drill",
+          "type": "special",
+          "notation": "(close){hcb}{hcb}+{pp}({tap} to charge)",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  ...!!",
+          "type": "special",
+          "notation": "(close){hcb}{hcb}+{kk}",
+          "notes": ""
+        }
+      ],
+      "id": "ryuji_yamazaki",
+      "image": "images/Portrait_KOF2002_Yamazaki.png"
+    },
+    {
+      "name": "Blue Mary",
+      "moves": [
+        {
+          "name": "Hammer Arch",
+          "type": "special",
+          "notation": "{back}or{forward}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Double Rolling",
+          "type": "special",
+          "notation": "{back}or{forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Spin Fall",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "__M. Spider",
+          "type": "special",
+          "notation": "{qcf}+{p}(during Spin Fall)",
+          "notes": ""
+        },
+        {
+          "name": "Straight Slicer",
+          "type": "special",
+          "notation": "{charge_back_forward}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "__Crab Crunch",
+          "type": "special",
+          "notation": "{qcf}+{k}(during Straight Slicer)",
+          "notes": ""
+        },
+        {
+          "name": "Vertical Arrow",
+          "type": "special",
+          "notation": "{dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "__M. Snatcher",
+          "type": "special",
+          "notation": "{dp}+{k}(during Vertical Arrow)",
+          "notes": ""
+        },
+        {
+          "name": "M. Reverse Face Lock",
+          "type": "special",
+          "notation": "(counter){qcb}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "M. Headbuster",
+          "type": "special",
+          "notation": "(counter){qcb}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Real Counter",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "__Backdrop Real",
+          "type": "special",
+          "notation": "{hcf}+{p}(during Real Counter)",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  M. Dynamite Swing",
+          "type": "special",
+          "notation": "{a}{a}{forward}{b}{c}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  M. Splash Rose",
+          "type": "special",
+          "notation": "{qcf_hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  M. Dynamite Swing",
+          "type": "special",
+          "notation": "{a}{a}{back}{b}{c}",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  M. Typhoon",
+          "type": "special",
+          "notation": "(close){dlhs}{up_down}+{kk}",
+          "notes": ""
+        }
+      ],
+      "id": "blue_mary",
+      "image": "images/Portrait_KOF2002_Blue_Mary.png"
+    },
+    {
+      "name": "Billy Kane",
+      "moves": [
+        {
+          "name": "Wide Revolving Kick",
+          "type": "special",
+          "notation": "{forward}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Pole Vault Kick",
+          "type": "special",
+          "notation": "{forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Soaring Crackdown Cane",
+          "type": "special",
+          "notation": "{dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Midsection Club Cruncher",
+          "type": "special",
+          "notation": "{hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "__Flaming Midsection Club Cruncher",
+          "type": "special",
+          "notation": "{qcf}+{p}(during Midsection Club Cruncher)",
+          "notes": ""
+        },
+        {
+          "name": "Whirlwind Cane",
+          "type": "special",
+          "notation": "{tap} {a}",
+          "notes": ""
+        },
+        {
+          "name": "Sparrow Drop",
+          "type": "special",
+          "notation": "{qcb}+{p}(use on airborne opponents)",
+          "notes": ""
+        },
+        {
+          "name": "Pursuing Fire Dragon Cane",
+          "type": "special",
+          "notation": "(counter){qcb}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Pursuing Water Serpent Cane",
+          "type": "special",
+          "notation": "(counter){qcb}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Super Fire Wheel",
+          "type": "special",
+          "notation": "{qcf_hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Big Fan",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Big Fan",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  Liar's Element",
+          "type": "special",
+          "notation": "(counter){qcb_hcf}+{kk}",
+          "notes": ""
+        }
+      ],
+      "id": "billy_kane",
+      "image": "images/Portrait_KOF2002_Billy.png"
+    },
+    {
+      "name": "Yashiro Nanakase",
+      "moves": [
+        {
+          "name": "Regret Bash",
+          "type": "special",
+          "notation": "{forward}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Step Side Kick",
+          "type": "special",
+          "notation": "{forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Dual Upper",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Jet Counter",
+          "type": "special",
+          "notation": "{hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Steel Jet Counter",
+          "type": "special",
+          "notation": "{qcf}+{p}(during Jet Counter)",
+          "notes": ""
+        },
+        {
+          "name": "Sledgehammer",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "98' Jet Counter",
+          "type": "special",
+          "notation": "{hcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "98' Steel Jet Counter",
+          "type": "special",
+          "notation": "{qcf}+{c}(during Jet Counter)",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Final Impact",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}(hold to charge)",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Final Impact",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{pp}(hold to charge)",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  \"ERROR...\"code**2002**",
+          "type": "special",
+          "notation": "{qcb_hcf}+{kk}",
+          "notes": ""
+        }
+      ],
+      "id": "yashiro_nanakase",
+      "image": "images/Portrait_KOF2002_Yashiro.png"
+    },
+    {
+      "name": "Shermie",
+      "moves": [
+        {
+          "name": "Busty Suplex",
+          "type": "special",
+          "notation": "(close){forward}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Shermie Stand",
+          "type": "special",
+          "notation": "{forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Shermie Clutch",
+          "type": "special",
+          "notation": "{dp}+{k}(use on airborne opponents)",
+          "notes": ""
+        },
+        {
+          "name": "Shermie Spiral",
+          "type": "special",
+          "notation": "(close){hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Shermie Whip",
+          "type": "special",
+          "notation": "(close){qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "__Shermie Cute",
+          "type": "special",
+          "notation": "{qcf}+{k}(during Shermie Clutch, Shermie Spiral, or Shermie Whip)",
+          "notes": ""
+        },
+        {
+          "name": "Diamond Dust",
+          "type": "special",
+          "notation": "{hcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Axle Spin Kick",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "F.Captured",
+          "type": "special",
+          "notation": "(counter){hcbf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Evasive Move",
+          "type": "special",
+          "notation": "{a}+{b}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Shermie Flash",
+          "type": "special",
+          "notation": "(close){hcb}{hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Shermie Carnival",
+          "type": "special",
+          "notation": "(close){hcf}{hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Shermie Flash",
+          "type": "special",
+          "notation": "(close){hcb}{hcb}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Shermie Carnival",
+          "type": "special",
+          "notation": "(close){hcf}{hcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  Lighting Leg Lariat",
+          "type": "special",
+          "notation": "(close){qcf}{qcf}+{kk}",
+          "notes": ""
+        }
+      ],
+      "id": "shermie",
+      "image": "images/Portrait_KOF2002_Shermie.png"
+    },
+    {
+      "name": "Chris",
+      "moves": [
+        {
+          "name": "Spinning Array",
+          "type": "special",
+          "notation": "{forward}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Reverse Anchor Kick",
+          "type": "special",
+          "notation": "{forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Carry Off Kick",
+          "type": "special",
+          "notation": "{down_forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Direction Change",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Hunting Air Blast",
+          "type": "special",
+          "notation": "{dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Sliding Touch",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Scramble Dash",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Shooting Dancer Thrust",
+          "type": "special",
+          "notation": "{hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Shooting Dancer Step",
+          "type": "special",
+          "notation": "{hcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Gliding Stomping",
+          "type": "special",
+          "notation": "{air}{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Leading High",
+          "type": "special",
+          "notation": "{forward}+{d}, then{b}",
+          "notes": ""
+        },
+        {
+          "name": "Leading Low",
+          "type": "special",
+          "notation": "{down}+{d}, then{b}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Chain Slide Touch",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Twister Drive",
+          "type": "special",
+          "notation": "{qcb}{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Chain Slide Touch",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Twister Drive",
+          "type": "special",
+          "notation": "{qcb}{qcb}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  Fate of Flame",
+          "type": "special",
+          "notation": "{hcb}{hcb}+{pp}",
+          "notes": ""
+        }
+      ],
+      "id": "chris",
+      "image": "images/Portrait_KOF2002_Chris.png"
+    },
+    {
+      "name": "K'",
+      "moves": [
+        {
+          "name": "One Inch",
+          "type": "special",
+          "notation": "{forward}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Knee Assault",
+          "type": "special",
+          "notation": "{forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Iron Trigger",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "__Second Shoot",
+          "type": "special",
+          "notation": "{forward}+{b}(during Iron Trigger)",
+          "notes": ""
+        },
+        {
+          "name": "__Second Shell",
+          "type": "special",
+          "notation": "{forward}+{d}(during Iron Trigger)",
+          "notes": ""
+        },
+        {
+          "name": "Black Out",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Crow Bite",
+          "type": "special",
+          "notation": "{dp}+{p}(for additional attack={forward}+{k})",
+          "notes": ""
+        },
+        {
+          "name": "Minute Spike",
+          "type": "special",
+          "notation": "{air}{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "__Narrow Spike",
+          "type": "special",
+          "notation": "{qcb}+{k}(during Grounded Minute Spike)",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Chain Drive",
+          "type": "special",
+          "notation": "{qcf_hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Heat Drive",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}(hold to delay)",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Chain Drive",
+          "type": "special",
+          "notation": "{qcf_hcb}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  Crimson Star Road",
+          "type": "special",
+          "notation": "{qcb}+{c}, then{a} (5-6 millisecond at speed)",
+          "notes": ""
+        }
+      ],
+      "id": "k",
+      "image": "images/Portrait_KOF2002_K'.png"
+    },
+    {
+      "name": "Maxima",
+      "moves": [
+        {
+          "name": "Mongolian",
+          "type": "special",
+          "notation": "{forward}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "M9: Model Maxima Missile(Proto Type)",
+          "type": "special",
+          "notation": "{down_forward}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "M4: Model Vapor Cannon",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "M11: Model Dangerous Arch",
+          "type": "special",
+          "notation": "(close){hcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "M19: Model Blitz Cannon",
+          "type": "special",
+          "notation": "{dp}+{k}(use on airborne opponents)",
+          "notes": ""
+        },
+        {
+          "name": "SYSTEM 1.2 Maxima Scramble",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "__Double Bomber",
+          "type": "special",
+          "notation": "{qcf}+{p}(during Maxima Scramble)",
+          "notes": ""
+        },
+        {
+          "name": "____Bull-Dog Press",
+          "type": "special",
+          "notation": "{qcf}+{p}(during Double Bomber)",
+          "notes": ""
+        },
+        {
+          "name": "System 3 Maxima Lift",
+          "type": "special",
+          "notation": "{hcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "__Senton Press",
+          "type": "special",
+          "notation": "{forward}+{k}(during Maxima Lift)",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Maxima Revenger",
+          "type": "special",
+          "notation": "(close){hcb}{hcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Bunker Buster",
+          "type": "special",
+          "notation": "{qcf_hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  M2: Model Maxima Beam",
+          "type": "special",
+          "notation": "{forward}{hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Maxima Revenger",
+          "type": "special",
+          "notation": "(close){hcb}{hcb}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  Ark Enemy",
+          "type": "special",
+          "notation": "{forward}{b}{c}{forward}{c}",
+          "notes": ""
+        }
+      ],
+      "id": "maxima",
+      "image": "images/Portrait_KOF2002_Maxima.png"
+    },
+    {
+      "name": "Whip",
+      "moves": [
+        {
+          "name": "Whip Shot",
+          "type": "special",
+          "notation": "{forward}+{a}(can be linked together up to 5 times)",
+          "notes": ""
+        },
+        {
+          "name": "Desert Eagle",
+          "type": "special",
+          "notation": "{rdp}+{tap}{p}",
+          "notes": ""
+        },
+        {
+          "name": "Boomerang Shot \"CODE: SC\"",
+          "type": "special",
+          "notation": "{hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Assassin Strike \"CODE: BB\"",
+          "type": "special",
+          "notation": "{dp}+any button",
+          "notes": ""
+        },
+        {
+          "name": "Hook Shot \"CODE: Wind\"",
+          "type": "special",
+          "notation": "{air}{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Strength Shot TypeA \"CODE: Superior\"",
+          "type": "special",
+          "notation": "{hcb}+{a}(hold to delay)",
+          "notes": ""
+        },
+        {
+          "name": "Strength Shot TypeB \"CODE: Power\"",
+          "type": "special",
+          "notation": "{hcb}+{b}(hold to delay)",
+          "notes": ""
+        },
+        {
+          "name": "Strength Shot TypeC \"CODE: Victory\"",
+          "type": "special",
+          "notation": "{hcb}+{c}(hold to delay)",
+          "notes": ""
+        },
+        {
+          "name": "Strength Shot TypeD \"CODE: Candy\"",
+          "type": "special",
+          "notation": "{d}(during Strength Shot posture)",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Sonic Slaughter \"CODE: KW\"",
+          "type": "special",
+          "notation": "{qcb_hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Sonic Slaughter \"CODE: KW\"",
+          "type": "special",
+          "notation": "{qcb_hcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  Super Black Hawk",
+          "type": "special",
+          "notation": "{back}{b}{c}{back}{c}",
+          "notes": ""
+        }
+      ],
+      "id": "whip",
+      "image": "images/Portrait_KOF2002_Whip.png"
+    },
+    {
+      "name": "Vanessa",
+      "moves": [
+        {
+          "name": "One-Two Punch",
+          "type": "special",
+          "notation": "{forward}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Sliding Puncher",
+          "type": "special",
+          "notation": "{down_forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Machine Gun Puncher",
+          "type": "special",
+          "notation": "{hcf}+{tap}{p}",
+          "notes": ""
+        },
+        {
+          "name": "Puncher Vision (Forward)",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Puncher Vision (Backward)",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "__Puncher Weaving",
+          "type": "special",
+          "notation": "{back}+{p}(during Puncher Vision)",
+          "notes": ""
+        },
+        {
+          "name": "__Puncher Upper",
+          "type": "special",
+          "notation": "{forward}+{a}(during Puncher Vision)",
+          "notes": ""
+        },
+        {
+          "name": "__Puncher Straight",
+          "type": "special",
+          "notation": "{forward}+{c}(during Puncher Vision)",
+          "notes": ""
+        },
+        {
+          "name": "Punch Weaving",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "__Puncher Vision (Forward)",
+          "type": "special",
+          "notation": "{forward}+{k}(during Puncher Weaving)",
+          "notes": ""
+        },
+        {
+          "name": "__Puncher Vision (Backward)",
+          "type": "special",
+          "notation": "{back}+{k}(during Puncher Weaving)",
+          "notes": ""
+        },
+        {
+          "name": "__Dash Puncher",
+          "type": "special",
+          "notation": "{forward}+{p}(during Puncher Weaving)",
+          "notes": ""
+        },
+        {
+          "name": "__Parring Puncher",
+          "type": "special",
+          "notation": "{back}+{p}(during Puncher Weaving)",
+          "notes": ""
+        },
+        {
+          "name": "Dash Puncher",
+          "type": "special",
+          "notation": "{charge_back_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Forbidden Eagle",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Crazy Puncher",
+          "type": "special",
+          "notation": "{qcb_hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Champion Puncher",
+          "type": "special",
+          "notation": "(close){qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Crazy Puncher",
+          "type": "special",
+          "notation": "{qcb_hcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  Gaea Gear",
+          "type": "special",
+          "notation": "{forward}{hcf}+{pp}",
+          "notes": ""
+        }
+      ],
+      "id": "vanessa",
+      "image": "images/Portrait_KOF2002_Vanessa.png"
+    },
+    {
+      "name": "Seth",
+      "moves": [
+        {
+          "name": "Tackle",
+          "type": "special",
+          "notation": "{forward}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Front Kick",
+          "type": "special",
+          "notation": "{forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Back Blow",
+          "type": "special",
+          "notation": "{back}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Sobut",
+          "type": "special",
+          "notation": "{back}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Sliding Kick",
+          "type": "special",
+          "notation": "{down_forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Rising Sun",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Body Snatcher",
+          "type": "special",
+          "notation": "(counter){hcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Foot Snatcher",
+          "type": "special",
+          "notation": "(counter){down}{down}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Bow Moon",
+          "type": "special",
+          "notation": "{hcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "__Arrow Moon",
+          "type": "special",
+          "notation": "{forward}+{k}(during Bow Moon)",
+          "notes": ""
+        },
+        {
+          "name": "__String Moon",
+          "type": "special",
+          "notation": "{down}+{k}(during Bow Moon)",
+          "notes": ""
+        },
+        {
+          "name": "Moon Set",
+          "type": "special",
+          "notation": "{air}{qcf}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Sail Moon",
+          "type": "special",
+          "notation": "{air}{qcf}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Dual Rising Sun",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Moon Ocean",
+          "type": "special",
+          "notation": "{qcf_hcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  7 Flash Torso Grab",
+          "type": "special",
+          "notation": "(counter){qcf_hcb}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  Bloom of Chrysanthemum",
+          "type": "special",
+          "notation": "(close){forward}{hcf}+{pp}",
+          "notes": ""
+        }
+      ],
+      "id": "seth",
+      "image": "images/Portrait_KOF2002_Seth.png"
+    },
+    {
+      "name": "Ramon",
+      "moves": [
+        {
+          "name": "Low Altitude Drop Kick",
+          "type": "special",
+          "notation": "{down_forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Tiger Neck Chancery",
+          "type": "special",
+          "notation": "(close){hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Rolling Sobbat",
+          "type": "special",
+          "notation": "{dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "__Flying Body Attack",
+          "type": "special",
+          "notation": "{dp}+{k}(during Rolling Sobbat)",
+          "notes": ""
+        },
+        {
+          "name": "____Pull Up",
+          "type": "special",
+          "notation": "{down}{down}+{p}(during Flying Body Attack)",
+          "notes": ""
+        },
+        {
+          "name": "Feint Step",
+          "type": "special",
+          "notation": "{qcb}+{p}(hold to last)",
+          "notes": ""
+        },
+        {
+          "name": "Somersault",
+          "type": "special",
+          "notation": "{hcf}+{k}(press {a}+{b}+{c} to stop)",
+          "notes": ""
+        },
+        {
+          "name": "Tiger Road",
+          "type": "special",
+          "notation": "{rdp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "__Feint Dash",
+          "type": "special",
+          "notation": "{a}+{b}+{c}(during Tiger Road)",
+          "notes": ""
+        },
+        {
+          "name": "__Cross Chop",
+          "type": "special",
+          "notation": "{d}(during Tiger Road, while in contact with wall)",
+          "notes": ""
+        },
+        {
+          "name": "Tiger Road 2",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "__Feint Dash",
+          "type": "special",
+          "notation": "{a}+{b}+{c}(during Tiger Road 2)",
+          "notes": ""
+        },
+        {
+          "name": "__Force of Will",
+          "type": "special",
+          "notation": "{qcf}+{a}(during Tiger Road, while in contact with wall)",
+          "notes": ""
+        },
+        {
+          "name": "Bird of Paradise",
+          "type": "special",
+          "notation": "{down}{down}+{a}, then{c}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Tiger Spin",
+          "type": "special",
+          "notation": "(close){hcb}{hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  El Diadlo Amarillo Ramon",
+          "type": "special",
+          "notation": "{qcb_hcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Savage Fire Cat",
+          "type": "special",
+          "notation": "{qcf_hcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Tiger Spin",
+          "type": "special",
+          "notation": "(close){hcb}{hcb}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  Hypnotic Tiger",
+          "type": "special",
+          "notation": "{qcb_hcf}+{pp}",
+          "notes": ""
+        }
+      ],
+      "id": "ramon",
+      "image": "images/Portrait_KOF2002_Ramon.png"
+    },
+    {
+      "name": "Kula Diamond",
+      "moves": [
+        {
+          "name": "One Inch",
+          "type": "special",
+          "notation": "{forward}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Slider Shot",
+          "type": "special",
+          "notation": "{down_forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Critical Ice",
+          "type": "special",
+          "notation": "{down_forward}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Diamond Breath",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Crow Bite",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Counter Shell",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Ray Spin",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "__Stand",
+          "type": "special",
+          "notation": "{forward}+{b}(during Ray Spin)",
+          "notes": ""
+        },
+        {
+          "name": "__Sit",
+          "type": "special",
+          "notation": "{forward}+{d}(during Ray Spin)",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Diamond Edge",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  La ✩ Cachora",
+          "type": "special",
+          "notation": "{air}{qcf}{qcf}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Freeze Execution",
+          "type": "special",
+          "notation": "{hcb}{hcb}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  Freeze Completion",
+          "type": "special",
+          "notation": "{pp}then{kk}then{a}+{b}+{c}",
+          "notes": ""
+        }
+      ],
+      "id": "kula_diamond",
+      "image": "images/Portrait_KOF2002_Kula.png"
+    },
+    {
+      "name": "K9999",
+      "moves": [
+        {
+          "name": "Shut Up!",
+          "type": "special",
+          "notation": "{forward}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Quit Playing!",
+          "type": "special",
+          "notation": "{down_forward}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Get Out of My Sight!",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Split!",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Shatter!",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Moon...",
+          "type": "special",
+          "notation": "{down_back}{hcb}{down_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  You, Get Lost Too!",
+          "type": "special",
+          "notation": "{down_back}{hcb}{down_forward}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Help! . My Power... It's Running Wild!!",
+          "type": "special",
+          "notation": "{neutral}+A+B+C+D",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  This Is Like...!!",
+          "type": "special",
+          "notation": "{air}{back_forward}{back_forward}{back_forward}{back_forward}",
+          "notes": ""
+        }
+      ],
+      "id": "k9999",
+      "image": "images/Portrait_KOF2002_K9999.png"
+    },
+    {
+      "name": "Angel",
+      "moves": [
+        {
+          "name": "Senseless Chatter",
+          "type": "special",
+          "notation": "{forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "At Wasteland",
+          "type": "special",
+          "notation": "{air}{down}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Red Sky of Yaponsia",
+          "type": "special",
+          "notation": "{hcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Mad Murder Roulette",
+          "type": "special",
+          "notation": "(close){rdp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "UC Starting Move  Formalist Blue",
+          "type": "special",
+          "notation": "{down_forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "UC Starting Move  Citizen of the World",
+          "type": "special",
+          "notation": "{down_forward}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "UC Starting Move  Senseless Fists",
+          "type": "special",
+          "notation": "{back_forward}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "UC Starting Move  Repun Kamui",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "UC Starting Move  Beyond Flames",
+          "type": "special",
+          "notation": "{hcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "UC Move  Bye-Bye Rogue",
+          "type": "special",
+          "notation": "{up}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "UC Move  Impotence Symptom",
+          "type": "special",
+          "notation": "{down}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "UC Move  Buggy and Coffin",
+          "type": "special",
+          "notation": "{forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "UC Move  Shelter from the Storm",
+          "type": "special",
+          "notation": "{up}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "UC Move  Train to See Cherry Blossoms",
+          "type": "special",
+          "notation": "{down}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "UC Move  With a Lamp for the Pathway",
+          "type": "special",
+          "notation": "{forward}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "UC Special Move  Oomagatoki",
+          "type": "special",
+          "notation": "{back}, {neutral}, or{forward}+{kk}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "UC Finishing Move  Crown Under the Sky",
+          "type": "special",
+          "notation": "{forward}{forward}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "UC Finishing Move  State of Heat Haze",
+          "type": "special",
+          "notation": "{forward}{forward}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "UC Finishing Move  A Full Moon Evening",
+          "type": "special",
+          "notation": "{forward}{forward}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "UC Finishing Move  Cosmic Futen Swing",
+          "type": "special",
+          "notation": "{qcf}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "UC Finishing Move  Lost Homeland",
+          "type": "special",
+          "notation": "{qcf}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "UC Finishing Move  Beyond the Flames",
+          "type": "special",
+          "notation": "{hcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Loyalty Test for Liberalists",
+          "type": "special",
+          "notation": "{back}{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Winds Fairground",
+          "type": "special",
+          "notation": "(counter){back}{dp}+{kk}(against ground attacks)",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Blue Monday Parade",
+          "type": "special",
+          "notation": "(counter){back}{dp}+{kk}(against air attacks)",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Loyalty Test for Liberalists",
+          "type": "special",
+          "notation": "{back}{dp}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  Survivor's Banquette",
+          "type": "special",
+          "notation": "{kk}+{c}(during Blue Monday Parade)",
+          "notes": ""
+        }
+      ],
+      "id": "angel",
+      "image": "images/Portrait_KOF2002_Angel.png"
+    },
+    {
+      "name": "Orochi Yashiro",
+      "moves": [
+        {
+          "name": "Saku",
+          "type": "special",
+          "notation": "{forward}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Bu",
+          "type": "special",
+          "notation": "{forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Niragu Daichi",
+          "type": "special",
+          "notation": "(close){hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Musebu Daichi",
+          "type": "special",
+          "notation": "(close){hcbf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Odoru Daichi",
+          "type": "special",
+          "notation": "{hcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Kujiku Daichi",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Ankoku Jigoku Gokuraku Otoshi",
+          "type": "special",
+          "notation": "(close){hcb}{hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Araburu Daichi",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Ankoku Jigoku Gokuraku Otoshi",
+          "type": "special",
+          "notation": "(close){hcb}{hcb}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Araburu Daichi",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  Harmagedon",
+          "type": "special",
+          "notation": "{b}, then{d}, then{a}, then{pp}+{b}",
+          "notes": ""
+        }
+      ],
+      "id": "orochi_yashiro",
+      "image": "images/Portrait_KOF2002_Orochi_Yashiro.png"
+    },
+    {
+      "name": "Orochi Shermie",
+      "moves": [
+        {
+          "name": "Kourai",
+          "type": "special",
+          "notation": "{forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Yatanagi no Muchi",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Syajitsu no Odori",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Mugetu no Raiun",
+          "type": "special",
+          "notation": "{hcf}+any button",
+          "notes": ""
+        },
+        {
+          "name": "Raijin no Tue",
+          "type": "special",
+          "notation": "{air}{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Syukumei - Genei - Shinshi",
+          "type": "special",
+          "notation": "{air}{qcf}{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Ankoku Raikouken",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Syukumei - Genei - Shinshi",
+          "type": "special",
+          "notation": "{air}{qcf}{qcf}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Ankoku Raikouken",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  Unmei no Ya",
+          "type": "special",
+          "notation": "{b}, then{a}, then{back}, then{a}, then any button",
+          "notes": ""
+        }
+      ],
+      "id": "orochi_shermie",
+      "image": "images/Portrait_KOF2002_Orochi_Shermie.png"
+    },
+    {
+      "name": "Orochi Chris",
+      "moves": [
+        {
+          "name": "Muyoo no Ono",
+          "type": "special",
+          "notation": "{forward}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Jyukei no Oni",
+          "type": "special",
+          "notation": "{forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Setsudan no Koto",
+          "type": "special",
+          "notation": "{down_forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Tsuki o Tumu Honoo",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Taiyou o Iru Honoo",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Kagami o Hofuru Honoo",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Shishi o Kamu Honoo",
+          "type": "special",
+          "notation": "(close){hcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Ankoku Orochinagi",
+          "type": "special",
+          "notation": "{qcb_hcf}+{p}(hold to delay)",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Ankoku Orochinagi",
+          "type": "special",
+          "notation": "{qcb_hcf}+{pp}(hold to delay)",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  Emerges from a Chrysalis",
+          "type": "special",
+          "notation": "{d}, then{c}, then{down}, then{c}, then {d}",
+          "notes": ""
+        }
+      ],
+      "id": "orochi_chris",
+      "image": "images/Portrait_KOF2002_Orochi_Chris.png"
+    },
+    {
+      "name": "Kusanagi",
+      "moves": [
+        {
+          "name": "Thundering Axe Burst",
+          "type": "special",
+          "notation": "{forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Style 818",
+          "type": "special",
+          "notation": "{down_forward}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Drop to Naraku",
+          "type": "special",
+          "notation": "{air}{down}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Dark Thrust",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "New Wave Smash",
+          "type": "special",
+          "notation": "{qcf}+{k}, then{k}",
+          "notes": ""
+        },
+        {
+          "name": "Intensetaneous Smash",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Fire Ball",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Spinning Kick",
+          "type": "special",
+          "notation": "{rdp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Recitation of Sins",
+          "type": "special",
+          "notation": "{hcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Serpent Slash",
+          "type": "special",
+          "notation": "{qcb_hcf}+{p}(hold to delay)",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Serpent Slash",
+          "type": "special",
+          "notation": "{qcb_hcf}+{pp}(hold to delay)",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  Final Showdown Zero Style",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{pp}",
+          "notes": ""
+        }
+      ],
+      "id": "kusanagi",
+      "image": "images/Portrait_KOF2002_Kusanagi.png"
+    },
+    {
+      "name": "Omega Rugal",
+      "moves": [
+        {
+          "name": "Double Tomahawk",
+          "type": "special",
+          "notation": "{forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Reppu Ken",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Dark Barrier",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Genocide Cutter",
+          "type": "special",
+          "notation": "{dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "God Press",
+          "type": "special",
+          "notation": "{hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Beads Destruction",
+          "type": "special",
+          "notation": "{hcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Kaiser Wave",
+          "type": "special",
+          "notation": "{forward}{hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Gigantic Pressure",
+          "type": "special",
+          "notation": "{qcf_hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Destruction Omega",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Gigantic Pressure",
+          "type": "special",
+          "notation": "{qcf_hcb}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Destruction Omega",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  Kaiser Phoenix",
+          "type": "special",
+          "notation": "{hcf}{hcf}+{pp}",
+          "notes": ""
+        }
+      ],
+      "id": "omega_rugal",
+      "image": "images/Portrait_KOF2002_Rugal.png"
+    },
+    {
+      "name": "King",
+      "moves": [
+        {
+          "name": "Trap Kick",
+          "type": "special",
+          "notation": "{forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Sliding Kick",
+          "type": "special",
+          "notation": "{down_forward}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Venom Strike",
+          "type": "special",
+          "notation": "{qcf}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Double Venom Strike",
+          "type": "special",
+          "notation": "{qcf}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Trap Shot",
+          "type": "special",
+          "notation": "{dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Mirage Kick",
+          "type": "special",
+          "notation": "{hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Tornado Kick '95",
+          "type": "special",
+          "notation": "{hcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Mirage Dance",
+          "type": "special",
+          "notation": "(close){hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Illusion Dance",
+          "type": "special",
+          "notation": "{qcf_hcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Illusion Dance",
+          "type": "special",
+          "notation": "{qcf_hcb}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  Surprise Rose",
+          "type": "special",
+          "notation": "{back}{qcd}+{kk}",
+          "notes": ""
+        }
+      ],
+      "id": "king",
+      "image": "images/Portrait_KOF2002_King.png"
+    },
+    {
+      "name": "Shingo Yabuki",
+      "moves": [
+        {
+          "name": "Poseur's Thundering Axe",
+          "type": "special",
+          "notation": "{forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Wicked Chew Unfinished Misery",
+          "type": "special",
+          "notation": "{qcf}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Poison Gnawfest Unfinished Misery",
+          "type": "special",
+          "notation": "{qcf}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Crescent Slash Unfinished Misery",
+          "type": "special",
+          "notation": "{hcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Fire Ball Unfinished Misery",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Spinning Kick Unfinished Misery",
+          "type": "special",
+          "notation": "{rdp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Shingo Kick",
+          "type": "special",
+          "notation": "{hcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Shingo's \"Metal Malleator\"",
+          "type": "special",
+          "notation": "(close){dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Shingo's Elbow Slam",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Phoenix Flamer",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Phoenix Flamer",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  Shingo Style God's Duster",
+          "type": "special",
+          "notation": "{qcb_hcf}+{pp}",
+          "notes": ""
+        }
+      ],
+      "id": "shingo_yabuki",
+      "image": "images/Portrait_KOF2002_Shingo.png"
+    },
+    {
+      "name": "Goenitz",
+      "moves": [
+        {
+          "name": "Yonokaze",
+          "type": "special",
+          "notation": "{hcf}+any button",
+          "notes": ""
+        },
+        {
+          "name": "Shin Aoi Hana Seiran",
+          "type": "special",
+          "notation": "{qcb}+{p}(can be linked together up to 3 times)",
+          "notes": ""
+        },
+        {
+          "name": "Wanhyo Tokobuse",
+          "type": "special",
+          "notation": "{dp}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Wanhyo Mametsu",
+          "type": "special",
+          "notation": "{dp}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Hyouga",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Yamidoukoku",
+          "type": "special",
+          "notation": "(close){qcb}{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Fuujin Ibuki",
+          "type": "special",
+          "notation": "{hcf}{hcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  Shinyaotome Jissoukoku",
+          "type": "special",
+          "notation": "{qcb_hcf}+{pp}",
+          "notes": ""
+        }
+      ],
+      "id": "goenitz",
+      "image": "images/Portrait_KOF2002_Goenitz.png"
+    },
+    {
+      "name": "Geese Howard",
+      "moves": [
+        {
+          "name": "Thunderburst Reverse Kick",
+          "type": "special",
+          "notation": "{forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Reppu Ken",
+          "type": "special",
+          "notation": "{qcf}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Double Reppu Ken",
+          "type": "special",
+          "notation": "{qcf}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Shippuu Ken",
+          "type": "special",
+          "notation": "{air}{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Flying Sawblade Slicer",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Ja Ei Ken",
+          "type": "special",
+          "notation": "{hcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Upper Body Blow",
+          "type": "special",
+          "notation": "(counter){hcb}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Middle Body Blow",
+          "type": "special",
+          "notation": "(counter){hcb}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Lower Body Blow",
+          "type": "special",
+          "notation": "(counter){hcb}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Heaven's Peel Slamdown",
+          "type": "special",
+          "notation": "(On downed foe){down_forward}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Raging Storm",
+          "type": "special",
+          "notation": "{back}{hcb}{forward}+{p}(hold to charge)",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Rashomon",
+          "type": "special",
+          "notation": "(close){hcb}{hcb}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  Deadly Rave",
+          "type": "special",
+          "notation": "{hcbf}+{kk}+{c}, then{a}{a}{b}{b} {c}{c}{d}{d}{qcb}+{c}+{d}",
+          "notes": ""
+        }
+      ],
+      "id": "geese_howard",
+      "image": "images/Portrait_KOF2002_Geese.png"
+    },
+    {
+      "name": "Orochi Iori",
+      "moves": [
+        {
+          "name": "Dream Blast",
+          "type": "special",
+          "notation": "{forward}+{a}, then{a}",
+          "notes": ""
+        },
+        {
+          "name": "Thunder Axe Shadow Reaper",
+          "type": "special",
+          "notation": "{forward}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Lily Breaker",
+          "type": "special",
+          "notation": "{air}{back}+{b}",
+          "notes": ""
+        },
+        {
+          "name": "Fireball",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Dark Thrust",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Deadly Flower",
+          "type": "special",
+          "notation": "{qcb}+{p}(can be linked together up to three times)",
+          "notes": ""
+        },
+        {
+          "name": "Dark Crescent Slice",
+          "type": "special",
+          "notation": "{hcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Scum Gale",
+          "type": "special",
+          "notation": "(close){hcbf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Desperation Move  Maiden Masher",
+          "type": "special",
+          "notation": "{qcf_hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Max DM  Eight Wine Cups",
+          "type": "special",
+          "notation": "{qcb_hcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Max 2  ???!",
+          "type": "special",
+          "notation": "{qcf_hcb}+{b}+{d}",
+          "notes": ""
+        }
+      ],
+      "id": "orochi_iori",
+      "image": "images/Portrait_KOF2002_Orochi_Iori.png"
+    }
+  ]
+}

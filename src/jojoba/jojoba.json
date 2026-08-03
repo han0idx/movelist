@@ -1,0 +1,1883 @@
+{
+  "name": "jojoba",
+  "title": "JoJo's Bizarre Adventure: Heritage for the Future",
+  "image": null,
+  "characters": [
+    {
+      "name": "Alessi",
+      "moves": [
+        {
+          "name": "Shadow Extension",
+          "type": "special",
+          "notation": "{hold} {special}",
+          "notes": ""
+        },
+        {
+          "name": "Shadow Axe",
+          "type": "special",
+          "notation": "Stand On, {forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Long Run",
+          "type": "special",
+          "notation": "{forward}{forward} {cf} while opponent is transformed",
+          "notes": ""
+        },
+        {
+          "name": "Long Backdash",
+          "type": "special",
+          "notation": "{back}{back} {cb}",
+          "notes": ""
+        },
+        {
+          "name": "Beehive",
+          "type": "special",
+          "notation": "{hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "__Beehive Controls",
+          "type": "special",
+          "notation": "Move crosshair with joystick {p}, cancel with {special}",
+          "notes": ""
+        },
+        {
+          "name": "Shrink Wrap",
+          "type": "special",
+          "notation": "{hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Shadow Axe",
+          "type": "special",
+          "notation": "Stand On, {hold} {pp} and {release}",
+          "notes": ""
+        },
+        {
+          "name": "Despair!",
+          "type": "special",
+          "notation": "{qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Ushi Ushi Ushi!",
+          "type": "special",
+          "notation": "{qcb}+{pp}, {tap} {p}",
+          "notes": ""
+        }
+      ],
+      "id": "alessi",
+      "image": "images/Portrait_JJBA_Alessi.png"
+    },
+    {
+      "name": "Avdol",
+      "moves": [
+        {
+          "name": "Stand Remote Control",
+          "type": "special",
+          "notation": "Stand On {forward}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Double Jump",
+          "type": "special",
+          "notation": "Stand On, {air} {up}",
+          "notes": ""
+        },
+        {
+          "name": "Triple Jump",
+          "type": "special",
+          "notation": "Remote Stand, {air} {up}{up}",
+          "notes": ""
+        },
+        {
+          "name": "Low Kick",
+          "type": "special",
+          "notation": "Stand Off {forward}+{lp}",
+          "notes": ""
+        },
+        {
+          "name": "Flick Flame",
+          "type": "special",
+          "notation": "Stand On {forward}+{lp}",
+          "notes": ""
+        },
+        {
+          "name": "Upward Swing",
+          "type": "special",
+          "notation": "Stand On {back}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Big Boot",
+          "type": "special",
+          "notation": "Stand On {mp} during a dash",
+          "notes": ""
+        },
+        {
+          "name": "Red Explosion",
+          "type": "special",
+          "notation": "Stand Off {forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Flame Drill",
+          "type": "special",
+          "notation": "Remote Stand, {air} {down}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Crossfire Hurricane",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Fire Eagle",
+          "type": "special",
+          "notation": "{air} {qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Fire Wall",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Flame Detector",
+          "type": "special",
+          "notation": "{qcb}+{p}, {hold} and {release}",
+          "notes": ""
+        },
+        {
+          "name": "Hellfire",
+          "type": "special",
+          "notation": "{hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Napalm Bomb",
+          "type": "special",
+          "notation": "{qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Crossfire Hurricane Special",
+          "type": "special",
+          "notation": "{qcb}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Scorching Ankh",
+          "type": "special",
+          "notation": "{dp}+{pp}, {hold} and {release}",
+          "notes": ""
+        }
+      ],
+      "id": "avdol",
+      "image": "images/Portrait_JJBA_Avdol.png"
+    },
+    {
+      "name": "Black Polnareff",
+      "moves": [
+        {
+          "name": "Dark Silver Chariot",
+          "type": "special",
+          "notation": "{air} (Any direction+) {special}",
+          "notes": ""
+        },
+        {
+          "name": "Toe Kick",
+          "type": "special",
+          "notation": "{forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Chariot Spit",
+          "type": "special",
+          "notation": "{qcf}+{special}",
+          "notes": ""
+        },
+        {
+          "name": "I've learned it!",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Master Dual Wielder",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Ogre Slash",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "__Ogre Slash followup",
+          "type": "special",
+          "notation": "{qcb} or {qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Rapid Spits",
+          "type": "special",
+          "notation": "{qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "I will never lose!",
+          "type": "special",
+          "notation": "{qcb}+{pp}",
+          "notes": ""
+        }
+      ],
+      "id": "black_polnareff",
+      "image": "images/Portrait_JJBA_BlackPolnareff.png"
+    },
+    {
+      "name": "Chaka",
+      "moves": [
+        {
+          "name": "High Slash",
+          "type": "special",
+          "notation": "Stand On, {forward}+{lp}",
+          "notes": ""
+        },
+        {
+          "name": "Hopping Slash",
+          "type": "special",
+          "notation": "Stand On, {forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "I've learned it!",
+          "type": "special",
+          "notation": "Stand On, {qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Ogre Slash",
+          "type": "special",
+          "notation": "Stand On, {qcf}+{p}, perform three times.",
+          "notes": ""
+        },
+        {
+          "name": "Swallow Counter",
+          "type": "special",
+          "notation": "Stand On, {dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Dimensional Slash",
+          "type": "special",
+          "notation": "Stand Off, {qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Bloody Flower Slash",
+          "type": "special",
+          "notation": "Stand On, {qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "I've learned everything!",
+          "type": "special",
+          "notation": "(Requires two stocks) Stand On, {qcb}+{pp}",
+          "notes": ""
+        }
+      ],
+      "id": "chaka",
+      "image": "images/Portrait_JJBA_Chaka.png"
+    },
+    {
+      "name": "DIO",
+      "moves": [
+        {
+          "name": "Double Jump",
+          "type": "special",
+          "notation": "Stand On {air} {up}",
+          "notes": ""
+        },
+        {
+          "name": "Muda Muda",
+          "type": "special",
+          "notation": "{qcf}+{p} ({tap} in Stand On)",
+          "notes": ""
+        },
+        {
+          "name": "Air Muda Muda",
+          "type": "special",
+          "notation": "Stand On {air} {qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "__additional controls",
+          "type": "special",
+          "notation": "Stand On {tap} {p} , move in any direction",
+          "notes": ""
+        },
+        {
+          "name": "Mudaa!!",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "__followup",
+          "type": "special",
+          "notation": "Stand On {qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "The World",
+          "type": "special",
+          "notation": "Stand Off {dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "\"Die!\"",
+          "type": "special",
+          "notation": "Stand On {dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Space Ripper Stingy Eyes",
+          "type": "special",
+          "notation": "Stand Off {forward}{hp}{mp}{lp}{forward}",
+          "notes": ""
+        },
+        {
+          "name": "Checkmate",
+          "type": "special",
+          "notation": "{air} in Stand On {qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Road Roller",
+          "type": "special",
+          "notation": "Stand Off {air} {qcb}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Bloody Summoning",
+          "type": "special",
+          "notation": "{mp}{lp}{forward}{lp}{hp}",
+          "notes": ""
+        },
+        {
+          "name": "\"Time, stop!\"",
+          "type": "special",
+          "notation": "Level 3 {forward}{hp}{lp}{forward}{special}",
+          "notes": ""
+        }
+      ],
+      "id": "dio",
+      "image": "images/Portrait_JJBA_Dio.png"
+    },
+    {
+      "name": "Devo",
+      "moves": [
+        {
+          "name": "Double Jump",
+          "type": "special",
+          "notation": "Stand On, {air} {up}, only works on Stand",
+          "notes": ""
+        },
+        {
+          "name": "Wall Walk",
+          "type": "special",
+          "notation": "Stand On, While running or jumping {back} against a wall, then {up}",
+          "notes": ""
+        },
+        {
+          "name": "Dagger Combo",
+          "type": "special",
+          "notation": "Stand On, ({forward}+) {lp}{lp}{lp}{lp}",
+          "notes": ""
+        },
+        {
+          "name": "Shoulder Rush",
+          "type": "special",
+          "notation": "Stand Off, {forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Bottle Slash",
+          "type": "special",
+          "notation": "Stand On, {back}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Splitting Slice",
+          "type": "special",
+          "notation": "Stand On, {forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Death Dive",
+          "type": "special",
+          "notation": "Stand On, {air} {forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Hunting Crawl",
+          "type": "special",
+          "notation": "Stand Off, {down_forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Murderer Lunge",
+          "type": "special",
+          "notation": "Stand On, {down_forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Piranha Dive",
+          "type": "special",
+          "notation": "{air} {qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Propellor Cutter",
+          "type": "special",
+          "notation": "Stand Off, {air} {down}{down}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Rapid Propellor Cutter",
+          "type": "special",
+          "notation": "Stand On, {down}{down}+{p}, {tap} {p}, move with {back} or {forward}",
+          "notes": ""
+        },
+        {
+          "name": "Hopping Hunter",
+          "type": "special",
+          "notation": "{air} {qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "__Deeper Stabs",
+          "type": "special",
+          "notation": "Stand On, {down}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Junky Carnival",
+          "type": "special",
+          "notation": "{qcf}+{pp}, {hold} and {release}",
+          "notes": ""
+        },
+        {
+          "name": "Barrel Roll Crusher",
+          "type": "special",
+          "notation": "{air} {qcb}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Risen Tormentor",
+          "type": "special",
+          "notation": "{dp}+{pp}",
+          "notes": ""
+        }
+      ],
+      "id": "devo",
+      "image": "images/Portrait_JJBA_Devo.png"
+    },
+    {
+      "name": "Hol Horse & Boingo",
+      "moves": [
+        {
+          "name": "Emperor",
+          "type": "special",
+          "notation": "{air} {special} , direct shot with joystick",
+          "notes": ""
+        },
+        {
+          "name": "Long Run",
+          "type": "special",
+          "notation": "{forward}{cf}",
+          "notes": ""
+        },
+        {
+          "name": "Long Backdash",
+          "type": "special",
+          "notation": "{back}{cb}",
+          "notes": ""
+        },
+        {
+          "name": "Cancer Stick",
+          "type": "special",
+          "notation": "{back}+{lp}",
+          "notes": ""
+        },
+        {
+          "name": "Drop Kick",
+          "type": "special",
+          "notation": "{back}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Trick Shot",
+          "type": "special",
+          "notation": "{back}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Mighty Gun!",
+          "type": "special",
+          "notation": "{qcf}+{p}, direct with {up} or {down}",
+          "notes": ""
+        },
+        {
+          "name": "Glass Shower",
+          "type": "special",
+          "notation": "{air} {dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Rapid Fire!",
+          "type": "special",
+          "notation": "{air} {qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Pipe Maze",
+          "type": "special",
+          "notation": "{rdp}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Absolute Premonition",
+          "type": "special",
+          "notation": "{360}+{p}",
+          "notes": ""
+        }
+      ],
+      "id": "hol_horse_boingo",
+      "image": null
+    },
+    {
+      "name": "Hol Horse",
+      "moves": [
+        {
+          "name": "Emperor",
+          "type": "special",
+          "notation": "{air} {special} , direct shot with joystick",
+          "notes": ""
+        },
+        {
+          "name": "Emperor Backward",
+          "type": "special",
+          "notation": "{back}+{special} , direct shot with joystick",
+          "notes": ""
+        },
+        {
+          "name": "Emperor Diagonally Upforward",
+          "type": "special",
+          "notation": "{down_forward} or {up_forward}+{special} , direct shot with joystick",
+          "notes": ""
+        },
+        {
+          "name": "Emperor Diagonally Upbackward",
+          "type": "special",
+          "notation": "{down_back} or {up_back}+{special} , direct shot with joystick",
+          "notes": ""
+        },
+        {
+          "name": "Emperor Straight Upward",
+          "type": "special",
+          "notation": "{up} or {down}+{special} , direct shot with joystick",
+          "notes": ""
+        },
+        {
+          "name": "Long Run",
+          "type": "special",
+          "notation": "{forward}{cf}",
+          "notes": ""
+        },
+        {
+          "name": "Long Backdash",
+          "type": "special",
+          "notation": "{back}{cb}",
+          "notes": ""
+        },
+        {
+          "name": "Cancer Stick",
+          "type": "special",
+          "notation": "{back}+{lp}",
+          "notes": ""
+        },
+        {
+          "name": "Drop Kick",
+          "type": "special",
+          "notation": "{back}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Trick Shot",
+          "type": "special",
+          "notation": "{back}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Mighty Gun!",
+          "type": "special",
+          "notation": "{qcf}+{p}, direct with {up} or {down}",
+          "notes": ""
+        },
+        {
+          "name": "Mr. J. Geil!",
+          "type": "special",
+          "notation": "{air} {dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Hanged Man",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Rapid Fire!",
+          "type": "special",
+          "notation": "{air} {qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "The Strongest Combination: Hanged Man",
+          "type": "special",
+          "notation": "{qcb}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Directable Bullet",
+          "type": "special",
+          "notation": "{rdp}+{pp} , direct shot with joystick, {hold} for more shots",
+          "notes": ""
+        }
+      ],
+      "id": "hol_horse",
+      "image": "images/Portrait_JJBA_Hol_Horse.png"
+    },
+    {
+      "name": "Iggy",
+      "moves": [
+        {
+          "name": "Sand Float",
+          "type": "special",
+          "notation": "Stand On, {air} {cu} , direct with {back} or {forward}",
+          "notes": ""
+        },
+        {
+          "name": "__Sand Bombs",
+          "type": "special",
+          "notation": "{p} during Sand Float",
+          "notes": ""
+        },
+        {
+          "name": "Mad Dog",
+          "type": "special",
+          "notation": "Stand Off, {p} during dash",
+          "notes": ""
+        },
+        {
+          "name": "Sand Dio",
+          "type": "special",
+          "notation": "Stand Off, {forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Sand Fountain",
+          "type": "special",
+          "notation": "Stand On, {forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Sand Splash",
+          "type": "special",
+          "notation": "Stand On, {air} {down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Long Run",
+          "type": "special",
+          "notation": "{forward}{cf}",
+          "notes": ""
+        },
+        {
+          "name": "Long Backdash",
+          "type": "special",
+          "notation": "Stand On, {back}{cb}",
+          "notes": ""
+        },
+        {
+          "name": "Air Dash",
+          "type": "special",
+          "notation": "Stand On, {air} {back}{back} or {forward}{forward}",
+          "notes": ""
+        },
+        {
+          "name": "Sand Crush",
+          "type": "special",
+          "notation": "{charge_back_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Sand Attack",
+          "type": "special",
+          "notation": "{charge_down_up}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Sand Clutch",
+          "type": "special",
+          "notation": "{hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Sand Magic",
+          "type": "special",
+          "notation": "{rdp} or {dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Big Sand Wave",
+          "type": "special",
+          "notation": "{qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Sandstorm",
+          "type": "special",
+          "notation": "{lp}{lp}{forward}{mp}{hp}",
+          "notes": ""
+        }
+      ],
+      "id": "iggy",
+      "image": "images/Portrait_JJBA_Iggy.png"
+    },
+    {
+      "name": "Joseph",
+      "moves": [
+        {
+          "name": "Long Run",
+          "type": "special",
+          "notation": "{forward}{cf}",
+          "notes": ""
+        },
+        {
+          "name": "Long Backdash",
+          "type": "special",
+          "notation": "{back}{cb}",
+          "notes": ""
+        },
+        {
+          "name": "Sliding Kick",
+          "type": "special",
+          "notation": "Stand Off, {down_forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Hop Kick",
+          "type": "special",
+          "notation": "{forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Web Strike",
+          "type": "special",
+          "notation": "Stand On, {down_forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Turquoise Blue Overdrive",
+          "type": "special",
+          "notation": "Stand Off, {qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Hermit Web",
+          "type": "special",
+          "notation": "Stand On, {qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "__Hermit Web followup",
+          "type": "special",
+          "notation": "{tap} {p}",
+          "notes": ""
+        },
+        {
+          "name": "__Hermit Web followup",
+          "type": "special",
+          "notation": "{back} {p}",
+          "notes": ""
+        },
+        {
+          "name": "Sunlight Yellow Overdrive",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Strategist's Profession",
+          "type": "special",
+          "notation": "{qcb}+{p} ({tap} when Stand On)",
+          "notes": ""
+        },
+        {
+          "name": "Hamon Beat",
+          "type": "special",
+          "notation": "{360}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Master's Teachings",
+          "type": "special",
+          "notation": "{qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Hamon Overdrive",
+          "type": "special",
+          "notation": "{360}{360}+{p}",
+          "notes": ""
+        }
+      ],
+      "id": "joseph",
+      "image": "images/Portrait_JJBA_Joseph.png"
+    },
+    {
+      "name": "Jotaro",
+      "moves": [
+        {
+          "name": "Low Kick",
+          "type": "special",
+          "notation": "Stand Off {forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Backhand Strike",
+          "type": "special",
+          "notation": "Stand On {forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Hammer Strike",
+          "type": "special",
+          "notation": "Stand Off {forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Overhead Smash",
+          "type": "special",
+          "notation": "Stand Off {down_forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Ora Ora",
+          "type": "special",
+          "notation": "{qcf}+{p} ({tap} when Stand On)",
+          "notes": ""
+        },
+        {
+          "name": "Air Ora Ora",
+          "type": "special",
+          "notation": "Stand On, {air} {qcf}+{tap} {p}, move in any direction",
+          "notes": ""
+        },
+        {
+          "name": "Mach Ora",
+          "type": "special",
+          "notation": "Perform 2 times when Stand On {qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Star Finger",
+          "type": "special",
+          "notation": "{dp}+{p} , {hold} and {release}",
+          "notes": ""
+        },
+        {
+          "name": "Puttsun Ora",
+          "type": "special",
+          "notation": "{qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Aerial Puttsun Ora",
+          "type": "special",
+          "notation": "Stand On, {air} {qcf}+{pp} , move in any direction",
+          "notes": ""
+        },
+        {
+          "name": "Star Breaker",
+          "type": "special",
+          "notation": "{qcb}+{pp} , {hold} and {release}",
+          "notes": ""
+        },
+        {
+          "name": "Star Platinum: The World",
+          "type": "special",
+          "notation": "Requires 3 stocks {forward}{mp}{lp}{forward}{special}",
+          "notes": ""
+        }
+      ],
+      "id": "jotaro",
+      "image": "images/Portrait_JJBA_Jotaro.png"
+    },
+    {
+      "name": "Kakyoin",
+      "moves": [
+        {
+          "name": "Stand Remote Control",
+          "type": "special",
+          "notation": "Stand On {forward}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Double Jump",
+          "type": "special",
+          "notation": "Stand On, {air} {up}",
+          "notes": ""
+        },
+        {
+          "name": "Triple Jump",
+          "type": "special",
+          "notation": "Remote Stand, {air} {up}{up}",
+          "notes": ""
+        },
+        {
+          "name": "Air Dash",
+          "type": "special",
+          "notation": "Stand On, {air} {back}{back} or {forward}{forward}",
+          "notes": ""
+        },
+        {
+          "name": "Vertical Knuckle",
+          "type": "special",
+          "notation": "Stand On {forward}+{lp}",
+          "notes": ""
+        },
+        {
+          "name": "Long Shot",
+          "type": "special",
+          "notation": "Stand On {forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Slide Kick",
+          "type": "special",
+          "notation": "Stand Off {down_forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Total Offensive",
+          "type": "special",
+          "notation": "Stand On {back}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Hiero Drill",
+          "type": "special",
+          "notation": "Stand On, {air} {down_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Emerald Splash",
+          "type": "special",
+          "notation": "{air} when Stand On {qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Tie Wrap Snake",
+          "type": "special",
+          "notation": "{back}{hcb}+{p}, {hold} and {release}",
+          "notes": ""
+        },
+        {
+          "name": "__Emerald Carnage",
+          "type": "special",
+          "notation": "Stand On {tap} {p} during Tie Wrap Snake",
+          "notes": ""
+        },
+        {
+          "name": "Hierophant's Barrier",
+          "type": "special",
+          "notation": "{air} {qcb}+{p}, {hold} and {release}",
+          "notes": ""
+        },
+        {
+          "name": "20-Meter-Radius Emerald Splash",
+          "type": "special",
+          "notation": "Stand Off {qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "20-Meter-Radius Emerald Splash",
+          "type": "special",
+          "notation": "Stand On, {air} {qcf}+{pp}, {back} or {forward} to adjust spread",
+          "notes": ""
+        },
+        {
+          "name": "India's Arm",
+          "type": "special",
+          "notation": "{qcb}+{pp} (direct arm with joystick when Stand On)",
+          "notes": ""
+        },
+        {
+          "name": "Hierophant Finish",
+          "type": "special",
+          "notation": "Stand On {dp}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Punishment Time",
+          "type": "special",
+          "notation": "Stand On {lp}{lp}{forward}{mp}{hp}",
+          "notes": ""
+        }
+      ],
+      "id": "kakyoin",
+      "image": "images/Portrait_JJBA_Kakyoin.png"
+    },
+    {
+      "name": "Khan",
+      "moves": [
+        {
+          "name": "Spinning Slash",
+          "type": "special",
+          "notation": "{air} {special} , {hold} and {release}",
+          "notes": ""
+        },
+        {
+          "name": "Short Stab",
+          "type": "special",
+          "notation": "{back}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "I've learned it!",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Sure-Killing Slash",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Demon-Slaying Slash",
+          "type": "special",
+          "notation": "{charge_back_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Deadly Wreckage",
+          "type": "special",
+          "notation": "{qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "The Strongest Sword",
+          "type": "special",
+          "notation": "{qcb}+{pp}",
+          "notes": ""
+        }
+      ],
+      "id": "khan",
+      "image": null
+    },
+    {
+      "name": "Mariah",
+      "moves": [
+        {
+          "name": "Long Run",
+          "type": "special",
+          "notation": "{forward}{cf}",
+          "notes": ""
+        },
+        {
+          "name": "Long Backdash",
+          "type": "special",
+          "notation": "{back}{cb}",
+          "notes": ""
+        },
+        {
+          "name": "Bast's Magnetism",
+          "type": "special",
+          "notation": "{air} {special}",
+          "notes": ""
+        },
+        {
+          "name": "Surprise Stab",
+          "type": "special",
+          "notation": "{back}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Spiral Stab",
+          "type": "special",
+          "notation": "{forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Rising Slice",
+          "type": "special",
+          "notation": "{down_forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Collection",
+          "type": "special",
+          "notation": "{air} {qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Cable Trap",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Electric Cable",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "What are you imagining?",
+          "type": "special",
+          "notation": "{air} {qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Iron Crush",
+          "type": "special",
+          "notation": "{qcb}+{pp}",
+          "notes": ""
+        }
+      ],
+      "id": "mariah",
+      "image": "images/Portrait_JJBA_Mariah.png"
+    },
+    {
+      "name": "Midler",
+      "moves": [
+        {
+          "name": "Double Jump",
+          "type": "special",
+          "notation": "Stand On, {air} {up}",
+          "notes": ""
+        },
+        {
+          "name": "Slashing Claw",
+          "type": "special",
+          "notation": "Stand On, {back}+{lp}",
+          "notes": ""
+        },
+        {
+          "name": "Priestess Saw",
+          "type": "special",
+          "notation": "Stand Off, {forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Creeping Kick",
+          "type": "special",
+          "notation": "Stand Off, {down_forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Saw Blade",
+          "type": "special",
+          "notation": "Stand On, ({back} or {forward}+) {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Steel Slide",
+          "type": "special",
+          "notation": "Stand Off, {air} {down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Iron Crush",
+          "type": "special",
+          "notation": "Stand On, {air} {down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Harpoon Shot",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Motor Head",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Iron Wild",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Mega Harpoon Strike",
+          "type": "special",
+          "notation": "{qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Motor Show",
+          "type": "special",
+          "notation": "{qcb}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Dinner Time",
+          "type": "special",
+          "notation": "{dp}+{pp}",
+          "notes": ""
+        }
+      ],
+      "id": "midler",
+      "image": "images/Portrait_JJBA_Midler.png"
+    },
+    {
+      "name": "New Kakyoin",
+      "moves": [
+        {
+          "name": "Stand Release",
+          "type": "special",
+          "notation": "Stand On {forward}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Double Jump",
+          "type": "special",
+          "notation": "Stand On {air} {up}",
+          "notes": ""
+        },
+        {
+          "name": "Triple Jump",
+          "type": "special",
+          "notation": "Stand On {air} {up}{up} after Stand Release, only works on Stand",
+          "notes": ""
+        },
+        {
+          "name": "Air Dash",
+          "type": "special",
+          "notation": "Stand On {air} {back}{back} or {forward}{forward}",
+          "notes": ""
+        },
+        {
+          "name": "Vertical Knuckle",
+          "type": "special",
+          "notation": "Stand On {forward}+{lp}",
+          "notes": ""
+        },
+        {
+          "name": "Long Shot",
+          "type": "special",
+          "notation": "Stand On {forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Slide Kick",
+          "type": "special",
+          "notation": "Stand Off {down_forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Double Shot",
+          "type": "special",
+          "notation": "Stand On {back}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Hiero Float",
+          "type": "special",
+          "notation": "Stand On {air} {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Hiero Drill",
+          "type": "special",
+          "notation": "Stand On {air} {down_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Emerald Splash",
+          "type": "special",
+          "notation": "(Stand On) {qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Aerial Emerald Splash",
+          "type": "special",
+          "notation": "Stand On {air} {qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Tie Wrap Snake",
+          "type": "special",
+          "notation": "Stand Off {qcb}+{p} , {hold} and {release}, unblockable",
+          "notes": ""
+        },
+        {
+          "name": "Hierophant Field",
+          "type": "special",
+          "notation": "Stand On {air} {qcb}+{p} , {hold} and {release}",
+          "notes": ""
+        },
+        {
+          "name": "20-Meter-Radius Emerald Splash",
+          "type": "special",
+          "notation": "Stand Off {qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Hierophant Web",
+          "type": "special",
+          "notation": "Stand On {air} {qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "India's Arm",
+          "type": "special",
+          "notation": "Stand Off {qcb}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "India's Arm (Directable)",
+          "type": "special",
+          "notation": "Stand On {qcb}+{pp} , direct arm with joystick",
+          "notes": ""
+        },
+        {
+          "name": "Punishment Time",
+          "type": "special",
+          "notation": "{lp}{lp}{forward}{mp}{hp}",
+          "notes": ""
+        }
+      ],
+      "id": "new_kakyoin",
+      "image": null
+    },
+    {
+      "name": "Pet Shop",
+      "moves": [
+        {
+          "name": "Kill Freeze",
+          "type": "special",
+          "notation": "{air} {special}",
+          "notes": ""
+        },
+        {
+          "name": "High Angle Spike",
+          "type": "special",
+          "notation": "{air} {back}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Surprise Bullet",
+          "type": "special",
+          "notation": "{down_forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Freeze-On",
+          "type": "special",
+          "notation": "{air} {hcf}+{special}",
+          "notes": ""
+        },
+        {
+          "name": "Death Freeze",
+          "type": "special",
+          "notation": "{down_back}, {down} or {down_forward}+{special}",
+          "notes": ""
+        },
+        {
+          "name": "__Horus Freeze-On",
+          "type": "special",
+          "notation": "{qcf}+{special} , {tap} {p}",
+          "notes": ""
+        },
+        {
+          "name": "Icicle Drop",
+          "type": "special",
+          "notation": "{air} {p}, {hold} and {release}",
+          "notes": ""
+        },
+        {
+          "name": "Ice Lance",
+          "type": "special",
+          "notation": "{air} {qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Ice Claw",
+          "type": "special",
+          "notation": "{air} {qcf}+{lp}",
+          "notes": ""
+        },
+        {
+          "name": "Ice Bullet",
+          "type": "special",
+          "notation": "{air} {qcf}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Giga Freeze-On",
+          "type": "special",
+          "notation": "{air} {qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Death Penalty",
+          "type": "special",
+          "notation": "{air} {qcb}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Guardian Bird's Onslaught",
+          "type": "special",
+          "notation": "{air} {lp}{lp}{forward}{mp}{hp}",
+          "notes": ""
+        }
+      ],
+      "id": "pet_shop",
+      "image": "images/Portrait_JJBA_Petshop.png"
+    },
+    {
+      "name": "Polnareff",
+      "moves": [
+        {
+          "name": "Stand Remote Control",
+          "type": "special",
+          "notation": "Stand On {forward}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Double Jump",
+          "type": "special",
+          "notation": "Stand On, {air} {up}",
+          "notes": ""
+        },
+        {
+          "name": "Triple Jump",
+          "type": "special",
+          "notation": "Remote Stand, {air} {up}{up}",
+          "notes": ""
+        },
+        {
+          "name": "Chariot Stab",
+          "type": "special",
+          "notation": "Stand On {back}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Chariot Slice",
+          "type": "special",
+          "notation": "Stand On {forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Chariot Slide",
+          "type": "special",
+          "notation": "Stand On {forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Million Spits",
+          "type": "special",
+          "notation": "{tap} {p}",
+          "notes": ""
+        },
+        {
+          "name": "Ray Darts",
+          "type": "special",
+          "notation": "{charge_back_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Shooting Star",
+          "type": "special",
+          "notation": "{charge_down_up}+{p} , {hold} and {release}",
+          "notes": ""
+        },
+        {
+          "name": "Skewering Punishment",
+          "type": "special",
+          "notation": "Stand On {qcb}+{p}, {hold} and {release}, cancel with {special}",
+          "notes": ""
+        },
+        {
+          "name": "Armor Takeoff",
+          "type": "special",
+          "notation": "{qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Last Shot",
+          "type": "special",
+          "notation": "{air} {qcb}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Glimpse of Requiem",
+          "type": "special",
+          "notation": "{hcb}+{pp} , requires 3 stocks",
+          "notes": ""
+        }
+      ],
+      "id": "polnareff",
+      "image": "images/Portrait_JJBA_Polnareff.png"
+    },
+    {
+      "name": "Rubber Soul",
+      "moves": [
+        {
+          "name": "Fake Hierophant",
+          "type": "special",
+          "notation": "{air} {special}",
+          "notes": ""
+        },
+        {
+          "name": "Yellow Counter",
+          "type": "special",
+          "notation": "{qcb}+{special}",
+          "notes": ""
+        },
+        {
+          "name": "Yellow Splash",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Yellow Snake",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Super Yellow Splash",
+          "type": "special",
+          "notation": "{qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Coconuts Backbreaker",
+          "type": "special",
+          "notation": "{360}+{p}",
+          "notes": ""
+        }
+      ],
+      "id": "rubber_soul",
+      "image": null
+    },
+    {
+      "name": "Shadow Dio",
+      "moves": [
+        {
+          "name": "The World",
+          "type": "special",
+          "notation": "{air} {special}",
+          "notes": ""
+        },
+        {
+          "name": "Sliding Punch",
+          "type": "special",
+          "notation": "{down_forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "The World 21",
+          "type": "special",
+          "notation": "{hcf}+{special}",
+          "notes": ""
+        },
+        {
+          "name": "Knife Throwing 1st",
+          "type": "special",
+          "notation": "{hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Knife Throwing 2nd",
+          "type": "special",
+          "notation": "{qcd}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Eye Beam",
+          "type": "special",
+          "notation": "{hcb}+{p} , {hold} and {release}",
+          "notes": ""
+        },
+        {
+          "name": "Counter Teleport",
+          "type": "special",
+          "notation": "{rdp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Vampiric Tendency",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Punishment",
+          "type": "special",
+          "notation": "{qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Charisma",
+          "type": "special",
+          "notation": "{qcb}+{pp} , requires 2 stocks",
+          "notes": ""
+        },
+        {
+          "name": "URYYYYYY!",
+          "type": "special",
+          "notation": "{dp}+{pp} , {hold} and {release}",
+          "notes": ""
+        },
+        {
+          "name": "Time Stopped!",
+          "type": "special",
+          "notation": "{lp}{forward}{hp}{back}{special}",
+          "notes": ""
+        }
+      ],
+      "id": "shadow_dio",
+      "image": "images/Portrait_JJBA_Shadow_Dio.png"
+    },
+    {
+      "name": "Vanilla Ice",
+      "moves": [
+        {
+          "name": "Double Jump",
+          "type": "special",
+          "notation": "Stand On, {air} {up}",
+          "notes": ""
+        },
+        {
+          "name": "Air Dash",
+          "type": "special",
+          "notation": "Stand On, {air} {back}{back} or {forward}{forward}",
+          "notes": ""
+        },
+        {
+          "name": "Low Kick",
+          "type": "special",
+          "notation": "Stand Off, {forward}+{lp}",
+          "notes": ""
+        },
+        {
+          "name": "Cream Chip",
+          "type": "special",
+          "notation": "Stand On, {forward}+{lp}",
+          "notes": ""
+        },
+        {
+          "name": "Big Boot",
+          "type": "special",
+          "notation": "Stand Off, {forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Overhead Crush",
+          "type": "special",
+          "notation": "Stand On, {forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Evil Flick",
+          "type": "special",
+          "notation": "Stand On, {air} {forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Hammer Smash",
+          "type": "special",
+          "notation": "Stand Off, {forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Cream Chop",
+          "type": "special",
+          "notation": "Stand On, {forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Wild Grab",
+          "type": "special",
+          "notation": "Stand On, {air} {forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Small Dark Space",
+          "type": "special",
+          "notation": "Stand Off {air} {qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Big Dark Space",
+          "type": "special",
+          "notation": "Stand On, {air} {qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "__2nd Big Dark Space",
+          "type": "special",
+          "notation": "any direction+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Cream!",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "I'll blow you away!",
+          "type": "special",
+          "notation": "Stand On, {charge_down_up}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "I'll Disperse",
+          "type": "special",
+          "notation": "Stand On, {rdp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Damn brute!",
+          "type": "special",
+          "notation": "{qcf}+{pp} , {hold} and {release}",
+          "notes": ""
+        },
+        {
+          "name": "Madness Sorrow",
+          "type": "special",
+          "notation": "{qcb}+{pp} , requires 2 level bars",
+          "notes": ""
+        },
+        {
+          "name": "Circle Locus",
+          "type": "special",
+          "notation": "Stand On, {dp}+{pp}",
+          "notes": ""
+        }
+      ],
+      "id": "vanilla_ice",
+      "image": "images/Portrait_JJBA_Vanilla_Ice.png"
+    },
+    {
+      "name": "Young Joseph",
+      "moves": [
+        {
+          "name": "Long Run",
+          "type": "special",
+          "notation": "{forward}{cf}",
+          "notes": ""
+        },
+        {
+          "name": "Long Backdash",
+          "type": "special",
+          "notation": "{back}{cb}",
+          "notes": ""
+        },
+        {
+          "name": "Clacker Attack",
+          "type": "special",
+          "notation": "{air} {special}",
+          "notes": ""
+        },
+        {
+          "name": "Sliding Kick",
+          "type": "special",
+          "notation": "{down_forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Hop Kick",
+          "type": "special",
+          "notation": "{forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Clacker Boomerang",
+          "type": "special",
+          "notation": "{qcb}+{special}",
+          "notes": ""
+        },
+        {
+          "name": "Clacker Volley",
+          "type": "special",
+          "notation": "{qcf}+{special}",
+          "notes": ""
+        },
+        {
+          "name": "__Clacker Volley followup",
+          "type": "special",
+          "notation": "{special}",
+          "notes": ""
+        },
+        {
+          "name": "___Clacker Volley followup",
+          "type": "special",
+          "notation": "{special}, {down}+{special}, or {forward}+{special}",
+          "notes": ""
+        },
+        {
+          "name": "Ripple Cola",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Ripple Cutter",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Iron Crossbow",
+          "type": "special",
+          "notation": "{hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Unforgettable Memories",
+          "type": "special",
+          "notation": "{qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Red Stone of Aja",
+          "type": "special",
+          "notation": "{qcb}+{pp}",
+          "notes": ""
+        }
+      ],
+      "id": "young_joseph",
+      "image": null
+    }
+  ]
+}
