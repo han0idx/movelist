@@ -1,0 +1,1744 @@
+{
+  "name": "sfa2",
+  "title": "Street Fighter Alpha 2",
+  "image": "images/Street_Fighter_Alpha_2_logo.png",
+  "characters": [
+    {
+      "name": "Adon",
+      "moves": [
+        {
+          "name": "Jaguar Carry",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Jaguar Slam",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mk} or {hk}",
+          "notes": ""
+        },
+        {
+          "name": "Jaguar Crunch",
+          "type": "special",
+          "notation": "{forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Jutting Kick",
+          "type": "special",
+          "notation": "{down_forward}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Rising Jaguar",
+          "type": "special",
+          "notation": "{dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Jaguar Kick",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Jaguar Tooth",
+          "type": "special",
+          "notation": "{hcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Jaguar Revolver",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Jaguar Varied Assault",
+          "type": "special",
+          "notation": "{qcf}{down_downforward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "__Jaguar Thousand",
+          "type": "special",
+          "notation": "{tap} {p} during Lvl.3 Jaguar Varied Assault",
+          "notes": ""
+        },
+        {
+          "name": "__Jaguar Assassin",
+          "type": "special",
+          "notation": "{tap} {k} during Lvl.3 Jaguar Varied Assault",
+          "notes": ""
+        }
+      ],
+      "id": "adon",
+      "image": "images/Portrait_SFA2_Adon.png"
+    },
+    {
+      "name": "Akuma",
+      "moves": [
+        {
+          "name": "Seoi Nage",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Tomoe Nage",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mk} or {hk}",
+          "notes": ""
+        },
+        {
+          "name": "Tenma Kuujin Kyaku",
+          "type": "special",
+          "notation": "{up_forward}, at apex {down}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Zugai Hasatsu",
+          "type": "special",
+          "notation": "{forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Senpuu Kyaku",
+          "type": "special",
+          "notation": "{forward}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Gou Hadouken",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Zankuu Hadouken",
+          "type": "special",
+          "notation": "{air}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Shakunetsu Hadouken",
+          "type": "special",
+          "notation": "{hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Gou Shoryuken",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Tatsumaki Zankuukyaku",
+          "type": "special",
+          "notation": "{air} {qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Hyakki Shuu",
+          "type": "special",
+          "notation": "{qcf}{up_forward}+{p}, then...",
+          "notes": ""
+        },
+        {
+          "name": "__Hyakki Gou Zan",
+          "type": "special",
+          "notation": "... do nothing",
+          "notes": ""
+        },
+        {
+          "name": "__Hyakki Gou Shou",
+          "type": "special",
+          "notation": "... {p}",
+          "notes": ""
+        },
+        {
+          "name": "__Hyakki Gou Sen",
+          "type": "special",
+          "notation": "... {k}",
+          "notes": ""
+        },
+        {
+          "name": "__Hyakki Gou Sai",
+          "type": "special",
+          "notation": "... any direction+{p} when close",
+          "notes": ""
+        },
+        {
+          "name": "__Hyakki Gou Tsui",
+          "type": "special",
+          "notation": "... any direction+{k} when close",
+          "notes": ""
+        },
+        {
+          "name": "Zenpou Tenshin",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Ashura Senkuu Forward",
+          "type": "special",
+          "notation": "{dp}+{3xpunch} or {kkk}",
+          "notes": ""
+        },
+        {
+          "name": "Ashura Senkuu Backward",
+          "type": "special",
+          "notation": "{rdp}+{3xpunch} or {kkk}",
+          "notes": ""
+        },
+        {
+          "name": "Messatsu Gou Hadou",
+          "type": "special",
+          "notation": "{hcb}{hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Messatsu Gou Shouryuu",
+          "type": "special",
+          "notation": "{qcf}{down_downforward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Tenma Gou Zankuu",
+          "type": "special",
+          "notation": "{air}{qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Shun Goku Satsu",
+          "type": "special",
+          "notation": "{max}{lp}{lp} {forward}{lk}{hp}",
+          "notes": ""
+        }
+      ],
+      "id": "akuma",
+      "image": "images/Portrait_SFA2_Akuma.png"
+    },
+    {
+      "name": "Birdie",
+      "moves": [
+        {
+          "name": "Bull Spike",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Bad Throw",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mk} or {hk}",
+          "notes": ""
+        },
+        {
+          "name": "Body Press",
+          "type": "special",
+          "notation": "{air}{down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Bull Drop",
+          "type": "special",
+          "notation": "Standing {hk}",
+          "notes": ""
+        },
+        {
+          "name": "Murderer Chain",
+          "type": "special",
+          "notation": "{360}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Bandit Chain",
+          "type": "special",
+          "notation": "{360}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Bull Head",
+          "type": "special",
+          "notation": "{charge_back_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Bull Horn",
+          "type": "special",
+          "notation": "Hold {pp} or {kk}, then release",
+          "notes": ""
+        },
+        {
+          "name": "The Birdie",
+          "type": "special",
+          "notation": "{charge_back_forward}{back_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Bull Revenger",
+          "type": "special",
+          "notation": "{qcf}{down_downforward}+{p} or {k}",
+          "notes": ""
+        }
+      ],
+      "id": "birdie",
+      "image": "images/Portrait_SFA2_Birdie.png"
+    },
+    {
+      "name": "Charlie",
+      "moves": [
+        {
+          "name": "Dragon Suplex",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Knee Gatling",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mk} or {hk}",
+          "notes": ""
+        },
+        {
+          "name": "Flying Buster Drop",
+          "type": "special",
+          "notation": "{air}close, {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Jump Sobat",
+          "type": "special",
+          "notation": "{back} or {forward}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Step Kick",
+          "type": "special",
+          "notation": "{back} or {forward}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Spin Back Knuckle",
+          "type": "special",
+          "notation": "{forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Sonic Boom",
+          "type": "special",
+          "notation": "{charge_back_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Somersault Shell",
+          "type": "special",
+          "notation": "{charge_down_up}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Sonic Break",
+          "type": "special",
+          "notation": "{charge_back_forward}{back_forward}+{p}, {tap} {p}",
+          "notes": ""
+        },
+        {
+          "name": "Crossfire Blitz",
+          "type": "special",
+          "notation": "{charge_back_forward}{back_forward}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Somersault Justice",
+          "type": "special",
+          "notation": "{cdb}{delta}+{k}",
+          "notes": ""
+        }
+      ],
+      "id": "charlie",
+      "image": "images/Portrait_SFA2_Charlie.png"
+    },
+    {
+      "name": "Chun-Li",
+      "moves": [
+        {
+          "name": "Sankaku Tobi",
+          "type": "special",
+          "notation": "Jump against a wall, press in opposite direction",
+          "notes": ""
+        },
+        {
+          "name": "Koshuu Tou",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Ryuusei Raku",
+          "type": "special",
+          "notation": "{air}close, {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Yousou Kyaku",
+          "type": "special",
+          "notation": "{air}{down}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Kaku Kyaku Raku",
+          "type": "special",
+          "notation": "{down_forward}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Kikouken (SFA outfit)",
+          "type": "special",
+          "notation": "{hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Kikouken (SF2 outfit)",
+          "type": "special",
+          "notation": "{charge_back_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Sen'en Shuu",
+          "type": "special",
+          "notation": "{hcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Tenshoukyaku",
+          "type": "special",
+          "notation": "{charge_down_up}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Hyakuretsu Kyaku",
+          "type": "special",
+          "notation": "{tap} {k}",
+          "notes": ""
+        },
+        {
+          "name": "Kikoushou",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Senretsu Kyaku",
+          "type": "special",
+          "notation": "{charge_back_forward}{back_forward}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Hazan Tenshoukyaku",
+          "type": "special",
+          "notation": "{cdb}{delta}+{k}",
+          "notes": ""
+        }
+      ],
+      "id": "chun-li",
+      "image": "images/Portrait_SFA2_ChunLi.png"
+    },
+    {
+      "name": "Dan",
+      "moves": [
+        {
+          "name": "Seoi Nage",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Kuuchuu Chouhatsu",
+          "type": "special",
+          "notation": "{start} while jumping",
+          "notes": ""
+        },
+        {
+          "name": "Shagami Chouhatsu",
+          "type": "special",
+          "notation": "{start} while crouching",
+          "notes": ""
+        },
+        {
+          "name": "Gadouken",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Kouryuuken",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Dankuukyaku",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Zenten Chouhatsu",
+          "type": "special",
+          "notation": "{qcf}+{start}",
+          "notes": ""
+        },
+        {
+          "name": "Kouten Chouhatsu",
+          "type": "special",
+          "notation": "{qcb}+{start}",
+          "notes": ""
+        },
+        {
+          "name": "Chouhatsu Densetsu",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{start}",
+          "notes": ""
+        },
+        {
+          "name": "Shinkuu Gadouken",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Hisshou Buraiken",
+          "type": "special",
+          "notation": "{qcb}{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Kouryuu Rekka",
+          "type": "special",
+          "notation": "{qcf}{down_downforward}+{k}",
+          "notes": ""
+        }
+      ],
+      "id": "dan",
+      "image": "images/Portrait_SFA2_Dan.png"
+    },
+    {
+      "name": "Dhalsim",
+      "moves": [
+        {
+          "name": "Yoga Smash",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Yoga Throw",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Kuuchuu Chouhatsu",
+          "type": "special",
+          "notation": "{start} while jumping",
+          "notes": ""
+        },
+        {
+          "name": "Yoga Shock",
+          "type": "special",
+          "notation": "{back}+{lp} (hold {lp})",
+          "notes": ""
+        },
+        {
+          "name": "Tegatana Suihei Chop",
+          "type": "special",
+          "notation": "{forward}+{lp}",
+          "notes": ""
+        },
+        {
+          "name": "Drill Zutsuki",
+          "type": "special",
+          "notation": "{air}{down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Drill Kick",
+          "type": "special",
+          "notation": "{air}{down}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Yoga Fire",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Yoga Flame",
+          "type": "special",
+          "notation": "{hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Yoga Blast",
+          "type": "special",
+          "notation": "{hcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Yoga Teleport Forward",
+          "type": "special",
+          "notation": "{dp}+{3xpunch} or {kkk}",
+          "notes": ""
+        },
+        {
+          "name": "Yoga Teleport Backward",
+          "type": "special",
+          "notation": "{rdp}+{3xpunch} or {kkk}",
+          "notes": ""
+        },
+        {
+          "name": "Yoga Escape",
+          "type": "special",
+          "notation": "{rdp}+{k} when knocked down",
+          "notes": ""
+        },
+        {
+          "name": "Yoga Inferno",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Yoga Strike",
+          "type": "special",
+          "notation": "{qcf}{down_downforward}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Yoga Tempest (SFA2 Gold)",
+          "type": "special",
+          "notation": "{hcb}{hcb}+{p}",
+          "notes": ""
+        }
+      ],
+      "id": "dhalsim",
+      "image": "images/Portrait_SFA2_Dhalsim.png"
+    },
+    {
+      "name": "EX Dhalsim",
+      "moves": [
+        {
+          "name": "Yoga Smash",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Yoga Throw",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Drill Zutsuki",
+          "type": "special",
+          "notation": "{air}{down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Drill Kick",
+          "type": "special",
+          "notation": "{air}{down}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Yoga Fire",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Yoga Flame",
+          "type": "special",
+          "notation": "{hcf}+{p}",
+          "notes": ""
+        }
+      ],
+      "id": "ex_dhalsim",
+      "image": null
+    },
+    {
+      "name": "Gen",
+      "moves": [
+        {
+          "name": "Juraku",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Houzen",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Ansatsu Ken: Sou-ryuu",
+          "type": "special",
+          "notation": "{air} {3xpunch}",
+          "notes": ""
+        },
+        {
+          "name": "Hyakurenkou",
+          "type": "special",
+          "notation": "{tap} {p}",
+          "notes": ""
+        },
+        {
+          "name": "Gekirou",
+          "type": "special",
+          "notation": "{dp}+{k}, {tap}{k}",
+          "notes": ""
+        },
+        {
+          "name": "Zan'ei",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Shitenshuu",
+          "type": "special",
+          "notation": "{qcb}{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Ansatsu Ken: Ki-ryuu",
+          "type": "special",
+          "notation": "{air} {kkk}",
+          "notes": ""
+        },
+        {
+          "name": "Satsujin",
+          "type": "special",
+          "notation": "{lk} while crouching",
+          "notes": ""
+        },
+        {
+          "name": "Kyoutetsu",
+          "type": "special",
+          "notation": "{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Onkyou",
+          "type": "special",
+          "notation": "{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Kirou",
+          "type": "special",
+          "notation": "{hp} while crouching",
+          "notes": ""
+        },
+        {
+          "name": "Saizu",
+          "type": "special",
+          "notation": "Jump over opponent, {mk}",
+          "notes": ""
+        },
+        {
+          "name": "Uken > Shakudan",
+          "type": "special",
+          "notation": "{air} {hk}, {hk} quickly",
+          "notes": ""
+        },
+        {
+          "name": "Jasen",
+          "type": "special",
+          "notation": "{charge_back_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Ouga",
+          "type": "special",
+          "notation": "{charge_down_up}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Kouga",
+          "type": "special",
+          "notation": "{air}{qcb}{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Jakouha",
+          "type": "special",
+          "notation": "{qcf}{down_downforward}+{k}",
+          "notes": ""
+        }
+      ],
+      "id": "gen",
+      "image": "images/Portrait_SFA2_Gen.png"
+    },
+    {
+      "name": "Guy",
+      "moves": [
+        {
+          "name": "Sankaku Tobi",
+          "type": "special",
+          "notation": "Jump against a wall, press in opposite direction",
+          "notes": ""
+        },
+        {
+          "name": "Seoi Nage",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Tsukami Nage",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mk} or {hk}",
+          "notes": ""
+        },
+        {
+          "name": "__Bushinryu Seoi Nage",
+          "type": "special",
+          "notation": "{qcf}{up_forward}{up}{up_back}{back}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Izuna Otoshi",
+          "type": "special",
+          "notation": "{air}close, {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Hiji Otoshi",
+          "type": "special",
+          "notation": "{air}{down}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Kubi Kudaki",
+          "type": "special",
+          "notation": "{forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Kamaitachi",
+          "type": "special",
+          "notation": "{down_forward}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Bushin Izuna Otoshi",
+          "type": "special",
+          "notation": "{qcf}+{p}, close {p}",
+          "notes": ""
+        },
+        {
+          "name": "Izuna no Hiji Otoshi",
+          "type": "special",
+          "notation": "{qcf}+{p}, far {p}",
+          "notes": ""
+        },
+        {
+          "name": "Hayagake: Kyuuteishi",
+          "type": "special",
+          "notation": "{qcf}+{lk}, {k}",
+          "notes": ""
+        },
+        {
+          "name": "Hayagake: Kage Sukui",
+          "type": "special",
+          "notation": "{qcf}+{mk}, {k}",
+          "notes": ""
+        },
+        {
+          "name": "Hayagake: Kubikari",
+          "type": "special",
+          "notation": "{qcf}+{hk}, {k}",
+          "notes": ""
+        },
+        {
+          "name": "Houzantou",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Bushin Senpuu Kyaku",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Bushin Gokusa Ken",
+          "type": "special",
+          "notation": "{lp}{mp}{hp} {hk} when close",
+          "notes": ""
+        },
+        {
+          "name": "Bushin Hassou Ken",
+          "type": "special",
+          "notation": "{qcf}{down_downforward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Bushin Gourai Kyaku",
+          "type": "special",
+          "notation": "{qcf}{down_downforward}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Bushin Musou Renge (SFA2 Gold)",
+          "type": "special",
+          "notation": "{max}{hcb}{hcb}+{p}",
+          "notes": ""
+        }
+      ],
+      "id": "guy",
+      "image": "images/Portrait_SFA2_Guy.png"
+    },
+    {
+      "name": "Ken",
+      "moves": [
+        {
+          "name": "Jigoku Guruma",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Tsukami Nage",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mk} or {hk}",
+          "notes": ""
+        },
+        {
+          "name": "Jigoku Fuusha",
+          "type": "special",
+          "notation": "{air}close, {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Inazuma Kakato Wari",
+          "type": "special",
+          "notation": "{forward}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Hadouken",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Shouryuuken",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Tatsumaki Senpuukyaku",
+          "type": "special",
+          "notation": "{air}{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Zenpou Tenshin",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Zentou",
+          "type": "special",
+          "notation": "{qcf}+{start}",
+          "notes": ""
+        },
+        {
+          "name": "Shouryuu Reppa",
+          "type": "special",
+          "notation": "{qcf}{down_downforward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Shinryuuken",
+          "type": "special",
+          "notation": "{qcf}{down_downforward}+{k} ({tap} {p} or {k} at Level 2/3)",
+          "notes": ""
+        }
+      ],
+      "id": "ken",
+      "image": "images/Portrait_SFA2_Ken.png"
+    },
+    {
+      "name": "M. Bison",
+      "moves": [
+        {
+          "name": "Deadly Throw",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Psycho Fall",
+          "type": "special",
+          "notation": "{air} close, {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Psycho Shot",
+          "type": "special",
+          "notation": "{charge_back_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Double Knee Press",
+          "type": "special",
+          "notation": "{charge_back_forward}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Head Press",
+          "type": "special",
+          "notation": "{charge_down_up}+{k}, then {back} or {forward}",
+          "notes": ""
+        },
+        {
+          "name": "__Skull Diver",
+          "type": "special",
+          "notation": "press {p} after Head Press",
+          "notes": ""
+        },
+        {
+          "name": "Somersault Skull Diver",
+          "type": "special",
+          "notation": "{charge_down_up}+{p}, {back} or {forward}, {p}",
+          "notes": ""
+        },
+        {
+          "name": "Vega Warp Forward",
+          "type": "special",
+          "notation": "{dp}+{3xpunch} or {kkk}",
+          "notes": ""
+        },
+        {
+          "name": "Vega Warp Backward",
+          "type": "special",
+          "notation": "{rdp}+{3xpunch} or {kkk}",
+          "notes": ""
+        },
+        {
+          "name": "Psycho Crusher",
+          "type": "special",
+          "notation": "{charge_back_forward}{back_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Knee Press Nightmare",
+          "type": "special",
+          "notation": "{charge_back_forward}{back_forward}+{k}",
+          "notes": ""
+        }
+      ],
+      "id": "m_bison",
+      "image": "images/Portrait_SFA2_MBison.png"
+    },
+    {
+      "name": "Rolento",
+      "moves": [
+        {
+          "name": "Colonel Carrier",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Deadly Package",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mk} or {hk}",
+          "notes": ""
+        },
+        {
+          "name": "High Jump",
+          "type": "special",
+          "notation": "{down}{up} quickly",
+          "notes": ""
+        },
+        {
+          "name": "Spike Rod",
+          "type": "special",
+          "notation": "{air}{down}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Fake Rod",
+          "type": "special",
+          "notation": "{forward}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Patriot Circle",
+          "type": "special",
+          "notation": "{qcf}+{p} (perform 3 times)",
+          "notes": ""
+        },
+        {
+          "name": "Mekong Delta Air Raid",
+          "type": "special",
+          "notation": "{qcb}+{p}, {p}",
+          "notes": ""
+        },
+        {
+          "name": "Mekong Delta Escape",
+          "type": "special",
+          "notation": "{qcb}+{k}...",
+          "notes": ""
+        },
+        {
+          "name": "",
+          "type": "special",
+          "notation": "...{back} or {forward}+{p} or {k}",
+          "notes": ""
+        },
+        {
+          "name": "Mekong Delta Attack",
+          "type": "special",
+          "notation": "{3xpunch}, {p}",
+          "notes": ""
+        },
+        {
+          "name": "Stinger",
+          "type": "special",
+          "notation": "{dp}+{k}, then {p} or {k}",
+          "notes": ""
+        },
+        {
+          "name": "Trick Landing",
+          "type": "special",
+          "notation": "{kkk} before landing",
+          "notes": ""
+        },
+        {
+          "name": "Take no Prisoner",
+          "type": "special",
+          "notation": "{qcf}{down_downforward}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Mine Sweeper",
+          "type": "special",
+          "notation": "{qcb}{qcb}+{p}",
+          "notes": ""
+        }
+      ],
+      "id": "rolento",
+      "image": "images/Portrait_SFA2_Rolento.png"
+    },
+    {
+      "name": "Rose",
+      "moves": [
+        {
+          "name": "Soul Drain",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Sliding",
+          "type": "special",
+          "notation": "{down_forward}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Soul Spark",
+          "type": "special",
+          "notation": "{hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Soul Throw",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Soul Reflect",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Soul Spiral",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Aura Soul Spark",
+          "type": "special",
+          "notation": "{qcb}{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Aura Soul Throw",
+          "type": "special",
+          "notation": "{qcf}{down_downforward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Soul Illusion",
+          "type": "special",
+          "notation": "{qcf}{down_downforward}+{k}",
+          "notes": ""
+        }
+      ],
+      "id": "rose",
+      "image": "images/Portrait_SFA2_Rose.png"
+    },
+    {
+      "name": "Ryu",
+      "moves": [
+        {
+          "name": "Seoi Nage",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Tomoe Nage",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mk} or {hk}",
+          "notes": ""
+        },
+        {
+          "name": "Sakotsu Wari",
+          "type": "special",
+          "notation": "{forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Senpuu Kyaku",
+          "type": "special",
+          "notation": "{forward}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Hadouken",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Hadou no Kamae",
+          "type": "special",
+          "notation": "{qcf}+{start}",
+          "notes": ""
+        },
+        {
+          "name": "Shakunetsu Hadouken (SFA2 Gold)",
+          "type": "special",
+          "notation": "{hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Shouryuuken",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Tatsumaki Senpuukyaku",
+          "type": "special",
+          "notation": "{air}{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Shinkuu Hadouken",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Shinkuu Tatsumaki Senpuukyaku",
+          "type": "special",
+          "notation": "{qcb}{qcb}+{k}",
+          "notes": ""
+        }
+      ],
+      "id": "ryu",
+      "image": "images/Portrait_SFA2_Ryu.png"
+    },
+    {
+      "name": "Ryu, Evil",
+      "moves": [
+        {
+          "name": "Seoi Nage",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Tomoe Nage",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mk} or {hk}",
+          "notes": ""
+        },
+        {
+          "name": "Sakotsu Wari",
+          "type": "special",
+          "notation": "{forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Senpuu Kyaku",
+          "type": "special",
+          "notation": "{forward}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Hadouken",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Hadou no Kamae",
+          "type": "special",
+          "notation": "{qcf}+{start}",
+          "notes": ""
+        },
+        {
+          "name": "Shakunetsu Hadouken (SFA2 Gold)",
+          "type": "special",
+          "notation": "{hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Shouryuuken",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Tatsumaki Senpuukyaku",
+          "type": "special",
+          "notation": "{air}{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Ashura Senkuu Forward",
+          "type": "special",
+          "notation": "{dp}+{3xpunch} or {kkk}",
+          "notes": ""
+        },
+        {
+          "name": "Ashura Senkuu Backward",
+          "type": "special",
+          "notation": "{rdp}+{3xpunch} or {kkk}",
+          "notes": ""
+        },
+        {
+          "name": "Shinkuu Hadouken",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Shinkuu Tatsumaki Senpuukyaku",
+          "type": "special",
+          "notation": "{qcb}{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Messatsu Gou Shouryuu",
+          "type": "special",
+          "notation": "{qcf}{down_downforward}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Shun Goku Satsu",
+          "type": "special",
+          "notation": "{max}{lp}{lp} {forward}{lk}{hp}",
+          "notes": ""
+        }
+      ],
+      "id": "ryu_evil",
+      "image": "images/Portrait_SFA2_EvilRyu.png"
+    },
+    {
+      "name": "Sagat",
+      "moves": [
+        {
+          "name": "Tiger Rage",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Tiger Shot",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Ground Tiger Shot",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Tiger Blow",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Tiger Crush",
+          "type": "special",
+          "notation": "{dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Tiger Cannon",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Tiger Raid",
+          "type": "special",
+          "notation": "{qcb}{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Tiger Genocide",
+          "type": "special",
+          "notation": "{qcf}{down_downforward}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Angry Charge (SFA2 Gold)",
+          "type": "special",
+          "notation": "{qcf}+{start}",
+          "notes": ""
+        }
+      ],
+      "id": "sagat",
+      "image": "images/Portrait_SFA2_Sagat.png"
+    },
+    {
+      "name": "Sakura",
+      "moves": [
+        {
+          "name": "Sakura Jime",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Sailor Shoot",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mk} or {hk}",
+          "notes": ""
+        },
+        {
+          "name": "Flower Kick",
+          "type": "special",
+          "notation": "{forward}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Hadou Ken",
+          "type": "special",
+          "notation": "{qcf}+{p} ({tap}{p} up to three times.)",
+          "notes": ""
+        },
+        {
+          "name": "Shou'ou Ken",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Shunpuu Kyaku",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Sakura Otoshi (SFA2 Gold)",
+          "type": "special",
+          "notation": "{dp}+{k}, {tap}{p}",
+          "notes": ""
+        },
+        {
+          "name": "Shinkuu Hadou Ken",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Haru Ichiban",
+          "type": "special",
+          "notation": "{qcb}{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Midare Zakura",
+          "type": "special",
+          "notation": "{qcf}{down_downforward}+{k}",
+          "notes": ""
+        }
+      ],
+      "id": "sakura",
+      "image": "images/Portrait_SFA2_Sakura.png"
+    },
+    {
+      "name": "Sodom",
+      "moves": [
+        {
+          "name": "Shogun Throw (long)",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Shogun Throw (short)",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mk} or {hk}",
+          "notes": ""
+        },
+        {
+          "name": "Jigoku Scrape",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Butsumetsu Buster",
+          "type": "special",
+          "notation": "{360}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Daikyou Burning",
+          "type": "special",
+          "notation": "{360}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Kouten Okiagari",
+          "type": "special",
+          "notation": "{qcd}+{p} when knocked down",
+          "notes": ""
+        },
+        {
+          "name": "Tengu Walking",
+          "type": "special",
+          "notation": "{qcbd}+{k} when knocked down",
+          "notes": ""
+        },
+        {
+          "name": "Shiraha Catch",
+          "type": "special",
+          "notation": "{dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Meido no Miyage",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Tenchuu Satsu",
+          "type": "special",
+          "notation": "{360}{360}+{p}",
+          "notes": ""
+        }
+      ],
+      "id": "sodom",
+      "image": "images/Portrait_SFA2_Sodom.png"
+    },
+    {
+      "name": "Zangief",
+      "moves": [
+        {
+          "name": "Piledriver",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Back Drop",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Kamitsuki",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mk} or {hk}",
+          "notes": ""
+        },
+        {
+          "name": "Stomach Claw",
+          "type": "special",
+          "notation": "close, {down_forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Body Press",
+          "type": "special",
+          "notation": "Jump diagonally, {down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Double Knee Drop",
+          "type": "special",
+          "notation": "Jump diagonally, {down}+{lk} or {mk}",
+          "notes": ""
+        },
+        {
+          "name": "Kuuchuu Headbutt",
+          "type": "special",
+          "notation": "{air}{up}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Dynamite Kick",
+          "type": "special",
+          "notation": "{down_back}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Russian Kick",
+          "type": "special",
+          "notation": "{down_back}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Double Lariat",
+          "type": "special",
+          "notation": "{3xpunch} (move {back}or{forward})",
+          "notes": ""
+        },
+        {
+          "name": "Quick Double Lariat",
+          "type": "special",
+          "notation": "{kkk} (move {back}or{forward})",
+          "notes": ""
+        },
+        {
+          "name": "Screw Piledriver",
+          "type": "special",
+          "notation": "{360}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Flying Powerbomb",
+          "type": "special",
+          "notation": "{360}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Atomic Suplex",
+          "type": "special",
+          "notation": "close, {360}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Banishing Flat",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Final Atomic Buster",
+          "type": "special",
+          "notation": "{360}{360}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Aerial Russian Slam",
+          "type": "special",
+          "notation": "{qcf}{down_downforward}+{k}",
+          "notes": ""
+        }
+      ],
+      "id": "zangief",
+      "image": "images/Portrait_SFA2_Zangief.png"
+    },
+    {
+      "name": "EX Zangief",
+      "moves": [
+        {
+          "name": "Piledriver",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Back Drop",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Kamitsuki",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mk} or {hk}",
+          "notes": ""
+        },
+        {
+          "name": "Stomach Claw",
+          "type": "special",
+          "notation": "close, {down_forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Flying Body Attack",
+          "type": "special",
+          "notation": "Jump diagonally, {down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Double Knee Drop",
+          "type": "special",
+          "notation": "Jump diagonally, {down}+{lk} or {mk}",
+          "notes": ""
+        },
+        {
+          "name": "Kuuchuu Headbutt",
+          "type": "special",
+          "notation": "{air}{up}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Double Lariat",
+          "type": "special",
+          "notation": "{3xpunch} (move {back}or{forward})",
+          "notes": ""
+        },
+        {
+          "name": "Screw Piledriver",
+          "type": "special",
+          "notation": "{360}+{p}",
+          "notes": ""
+        }
+      ],
+      "id": "ex_zangief",
+      "image": null
+    }
+  ]
+}

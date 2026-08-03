@@ -1,0 +1,988 @@
+{
+  "name": "wakuwak7",
+  "title": "Waku Waku 7",
+  "image": null,
+  "characters": [
+    {
+      "name": "Arina Makihara",
+      "moves": [
+        {
+          "name": "Back Throwバックスロー",
+          "type": "throw",
+          "notation": "(close) {back} or {forward}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Hip Slingerヒップスリンガー",
+          "type": "throw",
+          "notation": "(close) {back} or {forward}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Arina Tangleアリーナタングル",
+          "type": "throw",
+          "notation": "(close) {air} except {up}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Back Throwバックスロー",
+          "type": "throw",
+          "notation": "(close) {back} or {forward}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Hip Slingerヒップスリンガー",
+          "type": "throw",
+          "notation": "(close) {back} or {forward}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Arina Tangleアリーナタングル",
+          "type": "throw",
+          "notation": "(close) {air} except {up}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Waku Waku Throw",
+          "type": "throw",
+          "notation": "Face Crusherフェイスクラッシャー (close) {hcb}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Face Crusherフェイスクラッシャー",
+          "type": "throw",
+          "notation": "(close) {hcb}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Arina Beamアリーナビーム",
+          "type": "special",
+          "notation": "{air} {qcf}+{p} (hold)",
+          "notes": ""
+        },
+        {
+          "name": "Arina Tornadoアリーナトルネード",
+          "type": "special",
+          "notation": "{qcb}+{k} • {tap}{k}",
+          "notes": ""
+        },
+        {
+          "name": "Arina Crashアリーナクラッシュ",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Arina Beamアリーナビーム",
+          "type": "special",
+          "notation": "{air} {qcf}+{p} (hold)",
+          "notes": ""
+        },
+        {
+          "name": "Arina Tornadoアリーナトルネード",
+          "type": "special",
+          "notation": "{qcb}+{k} • {tap}{k}",
+          "notes": ""
+        },
+        {
+          "name": "Arina Crashアリーナクラッシュ",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Doki Doki Attack",
+          "type": "special",
+          "notation": "Arina Carnivalアリーナカーニバル {forward}{hcf}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Arina Carnivalアリーナカーニバル",
+          "type": "special",
+          "notation": "{forward}{hcf}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Hara Hara Attack",
+          "type": "special",
+          "notation": "Arina Specialアリーナスペシャル {down}{down}+{pp} or {kk}",
+          "notes": ""
+        },
+        {
+          "name": "Arina Specialアリーナスペシャル",
+          "type": "special",
+          "notation": "{down}{down}+{pp} or {kk}",
+          "notes": ""
+        }
+      ],
+      "id": "arina_makihara",
+      "image": "images/Portrait_WW7_Arina.png"
+    },
+    {
+      "name": "Dandy-J",
+      "moves": [
+        {
+          "name": "Banbutsu GouSokkyuu Nage(万物剛速球投げ)",
+          "type": "throw",
+          "notation": "(close){back} or {forward}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Kuuchuu BanbutsuGou Sokkyuu Nage(空中万物剛速球投げ)",
+          "type": "throw",
+          "notation": "(close){air} except {up}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Banbutsu GouSokkyuu Nage(万物剛速球投げ)",
+          "type": "throw",
+          "notation": "(close){back} or {forward}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Kuuchuu BanbutsuGou Sokkyuu Nage(空中万物剛速球投げ)",
+          "type": "throw",
+          "notation": "(close){air} except {up}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Waku Waku Throw",
+          "type": "throw",
+          "notation": "Joushi Kashiten Nage(上死下死点投げ) (close) {hcb}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Joushi Kashiten Nage(上死下死点投げ)",
+          "type": "throw",
+          "notation": "(close) {hcb}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Hissatsu Rope(必殺ロープ)",
+          "type": "special",
+          "notation": "{qcf}+{p} • {p} • {back}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "ShagamiHissatsu Rope(しゃがみ必殺ロープ)",
+          "type": "special",
+          "notation": "{qcf}+{k}• {k} • {back}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Hissatsu Rope(必殺ロープ)",
+          "type": "special",
+          "notation": "{qcf}+{p} • {p} • {back}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "ShagamiHissatsu Rope(しゃがみ必殺ロープ)",
+          "type": "special",
+          "notation": "{qcf}+{k}• {k} • {back}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Kyou Ijintai Hakka Ken(脅異人体発火拳)",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Natsumi Rampoo Tou Nage(夏美ランプー投げ)",
+          "type": "special",
+          "notation": "{qcb}{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Rampoo Natsumi Nage(ランプー夏美投げ)",
+          "type": "special",
+          "notation": "{qcb}{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Kyou Ijintai Hakka Ken(脅異人体発火拳)",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Natsumi Rampoo Tou Nage(夏美ランプー投げ)",
+          "type": "special",
+          "notation": "{qcb}{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Rampoo Natsumi Nage(ランプー夏美投げ)",
+          "type": "special",
+          "notation": "{qcb}{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Doki Doki Attack",
+          "type": "special",
+          "notation": "Dai YouryouSeiden Ken(大容量静電拳) {forward}{back}{forward}{back}{forward}+{pp} Kyou Tendou Chi Ginga(驚天動地銀河激突落とし) {qcf_hcb}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Dai YouryouSeiden Ken(大容量静電拳)",
+          "type": "special",
+          "notation": "{forward}{back}{forward}{back}{forward}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Kyou Tendou Chi Ginga(驚天動地銀河激突落とし)",
+          "type": "special",
+          "notation": "{qcf_hcb}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Dai YouryouSeiden Ken(大容量静電拳)",
+          "type": "special",
+          "notation": "{forward}{back}{forward}{back}{forward}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Kyou Tendou Chi Ginga(驚天動地銀河激突落とし)",
+          "type": "special",
+          "notation": "{qcf_hcb}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Hara Hara Attack",
+          "type": "special",
+          "notation": "Tai Shoumetsu Ryuushi(対消滅粒子加速拳) {down}{down}+{pp}or {kk}",
+          "notes": ""
+        },
+        {
+          "name": "Tai Shoumetsu Ryuushi(対消滅粒子加速拳)",
+          "type": "special",
+          "notation": "{down}{down}+{pp}or {kk}",
+          "notes": ""
+        }
+      ],
+      "id": "dandy-j",
+      "image": "images/Portrait_WW7_Dandy-J.png"
+    },
+    {
+      "name": "Mauru",
+      "moves": [
+        {
+          "name": "Po~i (ぽーい)",
+          "type": "throw",
+          "notation": "(close) {back} or {forward}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Kuuchuu Po~i(空中ぽーい)",
+          "type": "throw",
+          "notation": "(close) {air} except {up}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Po~i (ぽーい)",
+          "type": "throw",
+          "notation": "(close) {back} or {forward}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Kuuchuu Po~i(空中ぽーい)",
+          "type": "throw",
+          "notation": "(close) {air} except {up}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Waku Waku Throw",
+          "type": "throw",
+          "notation": "Marurun Bintaまるるんビンタ (close) {hcb}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Marurun Bintaまるるんビンタ",
+          "type": "throw",
+          "notation": "(close) {hcb}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Guruguru Punchぐるぐるパンチ",
+          "type": "special",
+          "notation": "{qcf}+{p} (hold)",
+          "notes": ""
+        },
+        {
+          "name": "Body Pressぼでぇプレス",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Bunbun Copterぶんぶんコプター",
+          "type": "special",
+          "notation": "{air} {dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Guruguru Punchぐるぐるパンチ",
+          "type": "special",
+          "notation": "{qcf}+{p} (hold)",
+          "notes": ""
+        },
+        {
+          "name": "Body Pressぼでぇプレス",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Bunbun Copterぶんぶんコプター",
+          "type": "special",
+          "notation": "{air} {dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Doki Doki Attack",
+          "type": "special",
+          "notation": "Bunbun Typhoonぶんぶんタイフーン {360}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Bunbun Typhoonぶんぶんタイフーン",
+          "type": "special",
+          "notation": "{360}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Hara Hara Attack",
+          "type": "special",
+          "notation": "Mirakuru Voiceみらくるボイス {down}{down}+{pp} or {kk}",
+          "notes": ""
+        },
+        {
+          "name": "Mirakuru Voiceみらくるボイス",
+          "type": "special",
+          "notation": "{down}{down}+{pp} or {kk}",
+          "notes": ""
+        }
+      ],
+      "id": "mauru",
+      "image": "images/Portrait_WW7_Mauru.png"
+    },
+    {
+      "name": "Politank-Z",
+      "moves": [
+        {
+          "name": "Tsukami Uchu(つかみ撃ち)",
+          "type": "throw",
+          "notation": "(close) {back} or {forward}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Waku Waku Throw",
+          "type": "throw",
+          "notation": "Ningen Taihou(人間大砲) (close) {hcb}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Ningen Taihou(人間大砲)",
+          "type": "throw",
+          "notation": "(close) {hcb}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Z Dama (Ｚ弾)",
+          "type": "special",
+          "notation": "{qcf}+{p} (hold)",
+          "notes": ""
+        },
+        {
+          "name": "Dokudoku Smokeドクドクスモーク",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Gururin Mogurinぐるりんもぐりん",
+          "type": "special",
+          "notation": "{qcbd}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Z Dama (Ｚ弾)",
+          "type": "special",
+          "notation": "{qcf}+{p} (hold)",
+          "notes": ""
+        },
+        {
+          "name": "Dokudoku Smokeドクドクスモーク",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Gururin Mogurinぐるりんもぐりん",
+          "type": "special",
+          "notation": "{qcbd}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Doki Doki Attack",
+          "type": "special",
+          "notation": "Gyro Bakugeki(ジャイロ爆撃) {rdp}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Gyro Bakugeki(ジャイロ爆撃)",
+          "type": "special",
+          "notation": "{rdp}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Hara Hara Attack",
+          "type": "special",
+          "notation": "Bikkuri Dokkiri Dan(ビックリドキドキ弾) {down}{down}+{pp}or {kk}",
+          "notes": ""
+        },
+        {
+          "name": "Bikkuri Dokkiri Dan(ビックリドキドキ弾)",
+          "type": "special",
+          "notation": "{down}{down}+{pp}or {kk}",
+          "notes": ""
+        }
+      ],
+      "id": "politank-z",
+      "image": "images/Portrait_WW7_Politank-Z.png"
+    },
+    {
+      "name": "Rai Bakuoh",
+      "moves": [
+        {
+          "name": "Pachiki Smashパチキスマッシュ",
+          "type": "throw",
+          "notation": "(close) {back} or {forward}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Waku Waku Throw",
+          "type": "throw",
+          "notation": "Daikaiten HighJump Tou Nage(大回転ハイジャンプ投げ) (close){hcb}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Daikaiten HighJump Tou Nage(大回転ハイジャンプ投げ)",
+          "type": "throw",
+          "notation": "(close){hcb}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Inazuma Cannonイナズマキャノン",
+          "type": "special",
+          "notation": "{air} {qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Inazuma Crashイナズマクラッシュ",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Inazuma Upperイナズマアッパー",
+          "type": "special",
+          "notation": "{dp}+{p} • {tap}{p}",
+          "notes": ""
+        },
+        {
+          "name": "Inazuma Cannonイナズマキャノン",
+          "type": "special",
+          "notation": "{air} {qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Inazuma Crashイナズマクラッシュ",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Inazuma Upperイナズマアッパー",
+          "type": "special",
+          "notation": "{dp}+{p} • {tap}{p}",
+          "notes": ""
+        },
+        {
+          "name": "Doki Doki Attack",
+          "type": "special",
+          "notation": "Gourai Tempest(轟雷テンペスト) {back}{hcb}+{kk} Chouryoku GouraiDengeki Ken(超力轟雷電撃拳) {forward}{hcf}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Gourai Tempest(轟雷テンペスト)",
+          "type": "special",
+          "notation": "{back}{hcb}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Chouryoku GouraiDengeki Ken(超力轟雷電撃拳)",
+          "type": "special",
+          "notation": "{forward}{hcf}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Gourai Tempest(轟雷テンペスト)",
+          "type": "special",
+          "notation": "{back}{hcb}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Chouryoku GouraiDengeki Ken(超力轟雷電撃拳)",
+          "type": "special",
+          "notation": "{forward}{hcf}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Hara Hara Attack",
+          "type": "special",
+          "notation": "Bakurai Hurricane(爆雷ハリケーン) {down}{down}+{pp}or {kk}",
+          "notes": ""
+        },
+        {
+          "name": "Bakurai Hurricane(爆雷ハリケーン)",
+          "type": "special",
+          "notation": "{down}{down}+{pp}or {kk}",
+          "notes": ""
+        }
+      ],
+      "id": "rai_bakuoh",
+      "image": "images/Portrait_WW7_Rai.png"
+    },
+    {
+      "name": "Slash",
+      "moves": [
+        {
+          "name": "Kick Turn Throwキックターンスロー",
+          "type": "throw",
+          "notation": "(close) {back} or {forward}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Kuuchuu (空中)Kick Turn Throwキックターンスロー",
+          "type": "throw",
+          "notation": "(close){air} except {up}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Kick Turn Throwキックターンスロー",
+          "type": "throw",
+          "notation": "(close) {back} or {forward}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Kuuchuu (空中)Kick Turn Throwキックターンスロー",
+          "type": "throw",
+          "notation": "(close){air} except {up}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Waku Waku Throw",
+          "type": "throw",
+          "notation": "Slash Colliderスラッシュコレダー (close) {hcb}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Slash Colliderスラッシュコレダー",
+          "type": "throw",
+          "notation": "(close) {hcb}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Slash Shotスラッシュショット",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Slash Barrierスラッシュバリヤー",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Slash Dynamicスラッシュダイナミック",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Slash Teleportスラッシュテレポート",
+          "type": "special",
+          "notation": "{air} {rdp}+any button",
+          "notes": ""
+        },
+        {
+          "name": "Slash Shotスラッシュショット",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Slash Barrierスラッシュバリヤー",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Slash Dynamicスラッシュダイナミック",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Slash Teleportスラッシュテレポート",
+          "type": "special",
+          "notation": "{air} {rdp}+any button",
+          "notes": ""
+        },
+        {
+          "name": "Doki Doki Attack",
+          "type": "special",
+          "notation": "Darkness Slashダークネスラッシュ {forward}{hcf}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Darkness Slashダークネスラッシュ",
+          "type": "special",
+          "notation": "{forward}{hcf}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Hara Hara Attack",
+          "type": "special",
+          "notation": "Darkness Windダークネスウインド {down}{down}+{pp} or {kk}",
+          "notes": ""
+        },
+        {
+          "name": "Darkness Windダークネスウインド",
+          "type": "special",
+          "notation": "{down}{down}+{pp} or {kk}",
+          "notes": ""
+        }
+      ],
+      "id": "slash",
+      "image": "images/Portrait_WW7_Slash.png"
+    },
+    {
+      "name": "Tesse Ronbllozo",
+      "moves": [
+        {
+          "name": "Kocchi Kichaya Desuこっちきちゃやです",
+          "type": "throw",
+          "notation": "(close){back} or {forward}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Kuuchuu (空中)Kocchi Kichaya Desuこっちきちゃやです",
+          "type": "throw",
+          "notation": "(close){air} except {up}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Kocchi Kichaya Desuこっちきちゃやです",
+          "type": "throw",
+          "notation": "(close){back} or {forward}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Kuuchuu (空中)Kocchi Kichaya Desuこっちきちゃやです",
+          "type": "throw",
+          "notation": "(close){air} except {up}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Waku Waku Throw",
+          "type": "throw",
+          "notation": "Guruguru Paaぐるぐるぱぁ (close) {hcb}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Guruguru Paaぐるぐるぱぁ",
+          "type": "throw",
+          "notation": "(close) {hcb}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Arekore Poiあれこれポイ",
+          "type": "special",
+          "notation": "{air} {qcf}+{p} (hold)",
+          "notes": ""
+        },
+        {
+          "name": "Chikuchiku Attackちくちくアタック",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Chuuchuu Attackちゅーちゅーアタック",
+          "type": "special",
+          "notation": "{rdp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Denshi Kousen (電子光線)",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Arekore Poiあれこれポイ",
+          "type": "special",
+          "notation": "{air} {qcf}+{p} (hold)",
+          "notes": ""
+        },
+        {
+          "name": "Chikuchiku Attackちくちくアタック",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Chuuchuu Attackちゅーちゅーアタック",
+          "type": "special",
+          "notation": "{rdp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Denshi Kousen (電子光線)",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Doki Doki Attack",
+          "type": "special",
+          "notation": "Chou Denshi Kaikousen(超電子怪光線) {forward}{hcf}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Chou Denshi Kaikousen(超電子怪光線)",
+          "type": "special",
+          "notation": "{forward}{hcf}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Hara Hara Attack",
+          "type": "special",
+          "notation": "Chou Denshi Eraser(超電子イレーザー) {down}{down}+{pp}or {kk}",
+          "notes": ""
+        },
+        {
+          "name": "Chou Denshi Eraser(超電子イレーザー)",
+          "type": "special",
+          "notation": "{down}{down}+{pp}or {kk}",
+          "notes": ""
+        }
+      ],
+      "id": "tesse_ronbllozo",
+      "image": "images/Portrait_WW7_Tesse.png"
+    },
+    {
+      "name": "Bonus-kun",
+      "moves": [
+        {
+          "name": "Koushuutan (硬襲啖)",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Boubouken (暴棒堅)",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Uzumaki Boufou Kyaku(渦巻暴風脚)",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Koushuutan (硬襲啖)",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Boubouken (暴棒堅)",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Uzumaki Boufou Kyaku(渦巻暴風脚)",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Doki Doki Attack",
+          "type": "special",
+          "notation": "Chou ShakunetsuDaisharin (超灼熱大車輪) {forward}{hcf}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Chou ShakunetsuDaisharin (超灼熱大車輪)",
+          "type": "special",
+          "notation": "{forward}{hcf}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Hara Hara Attack",
+          "type": "special",
+          "notation": "Shoushin Bomber(焼身ボンバー) {down}{down}+{pp} or {kk}",
+          "notes": ""
+        },
+        {
+          "name": "Shoushin Bomber(焼身ボンバー)",
+          "type": "special",
+          "notation": "{down}{down}+{pp} or {kk}",
+          "notes": ""
+        }
+      ],
+      "id": "bonus-kun",
+      "image": "images/Portrait_WW7_Bonus-kun.png"
+    },
+    {
+      "name": "Fernandez",
+      "moves": [
+        {
+          "name": "Peroncho Poi Desuぺろんちょポイデス",
+          "type": "throw",
+          "notation": "(close) {back} or {forward}+{c}",
+          "notes": ""
+        },
+        {
+          "name": "Waku Waku Throw",
+          "type": "throw",
+          "notation": "Mogumogu Buu Desuもぐもぐブーッデス (close) {hcb}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Mogumogu Buu Desuもぐもぐブーッデス",
+          "type": "throw",
+          "notation": "(close) {hcb}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Tokudai Punch Desu(特大パンチデス)",
+          "type": "special",
+          "notation": "{qcf}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Tokudai Kick Desu(特大キックデス)",
+          "type": "special",
+          "notation": "{qcf}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Shagami Tokudai Punch Desu(しゃがみ特大パンチデス)",
+          "type": "special",
+          "notation": "{qcf}+{bpunch}",
+          "notes": ""
+        },
+        {
+          "name": "Shagami Tokudai Kick Desu(しゃがみ特大キックデス)",
+          "type": "special",
+          "notation": "{qcf}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Tokudai Punch Desu(特大パンチデス)",
+          "type": "special",
+          "notation": "{qcf}+{a}",
+          "notes": ""
+        },
+        {
+          "name": "Tokudai Kick Desu(特大キックデス)",
+          "type": "special",
+          "notation": "{qcf}+{ckick}",
+          "notes": ""
+        },
+        {
+          "name": "Shagami Tokudai Punch Desu(しゃがみ特大パンチデス)",
+          "type": "special",
+          "notation": "{qcf}+{bpunch}",
+          "notes": ""
+        },
+        {
+          "name": "Shagami Tokudai Kick Desu(しゃがみ特大キックデス)",
+          "type": "special",
+          "notation": "{qcf}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Jump Tokudai Kick Desu(ジャンプ特大キックデス)",
+          "type": "special",
+          "notation": "{air} {qcf}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Tobu Desu Dessuunとぶデスデッスーン",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Kurunara Koi Desuくるならこいデス",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Jump Tokudai Kick Desu(ジャンプ特大キックデス)",
+          "type": "special",
+          "notation": "{air} {qcf}+{d}",
+          "notes": ""
+        },
+        {
+          "name": "Tobu Desu Dessuunとぶデスデッスーン",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Kurunara Koi Desuくるならこいデス",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Doki Doki Attack",
+          "type": "special",
+          "notation": "Okotta Dessuunおこったデッスーン {forward}{hcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Okotta Dessuunおこったデッスーン",
+          "type": "special",
+          "notation": "{forward}{hcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Hara Hara Attack",
+          "type": "special",
+          "notation": "Korogara Dessuunころがるデッスーン {down}{down}+{pp}or {kk}",
+          "notes": ""
+        },
+        {
+          "name": "Korogara Dessuunころがるデッスーン",
+          "type": "special",
+          "notation": "{down}{down}+{pp}or {kk}",
+          "notes": ""
+        }
+      ],
+      "id": "fernandez",
+      "image": "images/Portrait_WW7_Fernandez.png"
+    }
+  ]
+}

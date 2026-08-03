@@ -1,0 +1,2115 @@
+{
+  "name": "sfiii3",
+  "title": "Street Fighter III: 3rd Strike",
+  "image": "images/Street_Fighter_III_3rd_Strike_logo.png",
+  "characters": [
+    {
+      "name": "Akuma",
+      "moves": [
+        {
+          "name": "Seoi Nage",
+          "type": "special",
+          "notation": "({forward})+{lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Tomoe Nage",
+          "type": "special",
+          "notation": "{back}+{lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Straight",
+          "type": "special",
+          "notation": "{mp}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Zugai Hasatsu",
+          "type": "special",
+          "notation": "{forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Tenma Kuujin Kyaku",
+          "type": "special",
+          "notation": "{up_forward}, at apex {down}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Gou Hadouken",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Zankuu Hadouken",
+          "type": "special",
+          "notation": "{air}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Shakunetsu Hadouken",
+          "type": "special",
+          "notation": "{hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Gou Shoryuken",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Tatsumaki Zankuukyaku",
+          "type": "special",
+          "notation": "{air} {qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Ashura Senkuu Forward",
+          "type": "special",
+          "notation": "{dp}+{pp} or {kk}",
+          "notes": ""
+        },
+        {
+          "name": "Ashura Senkuu Backward",
+          "type": "special",
+          "notation": "{rdp}+{pp} or {kk}",
+          "notes": ""
+        },
+        {
+          "name": "Hyakki Shuu",
+          "type": "special",
+          "notation": "{dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "__Hyakki Gouzan",
+          "type": "special",
+          "notation": "No input",
+          "notes": ""
+        },
+        {
+          "name": "__Hyakki Goushou",
+          "type": "special",
+          "notation": "{air} {p}",
+          "notes": ""
+        },
+        {
+          "name": "__Hyakki Goujin",
+          "type": "special",
+          "notation": "{air} {k}",
+          "notes": ""
+        },
+        {
+          "name": "__Hyakki Gousai",
+          "type": "special",
+          "notation": "{air} {lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "I   Messatsu Gou Hadou",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p} (x2 meter)",
+          "notes": ""
+        },
+        {
+          "name": "I   Tenma Gou Zankuu",
+          "type": "special",
+          "notation": "{air}{qcf}{qcf}+{p} (x2 meter)",
+          "notes": ""
+        },
+        {
+          "name": "II  Messatsu Gou Shouryuu",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p} (x2 meter)",
+          "notes": ""
+        },
+        {
+          "name": "III Messatsu Gou Rasen",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{k} (x2 meter)",
+          "notes": ""
+        },
+        {
+          "name": "III Messatsu Gou Senpuu",
+          "type": "special",
+          "notation": "{air}{qcf}{qcf}+{k} (x2 meter)",
+          "notes": ""
+        },
+        {
+          "name": "(any) Shun Goku Satsu",
+          "type": "special",
+          "notation": "{max}{lp}{lp}{forward} {lk}{hp} (x MAX)",
+          "notes": ""
+        },
+        {
+          "name": "(any) Kongou Kokuretsu Zan",
+          "type": "special",
+          "notation": "{max}{down}{down}{down}+{pp} (x MAX)",
+          "notes": ""
+        }
+      ],
+      "id": "akuma",
+      "image": "images/Portrait_SF3-3_Akuma.png"
+    },
+    {
+      "name": "Alex",
+      "moves": [
+        {
+          "name": "Body Slam",
+          "type": "special",
+          "notation": "({back} or {forward}+) {lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Hand Stamp",
+          "type": "special",
+          "notation": "{mp}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Flying Cross Chop",
+          "type": "special",
+          "notation": "{air}{down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Chop",
+          "type": "special",
+          "notation": "{forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Lariat",
+          "type": "special",
+          "notation": "{forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Headbutt",
+          "type": "special",
+          "notation": "{back}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Sleeper Hold",
+          "type": "special",
+          "notation": "{back}+{hp} on a back-turned opponent",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Flash Chop",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Power Bomb",
+          "type": "special",
+          "notation": "close, {hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Power Backdrop",
+          "type": "special",
+          "notation": "close, {hcb}+{p} on a back-turned opponent",
+          "notes": ""
+        },
+        {
+          "name": "Spiral D.D.T.",
+          "type": "special",
+          "notation": "close, {hcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Air Knee Smash",
+          "type": "special",
+          "notation": "{dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Air Stampede",
+          "type": "special",
+          "notation": "{charge_down_up}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Slash Elbow",
+          "type": "special",
+          "notation": "{charge_back_forward}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "I   Hyper Bomb",
+          "type": "special",
+          "notation": "{360}+{p} (x1 meter)",
+          "notes": ""
+        },
+        {
+          "name": "I   Backdrop Bomb",
+          "type": "special",
+          "notation": "{360}+{p} on a back-turned opponent (x1 meter)",
+          "notes": ""
+        },
+        {
+          "name": "II  Boomerang Raid",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p} (x2 meter)",
+          "notes": ""
+        },
+        {
+          "name": "III Stun Gun Headbutt",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p} (x1 meter)",
+          "notes": ""
+        }
+      ],
+      "id": "alex",
+      "image": "images/Portrait_SF3-3_Alex.png"
+    },
+    {
+      "name": "Chun-Li",
+      "moves": [
+        {
+          "name": "Sankaku Tobi",
+          "type": "special",
+          "notation": "Jump against a wall, press in opposite direction",
+          "notes": ""
+        },
+        {
+          "name": "Koshuu Tou",
+          "type": "special",
+          "notation": "({back} or {forward}+) {lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Ryuusei Raku",
+          "type": "special",
+          "notation": "{air}({back} or {forward}+) {lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Kakushi Ken",
+          "type": "special",
+          "notation": "{mp}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Souren Shou",
+          "type": "special",
+          "notation": "{back}+{mp}(cancelable)",
+          "notes": ""
+        },
+        {
+          "name": "Hakkei",
+          "type": "special",
+          "notation": "{back}+{hp}(cancelable)",
+          "notes": ""
+        },
+        {
+          "name": "Senjou Shuu",
+          "type": "special",
+          "notation": "{forward}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Yoku Sen Kyaku",
+          "type": "special",
+          "notation": "{forward}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Tenshin Shuu Kyaku",
+          "type": "special",
+          "notation": "{down_forward}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Yousou Kyaku",
+          "type": "special",
+          "notation": "{air}{down}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Kakushu Raku Kyaku",
+          "type": "special",
+          "notation": "close, hold {mk}",
+          "notes": ""
+        },
+        {
+          "name": "Suitotsu Da",
+          "type": "special",
+          "notation": "{up_forward}, {down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Kikou Ken",
+          "type": "special",
+          "notation": "{hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Hazan Shuu",
+          "type": "special",
+          "notation": "{hcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Spinning Bird Kick",
+          "type": "special",
+          "notation": "{charge_down_up}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Hyakuretsu Kyaku",
+          "type": "special",
+          "notation": "{tap} {k} ({kk} for EX)",
+          "notes": ""
+        },
+        {
+          "name": "I   Kikou Shou",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p} (x1 meter)",
+          "notes": ""
+        },
+        {
+          "name": "II  Houyoku Sen",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{k} (x2 meter)",
+          "notes": ""
+        },
+        {
+          "name": "III Tensei Ranka",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{k} (x3 meter)",
+          "notes": ""
+        }
+      ],
+      "id": "chun-li",
+      "image": "images/Portrait_SF3-3_Chun-Li.png"
+    },
+    {
+      "name": "Dudley",
+      "moves": [
+        {
+          "name": "Liver Crusher",
+          "type": "special",
+          "notation": "{lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Dynamite Throw",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Jumping Elbow",
+          "type": "special",
+          "notation": "{mp}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Slipping Jab",
+          "type": "special",
+          "notation": "{forward}+{lp} (cancelable)",
+          "notes": ""
+        },
+        {
+          "name": "Stomach Blow",
+          "type": "special",
+          "notation": "{forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Step Straight",
+          "type": "special",
+          "notation": "{forward}+{hp} (super cancelable)",
+          "notes": ""
+        },
+        {
+          "name": "Liver Blow",
+          "type": "special",
+          "notation": "{forward}+{mk} (cancelable)",
+          "notes": ""
+        },
+        {
+          "name": "Dart Shot",
+          "type": "special",
+          "notation": "{forward}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Jet Upper",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Machine Gun Blow",
+          "type": "special",
+          "notation": "{hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Ducking",
+          "type": "special",
+          "notation": "{hcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "__Ducking Straight",
+          "type": "special",
+          "notation": "{p} during Ducking",
+          "notes": ""
+        },
+        {
+          "name": "__Ducking Upper",
+          "type": "special",
+          "notation": "{k} during Ducking",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Cross Counter",
+          "type": "special",
+          "notation": "{hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Punch & Cross",
+          "type": "special",
+          "notation": "{hcb}+{forward}{p}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Short Swing Blow",
+          "type": "special",
+          "notation": "{hcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "I   Rocket Upper",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p} (x2 meter)",
+          "notes": ""
+        },
+        {
+          "name": "II  Rolling Thunder",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}, {tap} {p} (x1 meter)",
+          "notes": ""
+        },
+        {
+          "name": "III Corkscrew Blow",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p} (x3 meter)",
+          "notes": ""
+        }
+      ],
+      "id": "dudley",
+      "image": "images/Portrait_SF3-3_Dudley.png"
+    },
+    {
+      "name": "Elena",
+      "moves": [
+        {
+          "name": "Leg Lift Throw",
+          "type": "special",
+          "notation": "({back} or {forward})+{lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Knee Attack",
+          "type": "special",
+          "notation": "{mp}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Handstand Kick",
+          "type": "special",
+          "notation": "{forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Handstand Whip",
+          "type": "special",
+          "notation": "{forward}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Round Arch",
+          "type": "special",
+          "notation": "{back}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Sliding",
+          "type": "special",
+          "notation": "{down_forward}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Rhino Horn",
+          "type": "special",
+          "notation": "{hcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Mallet Smash",
+          "type": "special",
+          "notation": "{hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Spin Scythe",
+          "type": "special",
+          "notation": "{qcb}+{k} ({qcb}+{k} to extend)",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Scratch Wheel",
+          "type": "special",
+          "notation": "{dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Lynx Tail",
+          "type": "special",
+          "notation": "{rdp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "I   Spinning Beat",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{k} (x3 meter)",
+          "notes": ""
+        },
+        {
+          "name": "II  Brave Dance",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{k} (x2 meter)",
+          "notes": ""
+        },
+        {
+          "name": "III Healing",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p} (Press {pp} or {kk} to cancel) (x1 meter)",
+          "notes": ""
+        }
+      ],
+      "id": "elena",
+      "image": "images/Portrait_SF3-3_Elena.png"
+    },
+    {
+      "name": "Gill",
+      "moves": [
+        {
+          "name": "Impact Claw",
+          "type": "special",
+          "notation": "{lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Guilty Bomb",
+          "type": "special",
+          "notation": "{back} or {forward}+{lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Elbow",
+          "type": "special",
+          "notation": "{mp}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Palm Upper",
+          "type": "special",
+          "notation": "{back}+{mp} (cancelable)",
+          "notes": ""
+        },
+        {
+          "name": "Step Kick",
+          "type": "special",
+          "notation": "{forward}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Pyro-kinesis",
+          "type": "special",
+          "notation": "{qcf}+{p} (on the left side)",
+          "notes": ""
+        },
+        {
+          "name": "Cryo-kinesis",
+          "type": "special",
+          "notation": "{qcf}+{p} (on the right side)",
+          "notes": ""
+        },
+        {
+          "name": "Cyber Lariat (Pyro Heat)",
+          "type": "special",
+          "notation": "{dp}+{p} (on the right side)",
+          "notes": ""
+        },
+        {
+          "name": "Cyber Lariat (Cryo Heat)",
+          "type": "special",
+          "notation": "{dp}+{p} (on the left side)",
+          "notes": ""
+        },
+        {
+          "name": "Moonsault Knee Drop",
+          "type": "special",
+          "notation": "{hcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Psycho Headbutt",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Meteor Strike",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p} (x1 meter)",
+          "notes": ""
+        },
+        {
+          "name": "Seraphic Wing",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{k} (x1 meter)",
+          "notes": ""
+        },
+        {
+          "name": "Resurrection",
+          "type": "special",
+          "notation": "Automatically occurs when you lose a round (1x meter)",
+          "notes": ""
+        }
+      ],
+      "id": "gill",
+      "image": "images/Portrait_SF3-3_Gill.png"
+    },
+    {
+      "name": "Hugo",
+      "moves": [
+        {
+          "name": "Neck Hanging Tree",
+          "type": "special",
+          "notation": "{lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Body Slam",
+          "type": "special",
+          "notation": "{back} or {forward}+{lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Knee Attack",
+          "type": "special",
+          "notation": "{mp}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Body Press",
+          "type": "special",
+          "notation": "{air}{down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Drop Kick",
+          "type": "special",
+          "notation": "{back} or {forward}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Elbow",
+          "type": "special",
+          "notation": "close, standing {hp}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Giant Palm Breaker",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Monster Lariat",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Ultra Throw",
+          "type": "special",
+          "notation": "close, {hcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Moonsault Press",
+          "type": "special",
+          "notation": "close, {360}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Meat Squasher",
+          "type": "special",
+          "notation": "{360}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Shootdown Backbreaker",
+          "type": "special",
+          "notation": "close, {dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "I   Gigas Breaker",
+          "type": "special",
+          "notation": "close, {360}{360}+{p} (x1 meter)",
+          "notes": ""
+        },
+        {
+          "name": "II  Megaton Press",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{k} (x2 meter)",
+          "notes": ""
+        },
+        {
+          "name": "III Hammer Frenzy",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}, hold {p} to delay (x2 meter)",
+          "notes": ""
+        }
+      ],
+      "id": "hugo",
+      "image": "images/Portrait_SF3-3_Hugo.png"
+    },
+    {
+      "name": "Ibuki",
+      "moves": [
+        {
+          "name": "Yamitsudzura",
+          "type": "special",
+          "notation": "({back} or {forward})+{lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Tobizaru",
+          "type": "special",
+          "notation": "{air} ({back} or {forward})+{lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Souken",
+          "type": "special",
+          "notation": "{mp}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Rasen Chuu",
+          "type": "special",
+          "notation": "far away, standing {hp}",
+          "notes": ""
+        },
+        {
+          "name": "__Oiura Ken",
+          "type": "special",
+          "notation": "{hp} during Rasen Chuu",
+          "notes": ""
+        },
+        {
+          "name": "Maki Geri",
+          "type": "special",
+          "notation": "{forward}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Koube Kudaki",
+          "type": "special",
+          "notation": "{forward}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Bonshou Geri",
+          "type": "special",
+          "notation": "{forward}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "You Men",
+          "type": "special",
+          "notation": "{back}+{mp} (super-cancelable on 1st hit)",
+          "notes": ""
+        },
+        {
+          "name": "Ura Maki Geri",
+          "type": "special",
+          "notation": "{back}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Sazan",
+          "type": "special",
+          "notation": "{down_forward}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Kunai",
+          "type": "special",
+          "notation": "{air}{qcf}+{p} (hold {forward} during EX)",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Kubi Ori",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Kasumi Gake",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Tsuiji Goe",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Kazekiri",
+          "type": "special",
+          "notation": "{dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Hien",
+          "type": "special",
+          "notation": "{rdp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Raida",
+          "type": "special",
+          "notation": "close, {hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Tsumuji",
+          "type": "special",
+          "notation": "{qcb}+{k}, then {k} or {down}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "I   Kasumi Suzaku",
+          "type": "special",
+          "notation": "{air}{qcf}{qcf}+{p}, {tap} {p} (x3 meter)",
+          "notes": ""
+        },
+        {
+          "name": "II  Yoroi Dooshi",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p} (x1 meter)",
+          "notes": ""
+        },
+        {
+          "name": "III Yami Shigure",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p} (x1 meter)",
+          "notes": ""
+        },
+        {
+          "name": "Taunt (bunny hop!)",
+          "type": "special",
+          "notation": "{hp}+{hk}",
+          "notes": ""
+        }
+      ],
+      "id": "ibuki",
+      "image": "images/Portrait_SF3-3_Ibuki.png"
+    },
+    {
+      "name": "Ken",
+      "moves": [
+        {
+          "name": "Hiza Geri",
+          "type": "special",
+          "notation": "{lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Seoi Nage",
+          "type": "special",
+          "notation": "{forward}+{lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Jigoku Guruma",
+          "type": "special",
+          "notation": "{back}+{lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Straight",
+          "type": "special",
+          "notation": "{mp}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Inazuma Kakato Wari",
+          "type": "special",
+          "notation": "{back}+{mk} or hold {mk} when standing",
+          "notes": ""
+        },
+        {
+          "name": "Fumikomi Mae Geri",
+          "type": "special",
+          "notation": "{forward}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Shiden Kakato Otoshi",
+          "type": "special",
+          "notation": "{forward}+{hk} (Hold {hk} to fake)",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Hadouken",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Shouryuuken",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Tatsumaki Senpuukyaku",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Kuuchuu Tatsumaki Senpuukyaku",
+          "type": "special",
+          "notation": "{air}{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "I   Shouryuu Reppa",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p} (x2 meter)",
+          "notes": ""
+        },
+        {
+          "name": "II  Shinryuuken",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{k}, {tap} {k} (x1 meter)",
+          "notes": ""
+        },
+        {
+          "name": "III Shippuujinrai Kyaku",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{k} (x3 meter)",
+          "notes": ""
+        }
+      ],
+      "id": "ken",
+      "image": "images/Portrait_SF3-3_Ken.png"
+    },
+    {
+      "name": "Makoto",
+      "moves": [
+        {
+          "name": "Hikiyose Zutsuki \"Tacchuu\"",
+          "type": "special",
+          "notation": "{lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Hiji Otoshi Sanren Tsuki \"Araiso\"",
+          "type": "special",
+          "notation": "{back} or {forward}+{lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Tobi Ken \"Chigusa\"",
+          "type": "special",
+          "notation": "{mp}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Kote Tsuki \"Kazami\"",
+          "type": "special",
+          "notation": "{forward}+{lp}",
+          "notes": ""
+        },
+        {
+          "name": "Gezuki \"Kaoruna\"",
+          "type": "special",
+          "notation": "{forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Fumikomi Seiken-zuki \"Shimaki\"",
+          "type": "special",
+          "notation": "{forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "__Fumikomi Seiken Sanren Tsuki \"Yamase\"",
+          "type": "special",
+          "notation": "{hp} during \"Shimaki\"",
+          "notes": ""
+        },
+        {
+          "name": "Mae Geri \"Shibuki\"",
+          "type": "special",
+          "notation": "{forward}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Fumikomi Joudan Mawashi Geri \"Naruto\"",
+          "type": "special",
+          "notation": "{forward}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Fumikomi Soku Barai \"Kuroshio\"",
+          "type": "special",
+          "notation": "{forward}+{hk} (hold {hk} to fake)",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Tosshin Seiken-zuki \"Hayate\"",
+          "type": "special",
+          "notation": "{qcf}+{p}, hold {p} to charge",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Chokujou Seiken-zuki \"Fukiage\"",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Uchi Oroshi Shutou \"Oroshi\"",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Tsurushi Nodowa \"Karakusa\"",
+          "type": "special",
+          "notation": "close, {hcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Senkou Kakato Otoshi \"Tsurugi\"",
+          "type": "special",
+          "notation": "{air}{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "I   Seichuusen Godan-zuki",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p} (x1 meter)",
+          "notes": ""
+        },
+        {
+          "name": "II  Abare Tosanami Kudaki",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{k} (x2 meter)",
+          "notes": ""
+        },
+        {
+          "name": "III Tanden Renki: Seme no Kata",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p} (x1 meter)",
+          "notes": ""
+        }
+      ],
+      "id": "makoto",
+      "image": "images/Portrait_SF3-3_Makoto.png"
+    },
+    {
+      "name": "Necro",
+      "moves": [
+        {
+          "name": "Shoulder Attack",
+          "type": "special",
+          "notation": "({forward})+{lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Frankensteiner",
+          "type": "special",
+          "notation": "{back}+{lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "German Suplex",
+          "type": "special",
+          "notation": "{back} or {forward}+{lp}or{lk} on a back-turned opponent",
+          "notes": ""
+        },
+        {
+          "name": "Finger Attack",
+          "type": "special",
+          "notation": "{mp}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Drill Kick",
+          "type": "special",
+          "notation": "{air}{down}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Elbow",
+          "type": "special",
+          "notation": "{back}+{lp} or {mp} (cancelable)",
+          "notes": ""
+        },
+        {
+          "name": "Necro Upper",
+          "type": "special",
+          "notation": "{back}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Knee Dagger",
+          "type": "special",
+          "notation": "{back}+{lk} (cancelable)",
+          "notes": ""
+        },
+        {
+          "name": "Knee Attack",
+          "type": "special",
+          "notation": "{back}+{mk} (cancelable)",
+          "notes": ""
+        },
+        {
+          "name": "Knee Missile",
+          "type": "special",
+          "notation": "{back}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Whip Straight",
+          "type": "special",
+          "notation": "{down} or {down_forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Elbow Cannon",
+          "type": "special",
+          "notation": "{down_back}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Flying Viper",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Rising Cobra",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Tornado Hook",
+          "type": "special",
+          "notation": "{hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Snake Fang",
+          "type": "special",
+          "notation": "{hcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "German Suplex",
+          "type": "special",
+          "notation": "{hcf}+{k} on a back-turned opponent",
+          "notes": ""
+        },
+        {
+          "name": "Denji Blast",
+          "type": "special",
+          "notation": "{dp}+{p}, {tap} {p}",
+          "notes": ""
+        },
+        {
+          "name": "I   Chou Denji Storm",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}, {tap} {p} (x1 meter)",
+          "notes": ""
+        },
+        {
+          "name": "II  Slam Dance",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p} (x1 meter)",
+          "notes": ""
+        },
+        {
+          "name": "III Electric Snake",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p} (x2 meter)",
+          "notes": ""
+        }
+      ],
+      "id": "necro",
+      "image": "images/Portrait_SF3-3_Necro.png"
+    },
+    {
+      "name": "Oro",
+      "moves": [
+        {
+          "name": "Kubi-jime Kataguruma",
+          "type": "special",
+          "notation": "{lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Tomoe Nage",
+          "type": "special",
+          "notation": "{back}+{lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Kuuchuu Jigoku Guruma",
+          "type": "special",
+          "notation": "{air} {back} or {forward}+{lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Tobi Hiza",
+          "type": "special",
+          "notation": "{mp}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Mawashi Hiji",
+          "type": "special",
+          "notation": "{forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Double Jump",
+          "type": "special",
+          "notation": "{air} {up_back} or {up} or {up_forward}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Nichirin Shou",
+          "type": "special",
+          "notation": "{charge_back_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Oni Yanma",
+          "type": "special",
+          "notation": "{charge_down_up}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Niou Riki",
+          "type": "special",
+          "notation": "{hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Jinchuu Watari",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Hitobashira Nobori",
+          "type": "special",
+          "notation": "{air} {qcf}+{k}, {tap} {k}",
+          "notes": ""
+        },
+        {
+          "name": "I   Kishin Riki",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}, then {p} to grab",
+          "notes": ""
+        },
+        {
+          "name": "I   Kishin Kuuchuu Jigoku Guruma",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}, then {air} {p} to grab",
+          "notes": ""
+        },
+        {
+          "name": "I   Kishin Tsui",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "II  Yagyou Dama",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "II  Yagyou Oodama",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{pp} (Uses 3 bars)",
+          "notes": ""
+        },
+        {
+          "name": "III Tengu Ishi",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "III Tengu Midare Ishi",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{pp}",
+          "notes": ""
+        }
+      ],
+      "id": "oro",
+      "image": "images/Portrait_SF3-3_Oro.png"
+    },
+    {
+      "name": "Q",
+      "moves": [
+        {
+          "name": "Hokaku Oyobi Shippu o Mochii ta Tsuuda (Kari)",
+          "type": "special",
+          "notation": "{lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Hokaku Oyobi Touteki ni yoru Daraku Shougeki (Kari)",
+          "type": "special",
+          "notation": "{back} or {forward}+{lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Shippu ni yoru Ko-Chouyaku Kougeki (Kari)",
+          "type": "special",
+          "notation": "{mp}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Toubu ni yoru Jouhou Kougeki (Kari)",
+          "type": "special",
+          "notation": "{back}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Ryouude ni yoru Zenshin Tsuugeki (Kari)",
+          "type": "special",
+          "notation": "{back}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Tentou kara no Toubu Tsuugeki (Kari)",
+          "type": "special",
+          "notation": "{back}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Tentou kara no Kyakubu Tsuugeki (Kari)",
+          "type": "special",
+          "notation": "{down}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Dashing Straight",
+          "type": "special",
+          "notation": "{charge_back_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Dashing Head Attack",
+          "type": "special",
+          "notation": "{charge_back_forward}+hold {p}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Dashing Leg Attack",
+          "type": "special",
+          "notation": "{charge_back_forward}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) High Speed Barrage",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Capture & Deadly Blow",
+          "type": "special",
+          "notation": "close {hcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "I   Critical Combo Attack",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p} (x2 meter)",
+          "notes": ""
+        },
+        {
+          "name": "II  Deadly Double Combination",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p} (x1 meter)",
+          "notes": ""
+        },
+        {
+          "name": "III Total Destruction",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p} (x1 meter)",
+          "notes": ""
+        },
+        {
+          "name": "III __Total Destruction: Blow",
+          "type": "special",
+          "notation": "{qcf}+{p} from Super Art III",
+          "notes": ""
+        },
+        {
+          "name": "III __Total Destruction: Capture",
+          "type": "special",
+          "notation": "{qcf}+{k} from Super Art III",
+          "notes": ""
+        }
+      ],
+      "id": "q",
+      "image": "images/Portrait_SF3-3_Q.png"
+    },
+    {
+      "name": "Remy",
+      "moves": [
+        {
+          "name": "Crazed Waltz",
+          "type": "special",
+          "notation": "{lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Contour of Disturbed Sleep",
+          "type": "special",
+          "notation": "{back} or {forward}+{lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Vague Temptation",
+          "type": "special",
+          "notation": "{mp}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Excessive Pure Needle",
+          "type": "special",
+          "notation": "{forward}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Light of Virtue: High",
+          "type": "special",
+          "notation": "{charge_back_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Light of Virtue: Low",
+          "type": "special",
+          "notation": "{charge_back_forward}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Rising Rage Flash",
+          "type": "special",
+          "notation": "{charge_down_up}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Cold Blue Kick",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "I   Light of Justice",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p} (x2 meter)",
+          "notes": ""
+        },
+        {
+          "name": "II  Supreme Rising Rage Flash",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{k} (x2 meter)",
+          "notes": ""
+        },
+        {
+          "name": "III Blue Nocturne",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{k} (x1 meter)",
+          "notes": ""
+        }
+      ],
+      "id": "remy",
+      "image": "images/Portrait_SF3-3_Remy.png"
+    },
+    {
+      "name": "Ryu",
+      "moves": [
+        {
+          "name": "Seoi Nage",
+          "type": "special",
+          "notation": "({forward})+{lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Tomoe Nage",
+          "type": "special",
+          "notation": "{back}+{lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Straight",
+          "type": "special",
+          "notation": "{mp}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Sakotsu Wari",
+          "type": "special",
+          "notation": "{forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Kyuubi Kudaki",
+          "type": "special",
+          "notation": "{forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Hadouken",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Shouryuuken",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Tatsumaki Senpuukyaku",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Kuuchuu Tatsumaki Senpuukyaku",
+          "type": "special",
+          "notation": "{air}{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Joudan Sokutou Geri",
+          "type": "special",
+          "notation": "{hcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "I   Shinkuu Hadouken",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p} (x2 meter)",
+          "notes": ""
+        },
+        {
+          "name": "II  Shin Shouryuuken",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p} (x1 meter)",
+          "notes": ""
+        },
+        {
+          "name": "III Denjin Hadouken",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}, hold {p} to charge (x1 meter)",
+          "notes": ""
+        }
+      ],
+      "id": "ryu",
+      "image": "images/Portrait_SF3-3_Ryu.png"
+    },
+    {
+      "name": "Sean",
+      "moves": [
+        {
+          "name": "Seoi Throw",
+          "type": "special",
+          "notation": "({forward})+{lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Tomoe Throw",
+          "type": "special",
+          "notation": "{back}+{lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Straight",
+          "type": "special",
+          "notation": "{mp}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Rolling Sobat",
+          "type": "special",
+          "notation": "{forward}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Sean Pachiki",
+          "type": "special",
+          "notation": "{forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Sean Tackle",
+          "type": "special",
+          "notation": "{hcf}+{p}, hold {p} to tackle",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Dragon Smash",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Tornado",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Ryuubi Kyaku",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Zenten",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "I   Hadou Burst",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p} (x3 meter)",
+          "notes": ""
+        },
+        {
+          "name": "II  Shoryuu Cannon",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}, {tap} {p} (x2 meter)",
+          "notes": ""
+        },
+        {
+          "name": "III Hyper Tornado",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p} (x1 meter)",
+          "notes": ""
+        }
+      ],
+      "id": "sean",
+      "image": "images/Portrait_SF3-3_Sean.png"
+    },
+    {
+      "name": "Twelve",
+      "moves": [
+        {
+          "name": "H.U.G.",
+          "type": "special",
+          "notation": "{lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "F.L.G.",
+          "type": "special",
+          "notation": "{forward}+{lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "T.R.W.",
+          "type": "special",
+          "notation": "{back}+{lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "J.S.P.",
+          "type": "special",
+          "notation": "{mp}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "B.M.K.",
+          "type": "special",
+          "notation": "{back}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Air Dash",
+          "type": "special",
+          "notation": "{air}{back}{back} or {forward}{forward}",
+          "notes": ""
+        },
+        {
+          "name": "__Wall Bounce",
+          "type": "special",
+          "notation": "{back} (Near wall during Air Dash)",
+          "notes": ""
+        },
+        {
+          "name": "(EX) N.D.L.",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) A.X.E.",
+          "type": "special",
+          "notation": "{air}{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) D.R.A.",
+          "type": "special",
+          "notation": "{air}{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "I   X.N.D.L.",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p} (x2 meter)",
+          "notes": ""
+        },
+        {
+          "name": "II  X.F.L.A.T.",
+          "type": "special",
+          "notation": "{air}{qcf}{qcf}+{k} (x1 meter)",
+          "notes": ""
+        },
+        {
+          "name": "III X.C.O.P.Y.",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p} (x1 meter)",
+          "notes": ""
+        }
+      ],
+      "id": "twelve",
+      "image": "images/Portrait_SF3-3_TWELVE.png"
+    },
+    {
+      "name": "Urien",
+      "moves": [
+        {
+          "name": "Destroy Claw",
+          "type": "special",
+          "notation": "{lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Spartan Bomb",
+          "type": "special",
+          "notation": "{back} or {forward}+{lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Elbow",
+          "type": "special",
+          "notation": "{mp}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Quarrel Punch",
+          "type": "special",
+          "notation": "{forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Quarrel Kick",
+          "type": "special",
+          "notation": "{forward}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Terrible Smash",
+          "type": "special",
+          "notation": "{forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Metallic Sphere",
+          "type": "special",
+          "notation": "{qcf}+{p} (hold {p} to delay)",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Chariot Tackle",
+          "type": "special",
+          "notation": "{charge_back_forward}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Violence Knee Drop",
+          "type": "special",
+          "notation": "{charge_down_up}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Dangerous Headbutt",
+          "type": "special",
+          "notation": "{charge_down_up}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "I   Tyrant Slaughter",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p} (x2 meter)",
+          "notes": ""
+        },
+        {
+          "name": "II  Temporal Thunder",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p} (x2 meter)",
+          "notes": ""
+        },
+        {
+          "name": "III Aegis Reflector",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p} or {pp}(x2 meter)",
+          "notes": ""
+        }
+      ],
+      "id": "urien",
+      "image": "images/Portrait_SF3-3_Urien.png"
+    },
+    {
+      "name": "Yang",
+      "moves": [
+        {
+          "name": "Hiza Geri",
+          "type": "special",
+          "notation": "{lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Youhon Shium",
+          "type": "special",
+          "notation": "{forward}+{lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Monkey Flip",
+          "type": "special",
+          "notation": "{back}+{lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Toukuu Koushu",
+          "type": "special",
+          "notation": "{mp}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Raigeki Shuu",
+          "type": "special",
+          "notation": "{air} {down_forward}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Senpuu Kyaku",
+          "type": "special",
+          "notation": "{forward}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Koushu",
+          "type": "special",
+          "notation": "close, {forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Tourou Zan",
+          "type": "special",
+          "notation": "{qcf}+{p} (perform 3 times) (EX is performed 5 times)",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Senkyuutai",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Byakko Soushouda",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Fake Byakko Soushouda",
+          "type": "special",
+          "notation": "{qcb}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Zenpou Tenshin",
+          "type": "special",
+          "notation": "close, {hcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Kaihou",
+          "type": "special",
+          "notation": "{dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "I   Raishin Mahha Ken",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p} (x1 meter)",
+          "notes": ""
+        },
+        {
+          "name": "II  Tenshin Senkyuutai",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{k} (x2 meter)",
+          "notes": ""
+        },
+        {
+          "name": "III Sei'ei Enbu",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p} (x1 meter)",
+          "notes": ""
+        }
+      ],
+      "id": "yang",
+      "image": "images/Portrait_SF3-3_Yang.png"
+    },
+    {
+      "name": "Yun",
+      "moves": [
+        {
+          "name": "Hiza Geri",
+          "type": "special",
+          "notation": "{lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Monkey Flip",
+          "type": "special",
+          "notation": "{back} or {forward}+{lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Gekihou Sui",
+          "type": "special",
+          "notation": "{mp}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Raigeki Shuu",
+          "type": "special",
+          "notation": "{air} {down_forward}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Senpuu Kyaku",
+          "type": "special",
+          "notation": "{forward}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Dakai",
+          "type": "special",
+          "notation": "{forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Zesshou Hohou",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Kobokushi",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Fake Kobokushi",
+          "type": "special",
+          "notation": "{qcb}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Tetsuzan Kou",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "(EX) Nishou Kyaku",
+          "type": "special",
+          "notation": "{dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Zenpou Tenshin",
+          "type": "special",
+          "notation": "close, {hcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "I   Youhou",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p} (x1 meter)",
+          "notes": ""
+        },
+        {
+          "name": "II  Sourai Rengeki",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p} (x3 meter)",
+          "notes": ""
+        },
+        {
+          "name": "III Gen'ei Jin",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p} (x1 meter)",
+          "notes": ""
+        }
+      ],
+      "id": "yun",
+      "image": "images/Portrait_SF3-3_Yun.png"
+    }
+  ]
+}

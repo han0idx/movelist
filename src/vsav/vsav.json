@@ -1,0 +1,1873 @@
+{
+  "name": "vsav",
+  "title": "Vampire Savior",
+  "image": "images/Vampire_Savior_logo.png",
+  "characters": [
+    {
+      "name": "Anakaris",
+      "moves": [
+        {
+          "name": "Reverse Warp",
+          "type": "special",
+          "notation": "{back}{back} when against the wall",
+          "notes": ""
+        },
+        {
+          "name": "Suichoku Fuyuu",
+          "type": "special",
+          "notation": "{up} , {up}",
+          "notes": ""
+        },
+        {
+          "name": "__Controls",
+          "type": "special",
+          "notation": "move with {back} or {forward}, cancel with {down}",
+          "notes": ""
+        },
+        {
+          "name": "Naname Fuyuu",
+          "type": "special",
+          "notation": "{up_back} or {up_forward}",
+          "notes": ""
+        },
+        {
+          "name": "__Nidan Tobi",
+          "type": "special",
+          "notation": "{up_back} , {up} or {up_forward} during Naname Fuyuu",
+          "notes": ""
+        },
+        {
+          "name": "__Sandan Tobi",
+          "type": "special",
+          "notation": "{up_back} , {up} or {up_forward} during Nidan Tobi",
+          "notes": ""
+        },
+        {
+          "name": "__Seinaru Bohi",
+          "type": "special",
+          "notation": "{down}+{k} during Diagonal Jump",
+          "notes": ""
+        },
+        {
+          "name": "__Ooinaru Bohi",
+          "type": "special",
+          "notation": "{down_forward}+{k} during Diagonal Jump",
+          "notes": ""
+        },
+        {
+          "name": "Seija no Ayumi",
+          "type": "special",
+          "notation": "{back} or {forward}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Chi no Gekirin",
+          "type": "special",
+          "notation": "{back} or {forward}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Imashime no Bohi",
+          "type": "special",
+          "notation": "{up}+{p} or {k} while opponent is downed",
+          "notes": ""
+        },
+        {
+          "name": "Kotodama Gaeshi (Suu)",
+          "type": "special",
+          "notation": "{air} {qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Kotodama Gaeshi (Haku)",
+          "type": "special",
+          "notation": "{air} {qcf}+{k} after Kotodama Gaeshi (Suu)",
+          "notes": ""
+        },
+        {
+          "name": "Hitsugi no Mai",
+          "type": "special",
+          "notation": "{air} {down}{down}+{p} or {k}",
+          "notes": ""
+        },
+        {
+          "name": "Ouke no Sabaki",
+          "type": "special",
+          "notation": "{air} {qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Cobra Blow",
+          "type": "special",
+          "notation": "{back_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Miira Drop",
+          "type": "special",
+          "notation": "{qcf}+{p} ({tap} {360} and/or {p})",
+          "notes": ""
+        },
+        {
+          "name": "Togame no Ana",
+          "type": "special",
+          "notation": "{dp}+{k} while knocked down",
+          "notes": ""
+        },
+        {
+          "name": "Shinjitsu no Oshie",
+          "type": "special",
+          "notation": "{dp}+{pp} while blocking",
+          "notes": ""
+        },
+        {
+          "name": "Naraku no Ana",
+          "type": "special",
+          "notation": "{hcf}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Pharaoh Magic",
+          "type": "special",
+          "notation": "{air} {mk} {lp} {down} {lk} {mp}",
+          "notes": ""
+        },
+        {
+          "name": "Yajuu Mahou: Pharaoh Salvation",
+          "type": "special",
+          "notation": "{air} {hk} {mp} {down} {mk} {hp} , requires 2 levels",
+          "notes": ""
+        },
+        {
+          "name": "Bijo Mahou: Pharaoh Decoration",
+          "type": "special",
+          "notation": "{air} {hk} {mp} {lk} {down} {lp} {mk} {hp} , requires 3 levels",
+          "notes": ""
+        },
+        {
+          "name": "Bunri Kougeki: Pharaoh Split",
+          "type": "special",
+          "notation": "{p}+{k} of the same strength",
+          "notes": ""
+        },
+        {
+          "name": "__Hitsugi no Mai",
+          "type": "special",
+          "notation": "{down}{down}+{p} or {k}",
+          "notes": ""
+        }
+      ],
+      "id": "anakaris",
+      "image": "images/Portrait_VSAV_Anakaris.png"
+    },
+    {
+      "name": "B.B. Hood",
+      "moves": [
+        {
+          "name": "Nidan Tobi",
+          "type": "special",
+          "notation": "{air} {up_back} , {up} or {up_forward}",
+          "notes": ""
+        },
+        {
+          "name": "Hold & Cut",
+          "type": "special",
+          "notation": "{back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Catch & Cut",
+          "type": "special",
+          "notation": "{air} {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Stumble & Blade",
+          "type": "special",
+          "notation": "{back} or {forward}+{mp} during a dash",
+          "notes": ""
+        },
+        {
+          "name": "Surprise & Hop",
+          "type": "special",
+          "notation": "{back} or {forward}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Malice & Mine",
+          "type": "special",
+          "notation": "{down_forward}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Tell Me Why",
+          "type": "special",
+          "notation": "{down}+{kkk}",
+          "notes": ""
+        },
+        {
+          "name": "Tricky Basket",
+          "type": "special",
+          "notation": "{back} or {forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Law of the Bullet",
+          "type": "special",
+          "notation": "{up}+{p} or {k} while opponent is downed",
+          "notes": ""
+        },
+        {
+          "name": "Smile & Missile",
+          "type": "special",
+          "notation": "{charge_back_forward}+{p} or {k}",
+          "notes": ""
+        },
+        {
+          "name": "Happy & Missile",
+          "type": "special",
+          "notation": "{charge_down_up}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Cheer & Fire",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Shyness & Strike",
+          "type": "special",
+          "notation": "{qcb}+{p} (hold and release)",
+          "notes": ""
+        },
+        {
+          "name": "Sentimental Typhoon",
+          "type": "special",
+          "notation": "{hcb}+{mp} or {hp} , close",
+          "notes": ""
+        },
+        {
+          "name": "Jealousy & Fake",
+          "type": "special",
+          "notation": "{dp}+{k} while blocking",
+          "notes": ""
+        },
+        {
+          "name": "Cool Hunting",
+          "type": "special",
+          "notation": "{hcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Beautiful Memory",
+          "type": "special",
+          "notation": "{hcf}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Apple For You",
+          "type": "special",
+          "notation": "{hcb}+{kk} , close",
+          "notes": ""
+        },
+        {
+          "name": "Bazooka Ransha: The Killing Time",
+          "type": "special",
+          "notation": "{p}+{k} of the same strength",
+          "notes": ""
+        }
+      ],
+      "id": "bb_hood",
+      "image": "images/Portrait_VSAV_BBHood.png"
+    },
+    {
+      "name": "Bishamon",
+      "moves": [
+        {
+          "name": "Kesa Nage",
+          "type": "special",
+          "notation": "{back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Mitama Nuki",
+          "type": "special",
+          "notation": "{air} {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Shikabanenui",
+          "type": "special",
+          "notation": "{up}+{p} or {k} while opponent is downed",
+          "notes": ""
+        },
+        {
+          "name": "Alternate Attacks",
+          "type": "special",
+          "notation": "{forward}+{p} or {k}",
+          "notes": ""
+        },
+        {
+          "name": "Kien Zan",
+          "type": "special",
+          "notation": "{dp}+{p} , reversal (can be done after Tama Yose)",
+          "notes": ""
+        },
+        {
+          "name": "Karame Dama",
+          "type": "special",
+          "notation": "{air} {hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "__Tama Yose",
+          "type": "special",
+          "notation": "{back}+{p} during Karame Dama",
+          "notes": ""
+        },
+        {
+          "name": "__Tsuji Hayate",
+          "type": "special",
+          "notation": "{qcf}+{p} during Karame Dama",
+          "notes": ""
+        },
+        {
+          "name": "Kirisute Gomen",
+          "type": "special",
+          "notation": "{360}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Iaigiri",
+          "type": "special",
+          "notation": "{charge_back_forward}+{p} or {k}",
+          "notes": ""
+        },
+        {
+          "name": "Oni Kubi Hineri",
+          "type": "special",
+          "notation": "{hcb}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Enma Ishi",
+          "type": "special",
+          "notation": "{hcf}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Togakubi Sarashi",
+          "type": "special",
+          "notation": "{down}{down}+{pp} , must be done after a knockdown",
+          "notes": ""
+        },
+        {
+          "name": "Kyouka Yoroi: Kogane Katabira",
+          "type": "special",
+          "notation": "{p}+{k} of the same strength",
+          "notes": ""
+        }
+      ],
+      "id": "bishamon",
+      "image": "images/Portrait_VSAV_Bishamon.png"
+    },
+    {
+      "name": "Demitri Maximoff",
+      "moves": [
+        {
+          "name": "Bat Dive",
+          "type": "special",
+          "notation": "{back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Light Pleasure",
+          "type": "special",
+          "notation": "{back} or {forward}+{mk} or {hk} ({tap} {360} and/or {k})",
+          "notes": ""
+        },
+        {
+          "name": "Demon Fly",
+          "type": "special",
+          "notation": "{air} {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Hell Ride",
+          "type": "special",
+          "notation": "{up}+{p} or {k} while opponent is downed",
+          "notes": ""
+        },
+        {
+          "name": "Chaos Flare",
+          "type": "special",
+          "notation": "{air} {qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Demon Cradle",
+          "type": "special",
+          "notation": "{dp}+{p} (during a dash)",
+          "notes": ""
+        },
+        {
+          "name": "Bat Spin",
+          "type": "special",
+          "notation": "{air} {qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Negative Stolen",
+          "type": "special",
+          "notation": "{360}+{mp} or {hp}, close",
+          "notes": ""
+        },
+        {
+          "name": "Midnight Bliss",
+          "type": "special",
+          "notation": "{neutral}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Demon Blast",
+          "type": "special",
+          "notation": "{neutral}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Midnight Pleasure",
+          "type": "special",
+          "notation": "{lp} {mp} {forward} {mk} {mk}",
+          "notes": ""
+        },
+        {
+          "name": "Koumori Shoukan: Darkside Master",
+          "type": "special",
+          "notation": "{p}+{k} of the same strength",
+          "notes": ""
+        }
+      ],
+      "id": "demitri_maximoff",
+      "image": "images/Portrait_VSAV_Demitri.png"
+    },
+    {
+      "name": "Felicia",
+      "moves": [
+        {
+          "name": "Head Ride",
+          "type": "special",
+          "notation": "Jump on top of opponent's head",
+          "notes": ""
+        },
+        {
+          "name": "Sankaku Tobi",
+          "type": "special",
+          "notation": "Jump against the wall, press in opposite direction",
+          "notes": ""
+        },
+        {
+          "name": "Wall Clutch",
+          "type": "special",
+          "notation": "hold {back} when jumping to the wall",
+          "notes": ""
+        },
+        {
+          "name": "Wall Slide",
+          "type": "special",
+          "notation": "hold {down_back} when jumping to the wall",
+          "notes": ""
+        },
+        {
+          "name": "Panic Nail",
+          "type": "special",
+          "notation": "{back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Tumble Cat",
+          "type": "special",
+          "notation": "{back} or {forward}+{mk} or {hk}",
+          "notes": ""
+        },
+        {
+          "name": "Flip Cat",
+          "type": "special",
+          "notation": "{air} {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "EX Charge",
+          "type": "special",
+          "notation": "{down}{down}+{kk} , hold and release",
+          "notes": ""
+        },
+        {
+          "name": "Toy Touch",
+          "type": "special",
+          "notation": "{down}{down}+{p} on downed opponent",
+          "notes": ""
+        },
+        {
+          "name": "Romper Cat",
+          "type": "special",
+          "notation": "{up}+{p} or {k} while opponent is downed",
+          "notes": ""
+        },
+        {
+          "name": "Rolling Buckler",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "__Rolling Uppercut",
+          "type": "special",
+          "notation": "{p} during Rolling Buckler",
+          "notes": ""
+        },
+        {
+          "name": "Delta Kick",
+          "type": "special",
+          "notation": "{dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Hell Cat",
+          "type": "special",
+          "notation": "{hcb}+{mk} or {hk}, close",
+          "notes": ""
+        },
+        {
+          "name": "Cat Spike",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Dancing Flash",
+          "type": "special",
+          "notation": "{hcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Please Help Me!",
+          "type": "special",
+          "notation": "{hcf}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Cat Helper: Kitty's Helper",
+          "type": "special",
+          "notation": "{p}+{k} of the same strength",
+          "notes": ""
+        }
+      ],
+      "id": "felicia",
+      "image": "images/Portrait_VSAV_Felicia.png"
+    },
+    {
+      "name": "Hsien-Ko",
+      "moves": [
+        {
+          "name": "Endless Friendship",
+          "type": "special",
+          "notation": "{start} , hold and release",
+          "notes": ""
+        },
+        {
+          "name": "Hourei",
+          "type": "special",
+          "notation": "{back} or {forward}+{mp}/{hp}/{mk}/{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Houten",
+          "type": "special",
+          "notation": "{air} {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Air Walk",
+          "type": "special",
+          "notation": "{air} {back}{back} or {forward}{forward}",
+          "notes": ""
+        },
+        {
+          "name": "Disappearing Walk",
+          "type": "special",
+          "notation": "{forward}{forward} , hold {forward}",
+          "notes": ""
+        },
+        {
+          "name": "Rantetsu",
+          "type": "special",
+          "notation": "{forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Edoga",
+          "type": "special",
+          "notation": "{forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Zanpa",
+          "type": "special",
+          "notation": "{up}+{p} or {k} while opponent is downed",
+          "notes": ""
+        },
+        {
+          "name": "Anki Hou",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Henkyou Ki",
+          "type": "special",
+          "notation": "{air} {qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Senpuu Bu",
+          "type": "special",
+          "notation": "{air} {dp}+{p} , (cancel with {k})",
+          "notes": ""
+        },
+        {
+          "name": "Houten Geki",
+          "type": "special",
+          "notation": "{hcb}+{mp} or {hp} , close",
+          "notes": ""
+        },
+        {
+          "name": "Tenrai Ha",
+          "type": "special",
+          "notation": "{lk} {hk} {mp} {mp} {up}",
+          "notes": ""
+        },
+        {
+          "name": "Chireitou",
+          "type": "special",
+          "notation": "{hcf}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Chuukadan",
+          "type": "special",
+          "notation": "{hcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Daibakusou: Rimoukon",
+          "type": "special",
+          "notation": "{p}+{k} of the same strength",
+          "notes": ""
+        }
+      ],
+      "id": "hsien-ko",
+      "image": "images/Portrait_VSAV_Hsien-Ko.png"
+    },
+    {
+      "name": "Jedah Dohma",
+      "moves": [
+        {
+          "name": "Sange=Vanjerono",
+          "type": "special",
+          "notation": "{back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Masto=Spinta",
+          "type": "special",
+          "notation": "{air} {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Balzo=Perdono",
+          "type": "special",
+          "notation": "{air} {forward}{forward}",
+          "notes": ""
+        },
+        {
+          "name": "Rasare=Sega",
+          "type": "special",
+          "notation": "{up}+{p} or {k} while opponent is downed",
+          "notes": ""
+        },
+        {
+          "name": "Dio=Sega",
+          "type": "special",
+          "notation": "{air} {qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Nero=Fatica",
+          "type": "special",
+          "notation": "{qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Ira=Spinta",
+          "type": "special",
+          "notation": "{air} {hcb}+{k} (at start hold {back} or {forward})",
+          "notes": ""
+        },
+        {
+          "name": "__Ira=Piano",
+          "type": "special",
+          "notation": "{p} during Ira=Spinta (at start hold {back} or {forward})",
+          "notes": ""
+        },
+        {
+          "name": "San=Passare",
+          "type": "special",
+          "notation": "{hcb}+{mk} or {hk} , close",
+          "notes": ""
+        },
+        {
+          "name": "Spreggio",
+          "type": "special",
+          "notation": "{dp}+{p} while blocking",
+          "notes": ""
+        },
+        {
+          "name": "Finale=Rosso",
+          "type": "special",
+          "notation": "{down}{down}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Prova=di=Servo",
+          "type": "special",
+          "notation": "{hcf}+{kk} , then {k}",
+          "notes": ""
+        },
+        {
+          "name": "Kuuchuu Fuyuu: Santuario",
+          "type": "special",
+          "notation": "{p}+{k} of the same strength",
+          "notes": ""
+        }
+      ],
+      "id": "jedah_dohma",
+      "image": "images/Portrait_VSAV_Jedah.png"
+    },
+    {
+      "name": "Jon Talbain",
+      "moves": [
+        {
+          "name": "Dash Cancel",
+          "type": "special",
+          "notation": "{back} during Dash",
+          "notes": ""
+        },
+        {
+          "name": "Rapid Crunch",
+          "type": "special",
+          "notation": "{back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Canyon Rounder",
+          "type": "special",
+          "notation": "{back} or {forward}+{mk} or {hk}",
+          "notes": ""
+        },
+        {
+          "name": "Canyon Flyer",
+          "type": "special",
+          "notation": "{air} {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Sadness Wind",
+          "type": "special",
+          "notation": "{forward}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Quick Hop",
+          "type": "special",
+          "notation": "{down}+{kkk}",
+          "notes": ""
+        },
+        {
+          "name": "Strike Wolf",
+          "type": "special",
+          "notation": "{up}+{p} or {k} while opponent is downed",
+          "notes": ""
+        },
+        {
+          "name": "Beast Cannon (Forward/Rising)",
+          "type": "special",
+          "notation": "{air} {qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Beast Cannon (Diving)",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "__Beast Cannon (Direction Change)",
+          "type": "special",
+          "notation": "any direction+{p} during any Beast Cannon (x4 during)",
+          "notes": ""
+        },
+        {
+          "name": "Climb Laser",
+          "type": "special",
+          "notation": "{down_up}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Million Flicker",
+          "type": "special",
+          "notation": "{qcb}+{p} ({tap} {p})",
+          "notes": ""
+        },
+        {
+          "name": "Wild Circular",
+          "type": "special",
+          "notation": "{hcb}+{mk} or {hk} , close",
+          "notes": ""
+        },
+        {
+          "name": "Dragon Cannon",
+          "type": "special",
+          "notation": "{hcf}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Moment Slice",
+          "type": "special",
+          "notation": "{lp} {mp} {forward} {lk} {mk}",
+          "notes": ""
+        },
+        {
+          "name": "Zanzou Kougeki: Mirage Body",
+          "type": "special",
+          "notation": "{p}+{k} of the same strength",
+          "notes": ""
+        }
+      ],
+      "id": "jon_talbain",
+      "image": "images/Portrait_VSAV_Talbain.png"
+    },
+    {
+      "name": "Lilith",
+      "moves": [
+        {
+          "name": "High Jump",
+          "type": "special",
+          "notation": "{down}{up_back} , {down_up} or {down}{up_forward}",
+          "notes": ""
+        },
+        {
+          "name": "Innocent Hug",
+          "type": "special",
+          "notation": "{back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Childish Drop",
+          "type": "special",
+          "notation": "{air} {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Toe Pierce",
+          "type": "special",
+          "notation": "{up}+{p} or {k} while opponent is downed",
+          "notes": ""
+        },
+        {
+          "name": "Soul Flash",
+          "type": "special",
+          "notation": "{air} {qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Shining Blade",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Merry Turn",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Mystic Arrow",
+          "type": "special",
+          "notation": "{hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Splendor Love",
+          "type": "special",
+          "notation": "{dp}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Luminous Illusion",
+          "type": "special",
+          "notation": "{air} {lp} {lp} {forward} {lk} {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Gloomy Puppet Show",
+          "type": "special",
+          "notation": "{hcf}+{kk} , requires 2 levels",
+          "notes": ""
+        },
+        {
+          "name": "Bunshin Kougeki 1: Mimic Doll",
+          "type": "special",
+          "notation": "{lp}+{lk} or {mp}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Bunshin Kougeki 2: Mirror Doll",
+          "type": "special",
+          "notation": "{hp}+{hk}",
+          "notes": ""
+        }
+      ],
+      "id": "lilith",
+      "image": "images/Portrait_VSAV_Lilith.png"
+    },
+    {
+      "name": "Lord Raptor",
+      "moves": [
+        {
+          "name": "Crouch Walk",
+          "type": "special",
+          "notation": "hold {down_back} or {down_forward}",
+          "notes": ""
+        },
+        {
+          "name": "Air Dash",
+          "type": "special",
+          "notation": "{air} {back}{back} or {forward}{forward}",
+          "notes": ""
+        },
+        {
+          "name": "Murder Beat",
+          "type": "special",
+          "notation": "{back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Deadly Catapult",
+          "type": "special",
+          "notation": "{back} or {forward}+{mk} or {hk}",
+          "notes": ""
+        },
+        {
+          "name": "Air Catastrophe",
+          "type": "special",
+          "notation": "{air} {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Alternate Attacks",
+          "type": "special",
+          "notation": "{forward}+{p} or {k}",
+          "notes": ""
+        },
+        {
+          "name": "Aerial Punches",
+          "type": "special",
+          "notation": "{air} {down}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Death Drill",
+          "type": "special",
+          "notation": "{air} {down}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Skull Javelin",
+          "type": "special",
+          "notation": "{up}+{p} or {k} while opponent is downed",
+          "notes": ""
+        },
+        {
+          "name": "Death Hurricane",
+          "type": "special",
+          "notation": "{air} {qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Skull Sting",
+          "type": "special",
+          "notation": "{air} {down_up}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Skull Punish",
+          "type": "special",
+          "notation": "{hcb}+{mp} or {hp} , close",
+          "notes": ""
+        },
+        {
+          "name": "Hell's Gate",
+          "type": "special",
+          "notation": "{hcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Death Phrase",
+          "type": "special",
+          "notation": "{dp}+{k} while blocking",
+          "notes": ""
+        },
+        {
+          "name": "Evil Scream",
+          "type": "special",
+          "notation": "{forward_back}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Death Voltage",
+          "type": "special",
+          "notation": "{air} {hcb}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Hell Dunk",
+          "type": "special",
+          "notation": "{dp}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Saishuu Keitai: Ultimate Undead",
+          "type": "special",
+          "notation": "{p}+{k} of the same strength",
+          "notes": ""
+        },
+        {
+          "name": "__Ultimate Revenge",
+          "type": "special",
+          "notation": "{dp}+{k} while blocking",
+          "notes": ""
+        }
+      ],
+      "id": "lord_raptor",
+      "image": "images/Portrait_VSAV_Lord_Raptor.png"
+    },
+    {
+      "name": "Morrigan Aensland",
+      "moves": [
+        {
+          "name": "Flying Dash",
+          "type": "special",
+          "notation": "{back}{back} or {forward}{forward}",
+          "notes": ""
+        },
+        {
+          "name": "__Vertical Dash Flying",
+          "type": "special",
+          "notation": "hold {up} during Flying Dash",
+          "notes": ""
+        },
+        {
+          "name": "Vertical Dash Straight",
+          "type": "special",
+          "notation": "{down_up}",
+          "notes": ""
+        },
+        {
+          "name": "Vertical Dash Forward",
+          "type": "special",
+          "notation": "{down_up} or {down}{up_forward} (hold {forward})",
+          "notes": ""
+        },
+        {
+          "name": "Vertical Dash Backward",
+          "type": "special",
+          "notation": "{down}{up_back} (hold {back})",
+          "notes": ""
+        },
+        {
+          "name": "Moon Tracer",
+          "type": "special",
+          "notation": "{back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Breast Anguish",
+          "type": "special",
+          "notation": "{back} or {forward}+{mk} or {hk}",
+          "notes": ""
+        },
+        {
+          "name": "Sexual Embrace",
+          "type": "special",
+          "notation": "{air} {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Shell Pierce",
+          "type": "special",
+          "notation": "{up}+{p} or {k} while opponent is downed",
+          "notes": ""
+        },
+        {
+          "name": "Soul Fist",
+          "type": "special",
+          "notation": "{air} {qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Shadow Blade",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Vector Drain",
+          "type": "special",
+          "notation": "{hcb}+{mp} or {hp} , close",
+          "notes": ""
+        },
+        {
+          "name": "Darkness Illusion",
+          "type": "special",
+          "notation": "{air} {lp} {lp} {forward} {lk} {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Valkyrie Turn",
+          "type": "special",
+          "notation": "{air} {hcb}+{k} (press {p} or {k} for attack)",
+          "notes": ""
+        },
+        {
+          "name": "Finishing Shower",
+          "type": "special",
+          "notation": "{mp} {lp} {back} {lk} {mk} (direct with joystick)",
+          "notes": ""
+        },
+        {
+          "name": "Cryptic Needle",
+          "type": "special",
+          "notation": "{forward} {hp} {mp} {lp} {forward}",
+          "notes": ""
+        },
+        {
+          "name": "Bunshin Kougeki: Astral Vision",
+          "type": "special",
+          "notation": "{p}+{k} of the same strength",
+          "notes": ""
+        }
+      ],
+      "id": "morrigan_aensland",
+      "image": "images/Portrait_VSAV_Morrigan.png"
+    },
+    {
+      "name": "Q-Bee",
+      "moves": [
+        {
+          "name": "Float",
+          "type": "special",
+          "notation": "{air} hold {up}",
+          "notes": ""
+        },
+        {
+          "name": "Homing Dash",
+          "type": "special",
+          "notation": "{air} {forward}{forward}",
+          "notes": ""
+        },
+        {
+          "name": "Cn",
+          "type": "special",
+          "notation": "{back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Ca",
+          "type": "special",
+          "notation": "{air} {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "SU",
+          "type": "special",
+          "notation": "{up}+{p} or {k} while opponent is downed",
+          "notes": ""
+        },
+        {
+          "name": "S×p",
+          "type": "special",
+          "notation": "{air} {tap} {k}",
+          "notes": ""
+        },
+        {
+          "name": "C→R",
+          "type": "special",
+          "notation": "{air} {hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "ΔA",
+          "type": "special",
+          "notation": "{air} {qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "O.M.",
+          "type": "special",
+          "notation": "{hcb}+{mp} or {hp}, close",
+          "notes": ""
+        },
+        {
+          "name": "R.M.",
+          "type": "special",
+          "notation": "{dp}+{k} while blocking",
+          "notes": ""
+        },
+        {
+          "name": "Qj",
+          "type": "special",
+          "notation": "{air} {dp}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "+B",
+          "type": "special",
+          "notation": "{air} {hcf}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Kuuchuu Fuyuu: i²",
+          "type": "special",
+          "notation": "{p}+{k} of the same strength",
+          "notes": ""
+        }
+      ],
+      "id": "q-bee",
+      "image": "images/Portrait_VSAV_Q-Bee.png"
+    },
+    {
+      "name": "Rikuo",
+      "moves": [
+        {
+          "name": "Land Fisher",
+          "type": "special",
+          "notation": "{back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Cataract Cry",
+          "type": "special",
+          "notation": "{air} {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Killer Vortex",
+          "type": "special",
+          "notation": "{air} {down}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Spinning Current",
+          "type": "special",
+          "notation": "{forward}{forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Riverside Drop",
+          "type": "special",
+          "notation": "{up}+{p} or {k} while opponent is downed",
+          "notes": ""
+        },
+        {
+          "name": "Trick Fish (Backdash)",
+          "type": "special",
+          "notation": "{back}{back}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Poison Breath",
+          "type": "special",
+          "notation": "{charge_back_forward}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Trick Fish (Motion)",
+          "type": "special",
+          "notation": "{dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Sonic Wave",
+          "type": "special",
+          "notation": "{charge_back_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Crystal Lancer",
+          "type": "special",
+          "notation": "{hcb}+{mp} or {hp} , close",
+          "notes": ""
+        },
+        {
+          "name": "Gem's Anger",
+          "type": "special",
+          "notation": "{hcb}+{mk} or {hk} , close",
+          "notes": ""
+        },
+        {
+          "name": "Aqua Spread",
+          "type": "special",
+          "notation": "{qcd}+{pp} (hold and release)",
+          "notes": ""
+        },
+        {
+          "name": "Aqua Spread (Homing)",
+          "type": "special",
+          "notation": "{qcd}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Sea Rage",
+          "type": "special",
+          "notation": "{hcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Water Jail",
+          "type": "special",
+          "notation": "{dp}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Direct Scissors",
+          "type": "special",
+          "notation": "{down}{down}+{pp} , original colour only, requires 3 levels",
+          "notes": ""
+        },
+        {
+          "name": "Wave Surfing: Ocean Rage",
+          "type": "special",
+          "notation": "{p}+{k} of the same strength",
+          "notes": ""
+        },
+        {
+          "name": "__Controls",
+          "type": "special",
+          "notation": "{kkk} for dismount & mount",
+          "notes": ""
+        }
+      ],
+      "id": "rikuo",
+      "image": "images/Portrait_VSAV_Rikuo.png"
+    },
+    {
+      "name": "Sasquatch",
+      "moves": [
+        {
+          "name": "Big Bomb",
+          "type": "special",
+          "notation": "{back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Big Air",
+          "type": "special",
+          "notation": "{air} {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Big Wheel",
+          "type": "special",
+          "notation": "{up}+{p} or {k} while opponent is downed",
+          "notes": ""
+        },
+        {
+          "name": "Big Typhoon",
+          "type": "special",
+          "notation": "{dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Big Towers",
+          "type": "special",
+          "notation": "{down}{down}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Big Swing",
+          "type": "special",
+          "notation": "{360}+{k} , close",
+          "notes": ""
+        },
+        {
+          "name": "Big Breath",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Big Brunch",
+          "type": "special",
+          "notation": "{hcb}+{mp} or {hp} , close",
+          "notes": ""
+        },
+        {
+          "name": "Big Blow",
+          "type": "special",
+          "notation": "{dp}+{p} (hold and release)",
+          "notes": ""
+        },
+        {
+          "name": "Big Freeze",
+          "type": "special",
+          "notation": "{hcf}+{pp}",
+          "notes": ""
+        },
+        {
+          "name": "Big Ice Burn",
+          "type": "special",
+          "notation": "{hcf}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Big Sledge",
+          "type": "special",
+          "notation": "{360}{360}+{kk} , close",
+          "notes": ""
+        },
+        {
+          "name": "Big Trap",
+          "type": "special",
+          "notation": "{hcf}+{start}",
+          "notes": ""
+        },
+        {
+          "name": "Super Armor: Big Resistor",
+          "type": "special",
+          "notation": "{lp}+{lk} or {mp}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Big Resistor with M.A.P.S.",
+          "type": "special",
+          "notation": "{hp}+{hk} (release with {p})",
+          "notes": ""
+        }
+      ],
+      "id": "sasquatch",
+      "image": "images/Portrait_VSAV_Sasquatch.png"
+    },
+    {
+      "name": "Victor von Gerdenheim",
+      "moves": [
+        {
+          "name": "Mega Strangle",
+          "type": "special",
+          "notation": "{back} or {forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Jaw Slugger",
+          "type": "special",
+          "notation": "{back} or {forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "__Graviton Knuckle",
+          "type": "special",
+          "notation": "{down_up}+{p} before Mega Strangle or Jaw Slugger",
+          "notes": ""
+        },
+        {
+          "name": "Bottom Grip",
+          "type": "special",
+          "notation": "{back} or {forward}+{mk} or {hk}",
+          "notes": ""
+        },
+        {
+          "name": "Mega Throw",
+          "type": "special",
+          "notation": "{air} {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Minimum Step",
+          "type": "special",
+          "notation": "{down}+{kkk}",
+          "notes": ""
+        },
+        {
+          "name": "Double Meteor Knuckle",
+          "type": "special",
+          "notation": "{up_back} or {up_forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Dengeki Touki",
+          "type": "special",
+          "notation": "Press and hold {mp}, {mk}, {hp} or {hk}",
+          "notes": ""
+        },
+        {
+          "name": "Victor Finger",
+          "type": "special",
+          "notation": "{up}+{p} or {k} while opponent is downed",
+          "notes": ""
+        },
+        {
+          "name": "Gyro Crush",
+          "type": "special",
+          "notation": "{qcb}+{p} (move with {back} or {forward})",
+          "notes": ""
+        },
+        {
+          "name": "Mega Stake",
+          "type": "special",
+          "notation": "{charge_down_up}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Giga Burn",
+          "type": "special",
+          "notation": "{dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Mega Forehead",
+          "type": "special",
+          "notation": "{charge_back_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Mega Shock",
+          "type": "special",
+          "notation": "{qcf}+{k} , close",
+          "notes": ""
+        },
+        {
+          "name": "Mega Spike",
+          "type": "special",
+          "notation": "{360}+{p} , close",
+          "notes": ""
+        },
+        {
+          "name": "Thunder Break",
+          "type": "special",
+          "notation": "{charge_down_up}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Gerdenheim 3",
+          "type": "special",
+          "notation": "{360}{360}+{kk} , close",
+          "notes": ""
+        },
+        {
+          "name": "Hyoui Genshou: G. Gerdenheim S",
+          "type": "special",
+          "notation": "{lp}+{lk} or {mp}+{mk} (grab with {p})",
+          "notes": ""
+        },
+        {
+          "name": "Hyoui Genshou: G. Gerdenheim L",
+          "type": "special",
+          "notation": "{hp}+{hk}",
+          "notes": ""
+        }
+      ],
+      "id": "victor_von_gerdenheim",
+      "image": "images/Portrait_VSAV_Victor.png"
+    },
+    {
+      "name": "Donovan Baine (PS/Saturn)",
+      "moves": [
+        {
+          "name": "Sharirum Luna",
+          "type": "special",
+          "notation": "{back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Killshread Surf",
+          "type": "special",
+          "notation": "{air} {down}+{lk} or {mk} with Killshread",
+          "notes": ""
+        },
+        {
+          "name": "Killshread Dive",
+          "type": "special",
+          "notation": "{air} {down}+{hk} with Killshread",
+          "notes": ""
+        },
+        {
+          "name": "Hop Kick",
+          "type": "special",
+          "notation": "{forward}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Foot Stab",
+          "type": "special",
+          "notation": "{up}+{p} or {k} while opponent is downed",
+          "notes": ""
+        },
+        {
+          "name": "Killshread Plant",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "__Killshread Summon",
+          "type": "special",
+          "notation": "{air} {qcb}+{k} during Killshread Plant",
+          "notes": ""
+        },
+        {
+          "name": "__Killshread Lightning",
+          "type": "special",
+          "notation": "{qcb}+{p} during Killshread Plant",
+          "notes": ""
+        },
+        {
+          "name": "Ifrit Sword",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Blizzard Sword",
+          "type": "special",
+          "notation": "{hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Lightning Sword",
+          "type": "special",
+          "notation": "{rdp}+{p} ({tap} {360} and/or {p})",
+          "notes": ""
+        },
+        {
+          "name": "Sword Grapple",
+          "type": "special",
+          "notation": "{hcb}+{mp} or {hp} , close",
+          "notes": ""
+        },
+        {
+          "name": "Press of Death",
+          "type": "special",
+          "notation": "{hcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Change Immortal",
+          "type": "special",
+          "notation": "{mp} {lp} {back} {lk} {mk} (direct with {up} or {down})",
+          "notes": ""
+        },
+        {
+          "name": "Super Killshred: Slay Shred",
+          "type": "special",
+          "notation": "{p}+{k} of the same strength",
+          "notes": ""
+        }
+      ],
+      "id": "donovan_baine_pssaturn",
+      "image": "images/Portrait_VSAV_Donovan.png"
+    },
+    {
+      "name": "Huitzil (PS/Saturn)",
+      "moves": [
+        {
+          "name": "Magnet Slam",
+          "type": "special",
+          "notation": "{back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Sky Capture",
+          "type": "special",
+          "notation": "{air} {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Air Dash",
+          "type": "special",
+          "notation": "{air} {back}{back} or {forward}{forward}",
+          "notes": ""
+        },
+        {
+          "name": "Float",
+          "type": "special",
+          "notation": "{air} hold {up_back} , {up} or {up_forward}",
+          "notes": ""
+        },
+        {
+          "name": "Alternate Attacks",
+          "type": "special",
+          "notation": "{forward}+{p} or {k}",
+          "notes": ""
+        },
+        {
+          "name": "Sitting Attack",
+          "type": "special",
+          "notation": "{up}+{p} or {k} while opponent is downed",
+          "notes": ""
+        },
+        {
+          "name": "Plasma Beam",
+          "type": "special",
+          "notation": "{qcf}+{p} or {k}",
+          "notes": ""
+        },
+        {
+          "name": "Might Launcher",
+          "type": "special",
+          "notation": "{air} {qcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Circuit Scrapper",
+          "type": "special",
+          "notation": "{hcb}+{mp} or {hp} , close",
+          "notes": ""
+        },
+        {
+          "name": "Reflect Wall",
+          "type": "special",
+          "notation": "{air} {dp}+{p} while blocking",
+          "notes": ""
+        },
+        {
+          "name": "Genocide Vulcan",
+          "type": "special",
+          "notation": "{rdp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Plasma Trap",
+          "type": "special",
+          "notation": "{air} {qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Erasing Sphere",
+          "type": "special",
+          "notation": "{rdp}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Final Guardian β",
+          "type": "special",
+          "notation": "{dp}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Option Beam: Ray of Doom",
+          "type": "special",
+          "notation": "{p}+{k} of the same strength",
+          "notes": ""
+        }
+      ],
+      "id": "huitzil_pssaturn",
+      "image": "images/Portrait_VSAV_Huitzil.png"
+    },
+    {
+      "name": "Pyron (PS/Saturn)",
+      "moves": [
+        {
+          "name": "Corona Whip",
+          "type": "special",
+          "notation": "{back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Galactic Throw",
+          "type": "special",
+          "notation": "{air} {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Rushing Punch",
+          "type": "special",
+          "notation": "{air} {forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Diving Punch",
+          "type": "special",
+          "notation": "{air} {down}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Sitting Attack",
+          "type": "special",
+          "notation": "{up}+{p} or {k} while opponent is downed",
+          "notes": ""
+        },
+        {
+          "name": "Sol Smasher",
+          "type": "special",
+          "notation": "{air} {qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Zodiac Fire",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Orbital Blaze",
+          "type": "special",
+          "notation": "{air} {qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Planet Burning",
+          "type": "special",
+          "notation": "{hcb}+{mp} or {hp} , close",
+          "notes": ""
+        },
+        {
+          "name": "Galaxy Trip",
+          "type": "special",
+          "notation": "{air} {rdp}+{p} or {k}",
+          "notes": ""
+        },
+        {
+          "name": "Cosmo Disruption",
+          "type": "special",
+          "notation": "{hcf}+{pp} or {kk} , hold and release",
+          "notes": ""
+        },
+        {
+          "name": "Piled Hell",
+          "type": "special",
+          "notation": "{air} {dp}+{kk}",
+          "notes": ""
+        },
+        {
+          "name": "Bunshin Kougeki: Shining Gemini",
+          "type": "special",
+          "notation": "{p}+{k} of the same strength",
+          "notes": ""
+        }
+      ],
+      "id": "pyron_pssaturn",
+      "image": "images/Portrait_VSAV_Pyron.png"
+    }
+  ]
+}

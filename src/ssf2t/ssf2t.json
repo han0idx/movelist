@@ -1,0 +1,1272 @@
+{
+  "name": "ssf2t",
+  "title": "Super Street Fighter II Turbo",
+  "image": "images/Super_Street_Fighter_II_Turbo_logo.png",
+  "characters": [
+    {
+      "name": "Akuma",
+      "moves": [
+        {
+          "name": "Seoi Nage",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Tomoe Nage",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mk} or {hk}",
+          "notes": ""
+        },
+        {
+          "name": "Gou Hadouken",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Zankuu Hadouken",
+          "type": "special",
+          "notation": "{air}{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Shakunetsu Hadouken",
+          "type": "special",
+          "notation": "{hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Gou Shoryuken",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Tatsumaki Zankuukyaku",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Kuuchuu Tatsumaki Zankuukyaku",
+          "type": "special",
+          "notation": "{air}{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Ashura Senkuu Forward",
+          "type": "special",
+          "notation": "{dp}+{3xpunch} or {kkk}",
+          "notes": ""
+        },
+        {
+          "name": "Ashura Senkuu Backward",
+          "type": "special",
+          "notation": "{rdp}+{3xpunch} or {kkk}",
+          "notes": ""
+        },
+        {
+          "name": "Ashura Senkuu Forward (GBA)",
+          "type": "special",
+          "notation": "{qcf}+{lp}+{lk} or {mp}+{mk} or {hp}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Ashura Senkuu Backward (GBA)",
+          "type": "special",
+          "notation": "{qcb}+{lp}+{lk} or {mp}+{mk} or {hp}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Shun Goku Satsu (GBA and Dreamcast)",
+          "type": "special",
+          "notation": "{lp}{lp} {forward}{lk}{hp}",
+          "notes": ""
+        }
+      ],
+      "id": "akuma",
+      "image": null
+    },
+    {
+      "name": "Balrog",
+      "moves": [
+        {
+          "name": "Head Bomber",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Dash Straight",
+          "type": "special",
+          "notation": "{charge_back_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Dash Upper",
+          "type": "special",
+          "notation": "{charge_back_forward}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Dash Ground Straight",
+          "type": "special",
+          "notation": "{cb}{down_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Dash Ground Upper",
+          "type": "special",
+          "notation": "{cb}{down_forward}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Turn Punch",
+          "type": "special",
+          "notation": "Hold {3xpunch} or {kkk} and release.",
+          "notes": ""
+        },
+        {
+          "name": "Turn Punch (GBA)",
+          "type": "special",
+          "notation": "Hold {lp}+{lk} or {mp}+{mk} or {hp}+{hk} and release.",
+          "notes": ""
+        },
+        {
+          "name": "Buffalo Headbutt",
+          "type": "special",
+          "notation": "{charge_down_up}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Crazy Buffalo",
+          "type": "special",
+          "notation": "{charge_back_forward}{back_forward}+{p} or {k} (hold or release {k})",
+          "notes": ""
+        }
+      ],
+      "id": "balrog",
+      "image": "images/Portrait_SSF2_Balrog.png"
+    },
+    {
+      "name": "Blanka",
+      "moves": [
+        {
+          "name": "Amazon River Run",
+          "type": "special",
+          "notation": "{down_forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Wild Fang",
+          "type": "special",
+          "notation": "close, {back}or{forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Rock Crush",
+          "type": "special",
+          "notation": "close, {back}or{forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Surprise Forward",
+          "type": "special",
+          "notation": "{forward}+{kkk}",
+          "notes": ""
+        },
+        {
+          "name": "Surprise Back",
+          "type": "special",
+          "notation": "{back}+{kkk}",
+          "notes": ""
+        },
+        {
+          "name": "Surprise Forward (GBA)",
+          "type": "special",
+          "notation": "{forward}+{lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Surprise Back (GBA)",
+          "type": "special",
+          "notation": "{back}+{lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Electric Thunder",
+          "type": "special",
+          "notation": "{tap} {p}",
+          "notes": ""
+        },
+        {
+          "name": "Rolling Attack",
+          "type": "special",
+          "notation": "{charge_back_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Backstep Rolling",
+          "type": "special",
+          "notation": "{charge_back_forward}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Vertical Rolling",
+          "type": "special",
+          "notation": "{charge_down_up}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Ground Shave Rolling",
+          "type": "special",
+          "notation": "{charge_back_forward}{back_forward}+{p}, hold {p}",
+          "notes": ""
+        }
+      ],
+      "id": "blanka",
+      "image": "images/Portrait_SSF2_Blanka.png"
+    },
+    {
+      "name": "Cammy",
+      "moves": [
+        {
+          "name": "Hooligan Suplex",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Frankensteiner",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Flying Neck Hunt",
+          "type": "special",
+          "notation": "{air}close, {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Air Frankensteiner",
+          "type": "special",
+          "notation": "{air}close, {back} or {forward}+{mk} or {hk}",
+          "notes": ""
+        },
+        {
+          "name": "Spiral Arrow",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Cannon Spike",
+          "type": "special",
+          "notation": "{dp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Axle Spin Knuckle",
+          "type": "special",
+          "notation": "{back}{down_back}{forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Hooligan Combination",
+          "type": "special",
+          "notation": "{dlhs}+{p}, then {k}",
+          "notes": ""
+        },
+        {
+          "name": "└►Razor Edge Slicer",
+          "type": "special",
+          "notation": "Hooligan Combination, then do nothing and land",
+          "notes": ""
+        },
+        {
+          "name": "└►Fatal Leg Twister",
+          "type": "special",
+          "notation": "Hooligan Combination, then {back} or {forward}+{k} near opponent's head",
+          "notes": ""
+        },
+        {
+          "name": "└►Cross Scissor Pressure",
+          "type": "special",
+          "notation": "Hooligan Combination, then {back} or {forward}+{k} near opponent's body",
+          "notes": ""
+        },
+        {
+          "name": "Spin Drive Smasher",
+          "type": "special",
+          "notation": "{qcf}{down_downforward}+{k}",
+          "notes": ""
+        }
+      ],
+      "id": "cammy",
+      "image": "images/Portrait_SSF2_Cammy.png"
+    },
+    {
+      "name": "Chun-Li",
+      "moves": [
+        {
+          "name": "Sankaku Tobi",
+          "type": "special",
+          "notation": "Jump against a wall, press in opposite direction",
+          "notes": ""
+        },
+        {
+          "name": "Koshuu Tou",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Ryuusei Raku",
+          "type": "special",
+          "notation": "{air}close, {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Kouhou Kaiten Kyaku",
+          "type": "special",
+          "notation": "{down_forward}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Kaku Kyaku Raku",
+          "type": "special",
+          "notation": "{down_forward}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Yousou Kyaku",
+          "type": "special",
+          "notation": "{air}{down}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Kikouken",
+          "type": "special",
+          "notation": "{charge_back_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Spinning Bird Kick",
+          "type": "special",
+          "notation": "{charge_back_forward}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Kuuchuu Spinning Bird Kick",
+          "type": "special",
+          "notation": "{air}{charge_back_forward}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Tenshou Kyaku",
+          "type": "special",
+          "notation": "{charge_down_up}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Hyakuretsu Kyaku",
+          "type": "special",
+          "notation": "{tap} {k}",
+          "notes": ""
+        },
+        {
+          "name": "Senretsu Kyaku",
+          "type": "special",
+          "notation": "{charge_back_forward}{back_forward}+{k}",
+          "notes": ""
+        }
+      ],
+      "id": "chun-li",
+      "image": "images/Portrait_SSF2_ChunLi.png"
+    },
+    {
+      "name": "Dee Jay",
+      "moves": [
+        {
+          "name": "Funky Shout Throw",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Monkey Flip",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Knee Shot",
+          "type": "special",
+          "notation": "{air}{down}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Air Slasher",
+          "type": "special",
+          "notation": "{charge_back_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Double Rolling Sobat",
+          "type": "special",
+          "notation": "{charge_back_forward}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Machine Gun Upper",
+          "type": "special",
+          "notation": "{charge_down_up}+{p}, {tap}{p}",
+          "notes": ""
+        },
+        {
+          "name": "Jackknife Maximum",
+          "type": "special",
+          "notation": "{charge_down_up}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Sobat Carnival",
+          "type": "special",
+          "notation": "{charge_back_forward}{back_forward}+{k}",
+          "notes": ""
+        }
+      ],
+      "id": "dee_jay",
+      "image": "images/Portrait_SSF2_DeeJay.png"
+    },
+    {
+      "name": "Dhalsim",
+      "moves": [
+        {
+          "name": "Yoga Smash",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Yoga Throw",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Drill Headbutt/Yoga Mummy",
+          "type": "special",
+          "notation": "{air}{down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Drill Kick/Yoga Spear",
+          "type": "special",
+          "notation": "{air}{down}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Yoga Fire",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Yoga Flame",
+          "type": "special",
+          "notation": "{hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Yoga Blast",
+          "type": "special",
+          "notation": "{hcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Yoga Teleport Forward",
+          "type": "special",
+          "notation": "{dp}+{3xpunch} or {kkk}",
+          "notes": ""
+        },
+        {
+          "name": "Yoga Teleport Backward",
+          "type": "special",
+          "notation": "{rdp}+{3xpunch} or {kkk}",
+          "notes": ""
+        },
+        {
+          "name": "Yoga Teleport Forward (GBA)",
+          "type": "special",
+          "notation": "{dp}+{p} or {k}",
+          "notes": ""
+        },
+        {
+          "name": "Yoga Teleport Backward (GBA)",
+          "type": "special",
+          "notation": "{rdp}+{p} or {k}",
+          "notes": ""
+        },
+        {
+          "name": "Yoga Inferno",
+          "type": "special",
+          "notation": "{hcf}{hcf}+{p}",
+          "notes": ""
+        }
+      ],
+      "id": "dhalsim",
+      "image": "images/Portrait_SSF2_Dhalsim.png"
+    },
+    {
+      "name": "E. Honda",
+      "moves": [
+        {
+          "name": "Tawara Nage",
+          "type": "special",
+          "notation": "close, {back}or{forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Saba Ori",
+          "type": "special",
+          "notation": "close, {back}or{forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Hiza Geri",
+          "type": "special",
+          "notation": "close, {forward}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Shiko Geri",
+          "type": "special",
+          "notation": "close, {back}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Sekkan Kyaku",
+          "type": "special",
+          "notation": "close, {back}or{forward}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Harai Geri",
+          "type": "special",
+          "notation": "{back}or{forward}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Flying Sumo Press",
+          "type": "special",
+          "notation": "{air}{down}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Hyakuretsu Harite/Hundred Hand Slap",
+          "type": "special",
+          "notation": "{tap} {p}",
+          "notes": ""
+        },
+        {
+          "name": "Super Zutsuki/Sumo Headbutt",
+          "type": "special",
+          "notation": "{charge_back_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Super Hyakkan Otoshi/Sumo Drop",
+          "type": "special",
+          "notation": "{charge_down_up}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Ooichou Nage/Sumo Throw",
+          "type": "special",
+          "notation": "close, {hcb}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Oni Musou",
+          "type": "special",
+          "notation": "{charge_back_forward}{back_forward}+{p}",
+          "notes": ""
+        }
+      ],
+      "id": "e_honda",
+      "image": "images/Portrait_SSF2_EHonda.png"
+    },
+    {
+      "name": "Fei Long",
+      "moves": [
+        {
+          "name": "Gankai Hou",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Shuu Kubi Kari",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Shuu Kubi Raku",
+          "type": "special",
+          "notation": "{air}close, {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Chokka Raku Shou",
+          "type": "special",
+          "notation": "{back}or{forward}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "En Geki Shuu",
+          "type": "special",
+          "notation": "{forward}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Rekka Ken",
+          "type": "special",
+          "notation": "{qcf}+{p} (perform 3 times)",
+          "notes": ""
+        },
+        {
+          "name": "Shien Kyaku",
+          "type": "special",
+          "notation": "{rdp}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Rekku Kyaku",
+          "type": "special",
+          "notation": "{dlhs}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Rekka Shinken",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        }
+      ],
+      "id": "fei_long",
+      "image": "images/Portrait_SSF2_FeiLong.png"
+    },
+    {
+      "name": "Guile",
+      "moves": [
+        {
+          "name": "Judo Throw",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Dragon Suplex",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Flying Mare",
+          "type": "special",
+          "notation": "{air}close, {down}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Flying Buster Drop",
+          "type": "special",
+          "notation": "{air}close, {down}+{mk} or {hk}",
+          "notes": ""
+        },
+        {
+          "name": "Knee Bazooka",
+          "type": "special",
+          "notation": "{back}or{forward}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Rolling Sobat",
+          "type": "special",
+          "notation": "{back}or{forward}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Reverse Spin Kick",
+          "type": "special",
+          "notation": "close, {back}or{forward}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Spinning Back Knuckle",
+          "type": "special",
+          "notation": "{forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Sonic Boom",
+          "type": "special",
+          "notation": "{charge_back_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Somersault Kick",
+          "type": "special",
+          "notation": "{charge_down_up}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Double Somersault",
+          "type": "special",
+          "notation": "{cdb}{delta}+{k}",
+          "notes": ""
+        }
+      ],
+      "id": "guile",
+      "image": "images/Portrait_SSF2_Guile.png"
+    },
+    {
+      "name": "Ken",
+      "moves": [
+        {
+          "name": "Seoi Nage",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Tsukami Nage",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Jigoku Guruma",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Jigoku Fuusha",
+          "type": "special",
+          "notation": "{air}close, {back} or {forward}+{mk} or {hk}",
+          "notes": ""
+        },
+        {
+          "name": "Hadouken",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Shoryuken",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Tatsumaki Senpuukyaku",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Kuuchuu Tatsumaki Senpuukyaku",
+          "type": "special",
+          "notation": "{air}{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Kama Barai Geri",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Nata Otoshi Geri",
+          "type": "special",
+          "notation": "{qcd}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Oosoto Mawashi Geri",
+          "type": "special",
+          "notation": "{hcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Inazuma Kakato Wari",
+          "type": "special",
+          "notation": "Hold {k} during any Geri move.",
+          "notes": ""
+        },
+        {
+          "name": "Shoryureppa",
+          "type": "special",
+          "notation": "{qcf}{down_downforward}+{p}",
+          "notes": ""
+        }
+      ],
+      "id": "ken",
+      "image": "images/Portrait_SSF2_Ken.png"
+    },
+    {
+      "name": "M. Bison",
+      "moves": [
+        {
+          "name": "Deadly Throw",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Psycho Crusher",
+          "type": "special",
+          "notation": "{charge_back_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Double Knee Press",
+          "type": "special",
+          "notation": "{charge_back_forward}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Head Press",
+          "type": "special",
+          "notation": "{charge_down_up}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "└►Somersault Skull Diver",
+          "type": "special",
+          "notation": "Press {p} after Head Press",
+          "notes": ""
+        },
+        {
+          "name": "Devil Reverse",
+          "type": "special",
+          "notation": "{charge_down_up}+{p}, {p}",
+          "notes": ""
+        },
+        {
+          "name": "Knee Press Nightmare",
+          "type": "special",
+          "notation": "{charge_back_forward}{back_forward}+{k}",
+          "notes": ""
+        }
+      ],
+      "id": "m_bison",
+      "image": "images/Portrait_SSF2_MBison.png"
+    },
+    {
+      "name": "Ryu",
+      "moves": [
+        {
+          "name": "Seoi Nage",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Tomoe Nage",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mk} or {hk}",
+          "notes": ""
+        },
+        {
+          "name": "Mid-air uppercut",
+          "type": "special",
+          "notation": "{air} {mp}",
+          "notes": ""
+        },
+        {
+          "name": "Sakotsu Wari",
+          "type": "special",
+          "notation": "{forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Mizoochi Kudaki",
+          "type": "special",
+          "notation": "{forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Hadouken",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Shakunetsu Hadouken",
+          "type": "special",
+          "notation": "{hcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Shoryuken",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Tatsumaki Senpuukyaku",
+          "type": "special",
+          "notation": "{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Kuuchuu Tatsumaki Senpuukyaku",
+          "type": "special",
+          "notation": "{air}{qcb}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Shinkuu Hadouken",
+          "type": "special",
+          "notation": "{qcf}{qcf}+{p}",
+          "notes": ""
+        }
+      ],
+      "id": "ryu",
+      "image": "images/Portrait_SSF2_Ryu.png"
+    },
+    {
+      "name": "Sagat",
+      "moves": [
+        {
+          "name": "Tiger Carry",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Tiger Shot",
+          "type": "special",
+          "notation": "{qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Ground Tiger Shot",
+          "type": "special",
+          "notation": "{qcf}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Tiger Uppercut",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Tiger Knee Crush",
+          "type": "special",
+          "notation": "{qcf}{up_forward}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Tiger Genocide",
+          "type": "special",
+          "notation": "{qcf}{down_downforward}+{p}",
+          "notes": ""
+        }
+      ],
+      "id": "sagat",
+      "image": "images/Portrait_SSF2_Sagat.png"
+    },
+    {
+      "name": "T. Hawk",
+      "moves": [
+        {
+          "name": "Mexican Throw",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Neck Hanging Tree",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Elbow Stomping",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Thrust Peak",
+          "type": "special",
+          "notation": "{back}or{forward}+{lp}",
+          "notes": ""
+        },
+        {
+          "name": "Heavy Shoulder",
+          "type": "special",
+          "notation": "{air}{down}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Heavy Body Press",
+          "type": "special",
+          "notation": "{air}{down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Condor Dive",
+          "type": "special",
+          "notation": "{air} {3xpunch}",
+          "notes": ""
+        },
+        {
+          "name": "Condor Dive (GBA)",
+          "type": "special",
+          "notation": "{air} {qcf}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Tomahawk Buster",
+          "type": "special",
+          "notation": "{dp}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Mexican Typhoon",
+          "type": "special",
+          "notation": "{360}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Double Typhoon",
+          "type": "special",
+          "notation": "{360}{360}+{p}",
+          "notes": ""
+        }
+      ],
+      "id": "t_hawk",
+      "image": "images/Portrait_SSF2_THawk.png"
+    },
+    {
+      "name": "Vega",
+      "moves": [
+        {
+          "name": "Sankaku Tobi",
+          "type": "special",
+          "notation": "Jump against a wall, press in opposite direction",
+          "notes": ""
+        },
+        {
+          "name": "Rainbow Suplex",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Stardust Drop",
+          "type": "special",
+          "notation": "{air}close, {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Back Slash",
+          "type": "special",
+          "notation": "{3xpunch}",
+          "notes": ""
+        },
+        {
+          "name": "Short Back Slash",
+          "type": "special",
+          "notation": "{kkk}",
+          "notes": ""
+        },
+        {
+          "name": "Back Slash (GBA)",
+          "type": "special",
+          "notation": "{hp}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Short Back Slash (GBA)",
+          "type": "special",
+          "notation": "{lp}+{lk}",
+          "notes": ""
+        },
+        {
+          "name": "Rolling Crystal Flash",
+          "type": "special",
+          "notation": "{charge_back_forward}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Flying Barcelona Attack",
+          "type": "special",
+          "notation": "{charge_down_up}+{k}, then {p}",
+          "notes": ""
+        },
+        {
+          "name": "Izuna Drop",
+          "type": "special",
+          "notation": "{charge_down_up}+{k}, then {back}or{forward}+{p} when close.",
+          "notes": ""
+        },
+        {
+          "name": "Sky High Claw",
+          "type": "special",
+          "notation": "{charge_down_up}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Scarlet Terror",
+          "type": "special",
+          "notation": "{cdb}{forward}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Rolling Izuna Drop",
+          "type": "special",
+          "notation": "{cdb}{delta}+{k}then {back}or{forward}+{p} when close.",
+          "notes": ""
+        }
+      ],
+      "id": "vega",
+      "image": "images/Portrait_SSF2_Vega.png"
+    },
+    {
+      "name": "Zangief",
+      "moves": [
+        {
+          "name": "Piledriver",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mp}",
+          "notes": ""
+        },
+        {
+          "name": "Iron Claw",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Brain Buster",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{mk}",
+          "notes": ""
+        },
+        {
+          "name": "Kamitsuki",
+          "type": "special",
+          "notation": "close, {back} or {forward}+{hk}",
+          "notes": ""
+        },
+        {
+          "name": "Deadly Driver",
+          "type": "special",
+          "notation": "{air}close, {back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Leg Throw",
+          "type": "special",
+          "notation": "{air}close, {back} or {forward}+{mk} or {hk}",
+          "notes": ""
+        },
+        {
+          "name": "Stomach Claw",
+          "type": "special",
+          "notation": "close, {down_back} or {down} or {down_forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Flying Body Attack",
+          "type": "special",
+          "notation": "{air}{down}+{hp}",
+          "notes": ""
+        },
+        {
+          "name": "Double Knee Drop",
+          "type": "special",
+          "notation": "{air}{down}+{lk} or {mk}",
+          "notes": ""
+        },
+        {
+          "name": "Headbutt",
+          "type": "special",
+          "notation": "{back} or {forward}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Kuuchuu Headbutt",
+          "type": "special",
+          "notation": "{air}{up}+{mp} or {hp}",
+          "notes": ""
+        },
+        {
+          "name": "Double Lariat",
+          "type": "special",
+          "notation": "{3xpunch} (move {back}or{forward})",
+          "notes": ""
+        },
+        {
+          "name": "Quick Lariat",
+          "type": "special",
+          "notation": "{kkk} (move {back}or{forward})",
+          "notes": ""
+        },
+        {
+          "name": "Double Lariat (GBA)",
+          "type": "special",
+          "notation": "{qcb}+{p} (move {back}or{forward})",
+          "notes": ""
+        },
+        {
+          "name": "Quick Lariat (GBA)",
+          "type": "special",
+          "notation": "{qcb}+{k} (move {back}or{forward})",
+          "notes": ""
+        },
+        {
+          "name": "Screw Piledriver",
+          "type": "special",
+          "notation": "{360}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Flying Powerbomb",
+          "type": "special",
+          "notation": "{360}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Atomic Suplex",
+          "type": "special",
+          "notation": "close, {360}+{k}",
+          "notes": ""
+        },
+        {
+          "name": "Banishing Flat",
+          "type": "special",
+          "notation": "{qcd}+{p}",
+          "notes": ""
+        },
+        {
+          "name": "Final Atomic Buster",
+          "type": "special",
+          "notation": "{360}{360}+{p}",
+          "notes": ""
+        }
+      ],
+      "id": "zangief",
+      "image": "images/Portrait_SSF2_Zangief.png"
+    }
+  ]
+}
