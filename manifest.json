@@ -58,8 +58,8 @@
       "parent": true
     },
     "sfIII3": {
-      "file": "sfIII3.zip",
-      "hash": "93ad2ec9ed3e164f1235462fcde6b1eb9b0448644248e55c0b27809dec40fe18",
+      "file": "sfiii3.zip",
+      "hash": "0068753132099c28f38e7f9c4fdb3a4668b53d5e685d403bc1f66495b55fdb96",
       "parent": false,
       "roms": [
         "sfiii3n",
