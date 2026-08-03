@@ -29,7 +29,8 @@
       "parent": false,
       "roms": [
         "kf2k2mp2",
-        "kf2k2ps2"
+        "kf2k2ps2b",
+        "kf2k2pls"
       ]
     },
     "lb2": {
