@@ -75,6 +75,11 @@
       "file": "wakuwak7.zip",
       "hash": "177df37b6d708e28c73797f7f639adb769e92db1a17f874a5fbb306a2a9b266a",
       "parent": true
+    },
+    "sfiii3": {
+      "file": "sfiii3.zip",
+      "hash": "8cdbff69da24a56845b8fd1ae52188b39e9f2892aadbd6040c84e23281f127a6",
+      "parent": false
     }
   }
 }
