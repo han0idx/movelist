@@ -79,7 +79,11 @@
     "sfiii3": {
       "file": "sfiii3.zip",
       "hash": "8cdbff69da24a56845b8fd1ae52188b39e9f2892aadbd6040c84e23281f127a6",
-      "parent": false
+      "parent": false,
+      "roms": [
+        "sfiii3r1",
+        "sfiii4n"
+      ]
     }
   }
 }
